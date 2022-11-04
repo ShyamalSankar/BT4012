@@ -8,11 +8,11 @@ import numpy as np
 import pandas as pd
 import pickle
 import flask
-from other import ExperimentalTransformer
+from ExperimentalTransformer import ExperimentalTransformer
 
 app = flask.Flask(__name__)
 
-xgb_model = pickle.load(open('03 XGBoost (final).sav','rb'))
+xgb_model = pickle.load(open('./flask/03 XGBoost (final).sav','rb'))
 
 def bot_likelihood(prob):
     if prob < 20:
@@ -144,4 +144,4 @@ def get_user_features(screen_name):
 
 # for local dev
 if __name__ == '__main__':
-    app.run()
+    app.run(port=5001)
