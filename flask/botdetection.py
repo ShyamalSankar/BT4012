@@ -8,11 +8,13 @@ import numpy as np
 import pandas as pd
 import pickle
 import flask
-from ExperimentalTransformer import ExperimentalTransformer
+from other import ExperimentalTransformer
+import shap
 
 app = flask.Flask(__name__)
 
-xgb_model = pickle.load(open('./flask/03 XGBoost (final).sav','rb'))
+xgb_model = pickle.load(open('03 XGBoost (final).sav','rb'))
+shap_explainer = pickle.load(open('shap.sav','rb'))
 
 def bot_likelihood(prob):
     if prob < 20:
@@ -27,7 +29,7 @@ def bot_likelihood(prob):
         return '<span class="has-text-warning">Likely a bot</span>'
     else:
         return '<span class="has-text-danger">Bot</span>'
-
+    
    
 def bot_proba(twitter_handle):
     '''
@@ -60,6 +62,8 @@ def make_prediction():
 
     # make predictions with model from twitter_funcs
     user_lookup_message = f'Prediction for @{handle}'
+    user_features = get_user_features(handle)
+    user = np.matrix(user_features)
     
     if get_user_features(handle) == 'User not found':
         prediction = [f'User @{handle} not found', '']
@@ -68,17 +72,26 @@ def make_prediction():
         prediction = [bot_likelihood(bot_proba(handle)),
                       f'Probability of being a bot: {bot_proba(handle)}%']
 
-    return flask.render_template('index.html', prediction=prediction[0], probability=prediction[1], user_lookup_message=user_lookup_message)
 
-@app.route('/api',methods=['POST'])
-def predict():
-    # Get the data from the POST request.
-    data = request.get_json(force=True)
-    # Make prediction using model loaded from disk as per the data.
-    prediction = model.predict([[np.array(get_user_features(handle))]])
-    # Take the first value of prediction
-    output = prediction[0]
-    return jsonify(output)
+    user_features = get_user_features(handle)
+    user = np.matrix(user_features)
+    explainer = shap_explainer
+    shap_values = explainer.shap_values(user)
+    def _force_plot_html(explainer, user_features):
+        force_plot = shap.force_plot(explainer.expected_value,
+                                     shap_values[0:,],
+                                     pd.Series(user_features,
+                                               index = ["verified", "location", "followers_count", "following_count", "tweet_count", "un_no_of_char",
+                    "un_special_char", "un_uppercase", "name_no_of_char", "name_special_char", "name_uppercase",
+                    "des_no_of_usertags", "des_no_of_hashtags", "des_external_links", "has_description", "account_age_in_days"]))
+        print(explainer.expected_value)
+        print(shap_values[0,:])
+        print(user_features)
+        shap_html = f"<head>{shap.getjs()}</head><body>{force_plot.html()}</body>"
+        return shap_html
+    shap_plot = _force_plot_html(explainer, user_features)
+
+    return flask.render_template('index.html', prediction=prediction[0], probability=prediction[1], user_lookup_message=user_lookup_message, shap_plots = shap_plot)
 
 bearer_token = 'AAAAAAAAAAAAAAAAAAAAADuChwEAAAAAyd5NyoPPZfk%2FiBwmc2mC9me33RA%3DTFH93ScdBzcU6OHVLLsTDHKLW599NhhPoEBTPi0KFWdAEbmFth'
 client = tweepy.Client(bearer_token=bearer_token)
@@ -144,4 +157,4 @@ def get_user_features(screen_name):
 
 # for local dev
 if __name__ == '__main__':
-    app.run(port=5001)
+    app.run()

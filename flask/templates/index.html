@@ -41,6 +41,7 @@
             <p style="font-weight: 900">{{user_lookup_message}}</p>  
             <h3>{{prediction | safe}}</h3>
             <p style="font-weight: 350">{{probability}}</p>
+            <iframe srcdoc="{{shap_plots}}" style="width: 1500px; height: 200px; border: none;" ></iframe>
           </div>  
         </div>
       </div>
