@@ -14,7 +14,7 @@ import shap
 app = flask.Flask(__name__)
 
 xgb_model = pickle.load(open('03 XGBoost (final).sav','rb'))
-shap_explainer = pickle.load(open('shap.sav','rb'))
+shap_explainer = pickle.load(open('explainer.sav','rb'))
 
 def bot_likelihood(prob):
     if prob < 20:
@@ -52,8 +52,16 @@ def bot_proba(twitter_handle):
 
 @app.route('/')
 def homepage():
-    return flask.render_template('index.html')
+    return flask.render_template('landing.html')
+    #return flask.render_template('index.html')
 
+@app.route('/byhandle')
+def byhandle():
+    return flask.render_template('handle.html')
+
+@app.route('/bytweet')
+def bytweet():
+    return flask.render_template('tweet.html')
 
 @app.route('/predict', methods=['GET', 'POST'])
 def make_prediction():
@@ -91,7 +99,7 @@ def make_prediction():
         return shap_html
     shap_plot = _force_plot_html(explainer, user_features)
 
-    return flask.render_template('index.html', prediction=prediction[0], probability=prediction[1], user_lookup_message=user_lookup_message, shap_plots = shap_plot)
+    return flask.render_template('handle.html', prediction=prediction[0], probability=prediction[1], user_lookup_message=user_lookup_message, shap_plots = shap_plot)
 
 bearer_token = 'AAAAAAAAAAAAAAAAAAAAADuChwEAAAAAyd5NyoPPZfk%2FiBwmc2mC9me33RA%3DTFH93ScdBzcU6OHVLLsTDHKLW599NhhPoEBTPi0KFWdAEbmFth'
 client = tweepy.Client(bearer_token=bearer_token)
