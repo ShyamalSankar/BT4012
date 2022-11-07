@@ -14,7 +14,7 @@ import shap
 app = flask.Flask(__name__)
 
 xgb_model = pickle.load(open('03 XGBoost (final).sav','rb'))
-shap_explainer = pickle.load(open('explainer.sav','rb'))
+shap_explainer = pickle.load(open('xgb_final_shap.sav','rb'))
 
 def bot_likelihood(prob):
     if prob < 20:
@@ -39,7 +39,7 @@ def bot_proba(twitter_handle):
     user_features = get_user_features(twitter_handle)
     user = np.matrix(user_features)
     print(user)
-    df = pd.DataFrame(user, columns=["verified", "location", "followers_count", "following_count", "tweet_count", "un_no_of_char",
+    df = pd.DataFrame(user, columns=["protected", "verified", "location", "followers_count", "following_count", "tweet_count", "un_no_of_char",
                     "un_special_char", "un_uppercase", "name_no_of_char", "name_special_char", "name_uppercase",
                     "des_no_of_usertags", "des_no_of_hashtags", "des_external_links", "has_description", "account_age_in_days"])
     print(df)
@@ -93,7 +93,7 @@ def make_prediction():
         force_plot = shap.force_plot(explainer.expected_value,
                                      shap_values[0:,],
                                      pd.Series(user_features,
-                                               index = ["verified", "location", "followers_count", "following_count", "tweet_count", "un_no_of_char",
+                                               index = ["protected", "verified", "location", "followers_count", "following_count", "tweet_count", "un_no_of_char",
                     "un_special_char", "un_uppercase", "name_no_of_char", "name_special_char", "name_uppercase",
                     "des_no_of_usertags", "des_no_of_hashtags", "des_external_links", "has_description", "account_age_in_days"]))
         print(explainer.expected_value)
@@ -128,9 +128,11 @@ def get_user_features(screen_name):
                                              "public_metrics",
                                              "url",
                                              "username",
-                                             "verified"])
+                                             "verified", 
+                                             "protected"])
         data = user.data
         # account features to return for predicton
+        protected = int(data["protected"] == True)
         verified = int(data["verified"] == True)
         location = int(data["location"] == True)
         followers_count = data["public_metrics"]['followers_count']
@@ -158,14 +160,14 @@ def get_user_features(screen_name):
         account_age_in_days = (datetime.now() - data['created_at'].replace(tzinfo=None)).days
 
         # organizing list to be returned
-        account_features = [verified, location, followers_count, following_count, tweet_count, un_no_of_char,
+        account_features = [protected, verified, location, followers_count, following_count, tweet_count, un_no_of_char,
                             un_special_char, un_uppercase, name_no_of_char, name_special_char, name_uppercase,
                             des_no_of_usertags, des_no_of_hashtags, des_external_links, has_description, account_age_in_days]
 
     except: #Exception as e:
         return'User not found'
 
-    return account_features if len(account_features) == 16 else f'User not found'
+    return account_features if len(account_features) == 17 else f'User not found'
 
 # for local dev
 if __name__ == '__main__':
