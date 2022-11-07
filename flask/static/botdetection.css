@@ -94,3 +94,15 @@ text-align: center;
   border: none;
   overflow-x: scroll;
 }
+
+.info {
+  color: #0c9af2
+ }
+ 
+ .warning {
+  color: #FFD739
+ }
+ 
+ .danger {
+   color: #f12e55
+ }
