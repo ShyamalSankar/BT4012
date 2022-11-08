@@ -89,19 +89,26 @@ def make_prediction():
         user = np.matrix(user_features)
 
         user_features = get_user_features(handle)
-        user = np.matrix(user_features)
+        # user = np.matrix(user_features)
         explainer = shap_explainer
-        shap_values = explainer.shap_values(user)
+        # shap_values = explainer.shap_values(user)
+        user = pd.DataFrame(user_features, index = ["protected", "verified", "location", "followers_count", "following_count", 
+                                                                 "tweet_count", "un_no_of_char","un_special_char", "un_uppercase", "name_no_of_char", 
+                                                                 "name_special_char", "name_uppercase", "des_no_of_usertags", "des_no_of_hashtags", 
+                                                                 "des_external_links", "has_description", "account_age_in_days"]).T
+        shap_values = explainer(user)
+        shap_values = shap_values[...,1]
         def _force_plot_html(explainer, user_features):
-            force_plot = shap.force_plot(explainer.expected_value,
-                                         shap_values[0:,],
-                                         pd.Series(user_features,
-                                                   index = ["protected", "verified", "location", "followers_count", "following_count", "tweet_count", "un_no_of_char",
-                        "un_special_char", "un_uppercase", "name_no_of_char", "name_special_char", "name_uppercase",
-                        "des_no_of_usertags", "des_no_of_hashtags", "des_external_links", "has_description", "account_age_in_days"]))
-            print(explainer.expected_value)
-            print(shap_values[0,:])
-            print(user_features)
+            force_plot = shap.plots.force(shap_values)
+#             force_plot = shap.force_plot(explainer.expected_value,
+#                                          shap_values[0:,],
+#                                          pd.Series(user_features,
+#                                                    index = ["protected", "verified", "location", "followers_count", "following_count", "tweet_count", "un_no_of_char",
+#                         "un_special_char", "un_uppercase", "name_no_of_char", "name_special_char", "name_uppercase",
+#                         "des_no_of_usertags", "des_no_of_hashtags", "des_external_links", "has_description", "account_age_in_days"]))
+#             print(explainer.expected_value)
+#             print(shap_values[0,:])
+#             print(user_features)
             shap_html = f"<head>{shap.getjs()}</head><body>{force_plot.html()}</body>"
             return shap_html
         shap_plot = _force_plot_html(explainer, user_features)
@@ -152,14 +159,14 @@ def get_user_features(screen_name):
         links = r'(https?:\/\/(?:www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}[-a-zA-Z0-9()@:%_+.~#?&/=]*)'
         special_char = re.compile('[@_!#$%^&*()<>?/\|}{~:]')
         un_no_of_char = len(username)
-        un_special_char = special_char.search(username)!= None
-        un_uppercase = bool(re.match(r'\w*[A-Z]\w*', username))
+        un_special_char = int(special_char.search(username)!= None == True)
+        un_uppercase = int(bool(re.match(r'\w*[A-Z]\w*', username)) == True)
         name_no_of_char = len(name)
-        name_special_char = special_char.search(name)!= None
-        name_uppercase = bool(re.match(r'\w*[A-Z]\w*', name))
+        name_special_char = int(special_char.search(name)!= None == True)
+        name_uppercase = int(bool(re.match(r'\w*[A-Z]\w*', name)) == True)
         des_no_of_usertags = len(re.findall(user_tags, description))
         des_no_of_hashtags = len(re.findall(hashtags, description))
-        des_external_links = re.findall(links, description) != []
+        des_external_links = int(re.findall(links, description) != [] == True)
         account_age_in_days = (datetime.now() - data['created_at'].replace(tzinfo=None)).days
 
         # organizing list to be returned
