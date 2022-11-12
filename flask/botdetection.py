@@ -10,6 +10,10 @@ import pickle
 import flask
 from other import ExperimentalTransformer
 import shap
+import transformers
+from transformers import AutoModel, BertTokenizerFast
+from clean_tweets import preprocess
+
 
 app = flask.Flask(__name__)
 
@@ -30,7 +34,6 @@ def bot_likelihood(prob):
     else:
         return '<span class="danger">Bot</span>'
     
-   
 def bot_proba(twitter_handle):
     '''
     Takes in a twitter handle and provides probabily of whether or not the user is a bot
@@ -67,8 +70,8 @@ def bytweet():
 def back():
     return flask.render_template('landing.html')
 
-@app.route('/predict', methods=['GET', 'POST'])
-def make_prediction():
+@app.route('/predicthandle', methods=['GET', 'POST'])
+def make_prediction_handle():
     handle = flask.request.form['handle']
     print(handle)
 
@@ -114,6 +117,15 @@ def make_prediction():
         shap_plot = _force_plot_html(explainer, user_features)
 
     return flask.render_template('handle.html', prediction=prediction[0], probability=prediction[1], user_lookup_message=user_lookup_message, text = text, shap_plots = shap_plot)
+
+@app.route('/predicttweet', methods=['GET', 'POST'])
+def make_prediction_tweet():
+    tweet = flask.request.form['handle']
+    tweet = preprocess(tweet)
+    print(tweet)
+    
+    return flask.render_template('tweet.html', text = tweet)
+    #prediction=prediction[0], probability=prediction[1], user_lookup_message=user_lookup_message, text = text, shap_plots = shap_plot)
 
 bearer_token = 'AAAAAAAAAAAAAAAAAAAAADuChwEAAAAAyd5NyoPPZfk%2FiBwmc2mC9me33RA%3DTFH93ScdBzcU6OHVLLsTDHKLW599NhhPoEBTPi0KFWdAEbmFth'
 client = tweepy.Client(bearer_token=bearer_token)
