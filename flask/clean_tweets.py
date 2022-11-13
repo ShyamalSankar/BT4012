@@ -7,13 +7,59 @@ import demoji
 import emoji
 import string
 from bs4 import BeautifulSoup
-from langdetect import detect
-import nltk
-from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
-lemmatizer = WordNetLemmatizer()
-stopwords = nltk.corpus.stopwords.words('english')
 
+
+#to deal with html characters
+CLEANR = re.compile('<.*?>') 
+#replace the new line characters
+def process_text(text):
+    txt_lst = text.split()
+    
+    #A helper function to process emojis
+    #Emojis are left in in order to 
+    def process_emoji(emo):
+        try:
+            decoded = emoji.demojize(emo)
+            decoded = decoded.replace(":", "")
+            return decoded
+        except UnicodeDecodeError:
+            #if unable to decode emoji, just keep a place holder for it
+            return "__emoji__"
+    
+    #store all emojis as the decoded form
+    txt_lst = [process_emoji(x) if emoji.is_emoji(x) else x for x in txt_lst]
+    
+    #process all tagged accounts
+    def process_tagged_accounts(account):
+        #replace all tagged accounts with __user_mention__
+        if account.startswith("@") and len(account) > 1:
+            return "__user_mention__"
+        return account
+    
+    #replace hashtags with place holders
+    def process_hashtags(text):
+        if text.startswith("#"):
+            return "__hashtag__"
+        return text
+    
+    
+    #apply the functions above
+    txt_lst = [process_tagged_accounts(x) for x in txt_lst]
+    txt_lst = [process_hashtags(x) for x in txt_lst]
+    
+    #next, we process the urls
+    def process_urls_html(text):
+        pattern = r'(https?:\/\/(?:www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}[-a-zA-Z0-9()@:%_+.~#?&/=]*)'
+        text = re.sub(pattern, "", text)
+        text = re.sub(CLEANR, "", text)
+        return text
+    
+    text = " ".join(txt_lst)
+    
+    final_text = process_urls_html(text)
+    return final_text
+
+"""
 def preprocess(text):
     #remove emojis and store decoded emojis in list
     all_emojis = emoji_code_text(text)
@@ -61,3 +107,5 @@ def remove_punctuation(text):
 
 def remove_nonalphanum(text):
     return re.sub("[^a-z0-9]","", text)
+"""
+
