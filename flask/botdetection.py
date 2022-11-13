@@ -11,14 +11,24 @@ import flask
 from other import ExperimentalTransformer
 import shap
 import transformers
-from transformers import AutoModel, BertTokenizerFast
-from clean_tweets import preprocess
+from transformers import BertModel, BertTokenizer, pipeline
+from clean_tweets import process_text
 
 
 app = flask.Flask(__name__)
 
 xgb_model = pickle.load(open('03 XGBoost (final).sav','rb'))
 shap_explainer = pickle.load(open('xgb_final_shap.sav','rb'))
+
+#Load the pretrained BERT model
+tokenizer = BertTokenizer.from_pretrained("bert-base-cased", padding = True)
+#load the pretrained model
+bert_model = BertModel.from_pretrained("bert-base-cased")
+#create a pipeline in which the tweets get converted to bert features
+nlp = pipeline("feature-extraction", tokenizer=tokenizer, model=bert_model)
+
+#load the model that is used to predict whether a tweet is made by a human or a bot
+tweet_predictor = pickle.load(open('Bert_model.sav','rb'))
 
 def bot_likelihood(prob):
     if prob < 20:
@@ -121,10 +131,19 @@ def make_prediction_handle():
 @app.route('/predicttweet', methods=['GET', 'POST'])
 def make_prediction_tweet():
     tweet = flask.request.form['handle']
-    tweet = preprocess(tweet)
-    print(tweet)
+    #preprocess the incoming tweet
+    processed_tweet = process_text(tweet)
+    #convert the tweet to BERT encoding
+    bert_features = np.array(nlp(processed_tweet))
+    #getting the mean representation of the tweet
+    bert_features = bert_features.reshape((bert_features.shape[1], bert_features.shape[2])).mean(axis = 0)
+    #extracting the probability from the predict proba method of the model
+    probability = tweet_predictor.predict_proba(bert_features.reshape(1,-1))[0][1]
+    percentage = round(probability, 3) * 100
+
+    final_statement = f"The chance that this tweet: \n '{tweet}' \n was made by a bot is {percentage}%"
     
-    return flask.render_template('tweet.html', text = tweet)
+    return flask.render_template('tweet.html', text = final_statement)
     #prediction=prediction[0], probability=prediction[1], user_lookup_message=user_lookup_message, text = text, shap_plots = shap_plot)
 
 bearer_token = 'AAAAAAAAAAAAAAAAAAAAADuChwEAAAAAyd5NyoPPZfk%2FiBwmc2mC9me33RA%3DTFH93ScdBzcU6OHVLLsTDHKLW599NhhPoEBTPi0KFWdAEbmFth'
@@ -193,4 +212,5 @@ def get_user_features(screen_name):
 
 # for local dev
 if __name__ == '__main__':
-    app.run()
+    #debug = true just updates the thing everytime you save it
+    app.run(debug = True)
