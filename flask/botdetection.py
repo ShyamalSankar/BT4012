@@ -66,7 +66,6 @@ def bot_proba(twitter_handle):
 @app.route('/')
 def homepage():
     return flask.render_template('landing.html')
-    #return flask.render_template('index.html')
 
 @app.route('/byhandle')
 def byhandle():
@@ -113,15 +112,6 @@ def make_prediction_handle():
         shap_values = shap_values[...,1]
         def _force_plot_html(explainer, user_features):
             force_plot = shap.plots.force(shap_values)
-#             force_plot = shap.force_plot(explainer.expected_value,
-#                                          shap_values[0:,],
-#                                          pd.Series(user_features,
-#                                                    index = ["protected", "verified", "location", "followers_count", "following_count", "tweet_count", "un_no_of_char",
-#                         "un_special_char", "un_uppercase", "name_no_of_char", "name_special_char", "name_uppercase",
-#                         "des_no_of_usertags", "des_no_of_hashtags", "des_external_links", "has_description", "account_age_in_days"]))
-#             print(explainer.expected_value)
-#             print(shap_values[0,:])
-#             print(user_features)
             shap_html = f"<head>{shap.getjs()}</head><body>{force_plot.html()}</body>"
             return shap_html
         shap_plot = _force_plot_html(explainer, user_features)
@@ -141,10 +131,13 @@ def make_prediction_tweet():
     probability = tweet_predictor.predict_proba(bert_features.reshape(1,-1))[0][1]
     percentage = round(probability, 3) * 100
 
-    final_statement = f"The chance that this tweet: \n '{tweet}' \n was made by a bot is {percentage}%"
+    text = "Prediction for Tweet:"
+    #user_lookup_message = f'Prediction for Tweet {tweet}'
+    prediction = [bot_likelihood(percentage), f'Probability that this tweet is by a bot: {round(probability*100, 2)}%']
+    #final_statement = f"The chance that this tweet: \n '{tweet}' \n was made by a bot is {percentage}%"
     
-    return flask.render_template('tweet.html', text = final_statement)
-    #prediction=prediction[0], probability=prediction[1], user_lookup_message=user_lookup_message, text = text, shap_plots = shap_plot)
+    return flask.render_template('tweet.html', prediction=prediction[0], probability=prediction[1], user_lookup_message=tweet, text=text)
+    #flask.render_template('tweet.html', text = final_statement)
 
 bearer_token = 'AAAAAAAAAAAAAAAAAAAAADuChwEAAAAAyd5NyoPPZfk%2FiBwmc2mC9me33RA%3DTFH93ScdBzcU6OHVLLsTDHKLW599NhhPoEBTPi0KFWdAEbmFth'
 client = tweepy.Client(bearer_token=bearer_token)
