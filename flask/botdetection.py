@@ -129,7 +129,8 @@ def make_prediction_tweet():
     bert_features = bert_features.reshape((bert_features.shape[1], bert_features.shape[2])).mean(axis = 0)
     #extracting the probability from the predict proba method of the model
     probability = tweet_predictor.predict_proba(bert_features.reshape(1,-1))[0][1]
-    percentage = round(probability, 3) * 100
+    percentage = round(probability * 100, 3)
+    
 
     text = "Prediction for Tweet:"
     #user_lookup_message = f'Prediction for Tweet {tweet}'
