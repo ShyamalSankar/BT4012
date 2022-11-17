@@ -1,0 +1,997 @@
+,id,name,username,created_at,protected,verified,location,description,followers_count,following_count,tweet_count,account_type
+0,21447363,KATY PERRY,katyperry,2009-02-20T23:45:56.000Z,FALSE,TRUE,,LOVE is the key that unlocks every door🗝️♥️,108878036,245,11778,0
+1,27260086,Justin Bieber,justinbieber,2009-03-28T16:41:22.000Z,FALSE,TRUE,The 6,JUSTICE the album out now,113825417,281733,31332,0
+2,17919972,Taylor Swift,taylorswift13,2008-12-06T10:10:54.000Z,FALSE,TRUE,,"I'm the problem, it's me",91736362,0,742,0
+3,79293791,Rihanna,rihanna,2009-10-02T21:37:33.000Z,FALSE,TRUE,,,107130421,982,10656,0
+4,14230524,Lady Gaga,ladygaga,2008-03-26T22:37:48.000Z,FALSE,TRUE,,THE CHROMATICA BALL ⚔️💓 | Hold My Hand ✈️ Out Now | HAUS LABS 💄 @hauslabs | Love For Sale 🎺 Out Now https://t.co/CO0n8zLh7T,84952188,117031,9954,0
+5,26565946,Justin Timberlake,jtimberlake,2009-03-25T19:10:50.000Z,FALSE,TRUE,"Memphis, TN",I write hooks but I’m really just here for the bridge.,62857419,337,4377,0
+6,15846407,Ellen DeGeneres,TheEllenShow,2008-08-14T03:50:42.000Z,FALSE,TRUE,California,"Comedian, talk show host and ice road trucker. My tweets are real, and they’re spectacular. @ellentube @theellenfund",77112602,26044,24328,0
+7,16409683,Britney Spears 🌹🚀,britneyspears,2008-09-22T20:47:35.000Z,FALSE,TRUE,"Los Angeles, CA",#HoldMeCloser with @EltonOfficial out now 🌹🚀,56143731,360670,5641,0
+8,155659213,Cristiano Ronaldo,Cristiano,2010-06-14T19:09:20.000Z,FALSE,TRUE,,This Privacy Policy addresses the collection and use of personal information - https://t.co/N9W2J34YdA,104597302,62,3829,0
+9,25365536,Kim Kardashian,KimKardashian,2009-03-19T19:21:56.000Z,FALSE,TRUE, ,@SKIMS @SKKN @SKKYPartners,74103428,122,36001,0
+10,44409004,Shakira,shakira,2009-06-03T17:38:07.000Z,FALSE,TRUE,Barranquilla,MONOTONÍA 🫀🗡️ YA DISPONIBLE ⬇️ https://t.co/Y3a2InXQdR,53326579,232,7957,0
+11,23375688,Selena Gomez,selenagomez,2009-03-09T00:16:45.000Z,FALSE,TRUE,Los Angeles,"My Mind & Me out November 4th: https://t.co/95UfIInXBK
+The song is out now: https://t.co/tGr847r9WE",66465754,1083,5484,0
+12,85603854,jlo,JLo,2009-10-27T16:24:51.000Z,FALSE,TRUE,"Bronx, NY",Celebrating #20yearsofTHISISMETHEN ✨,45517341,1872,18020,0
+13,21111883,Demi Lovato,ddlovato,2009-02-17T18:02:08.000Z,FALSE,TRUE,DALLAS/LA,HOLY FVCK out now 🖤,54077391,1,17808,0
+14,15485441,Jimmy Fallon,jimmyfallon,2008-07-18T19:46:50.000Z,FALSE,TRUE,"New York, New York",astrophysicist,51305579,10992,14369,0
+15,19397785,Oprah Winfrey,Oprah,2009-01-23T15:18:34.000Z,FALSE,TRUE,,,43152538,317,13649,0
+16,28706024,P!nk,Pink,2009-04-04T01:16:34.000Z,FALSE,TRUE,los angeles,Never Gonna Not Dance Again is OUT NOW 🛼🪩🎪 Summer Carnival 2023 Tickets on sale NOW!,31603989,470,8261,0
+17,27195114,Drizzy,Drake,2009-03-28T07:17:46.000Z,FALSE,TRUE,Paradise,,39860152,600,1816,0
+18,181561712,Harry Styles.,Harry_Styles,2010-08-22T14:19:06.000Z,FALSE,TRUE,,,38379120,1807,5687,0
+19,209708391,One Direction,onedirection,2010-10-29T19:05:25.000Z,FALSE,TRUE,London,#10YearsOf1D Listen to your favourite 1D songs here… https://t.co/Van2RFMJ1c,31039274,3355,9747,0
+20,50393960,Bill Gates,BillGates,2009-06-24T18:44:10.000Z,FALSE,TRUE,"Seattle, WA",Sharing things I'm learning through my foundation work and other interests.,61013530,506,4125,0
+21,23083404,LeBron James,KingJames,2009-03-06T16:25:53.000Z,FALSE,TRUE,Amongst La Familia!,EST. AKRON - ST.V/M Class of '03 https://t.co/TrZZrgR90t #IPROMISE,52419662,184,8742,0
+22,116362700,Lil Wayne WEEZY F,LilTunechi,2010-02-22T05:29:44.000Z,FALSE,TRUE,,https://t.co/orDUcKw7qh,35109538,55,2513,0
+23,100220864,Bruno Mars,BrunoMars,2009-12-29T13:07:04.000Z,FALSE,TRUE,,Silk Sonic album is available everywhere!,43182309,91,4988,0
+24,60865434,Kaka,KAKA,2009-07-28T10:05:26.000Z,FALSE,TRUE,,,29393912,231,5309,0
+25,184910040,Adele,Adele,2010-08-30T19:53:19.000Z,FALSE,TRUE,London,https://t.co/31T2EYGNLy,27646968,1,375,0
+26,105119490,Niall Horan,NiallOfficial,2010-01-15T12:14:24.000Z,FALSE,TRUE,"Mullingar,Westmeath,Ireland",,41138254,5737,18412,0
+27,268414482,Miley Cyrus,MileyCyrus,2011-03-18T18:36:02.000Z,FALSE,TRUE,,M-CEO of Twitter 💙🕊,46760508,69,12113,0
+28,35094637,Alicia Keys,aliciakeys,2009-04-25T00:46:24.000Z,FALSE,TRUE,New York City,Santa Baby Out Now ✨🎅🏾👶🏾✨ || Creator @Keyssoulcare | 🗽🗽🗽,30082906,778,11209,0
+29,23151437,Kevin Hart,KevinHart4real,2009-03-07T02:02:31.000Z,FALSE,TRUE,Philly/LA,My name is Kevin Hart and I WORK HARD!!! That pretty much sums me up!!! Everybody Wants To Be Famous But Nobody Wants To Do The Work,37642926,563,42145,0
+30,20322929,Wiz Khalifa,wizkhalifa,2009-02-07T17:59:34.000Z,FALSE,TRUE,Pix Burgh,Taylor Gang,36757521,887,50734,0
+31,31927467,Pitbull,pitbull,2009-04-16T16:03:02.000Z,FALSE,TRUE,"Miami, FL",Mr. Worldwide. Musician. Entertainer. Education Ambassador. Entrepreneur.,25003872,2299,8775,0
+32,84279963,Louis Tomlinson,Louis_Tomlinson,2009-10-22T08:58:11.000Z,FALSE,TRUE,Doncaster,Faith in the future. @lthqofficial,35965895,3457,7716,0
+33,35787166,Nicki Minaj,NICKIMINAJ,2009-04-27T16:36:43.000Z,FALSE,TRUE,,#SuperFreakyGirlVIDEO IS OUT NOW🔖🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀,27209015,6328,44664,0
+34,158487331,Neymar Jr,neymarjr,2010-06-22T20:59:27.000Z,FALSE,TRUE,"Paris, France","Filho de Deus, Pai, Feliz e Ousado !",58986302,625,42291,0
+35,22940219,Marshall Mathers,Eminem,2009-03-05T16:33:48.000Z,FALSE,TRUE,Detroit,,22801416,0,1234,0
+36,73992972,Avril Lavigne,AvrilLavigne,2009-09-13T22:43:00.000Z,FALSE,TRUE,,"Listen to ""I'm A Mess"" with YUNGBLUD 🖤☠️🖤",20617221,146,4580,0
+37,90420314,Neil Patrick Harris,ActuallyNPH,2009-11-16T15:54:48.000Z,FALSE,TRUE,Manhattanland,"Husband, father, random sayer of stuff. ALSO click the link below if you want to level up in Awesometown (or subscribe to exclusive content from yours truly).",25387162,166,3259,0
+38,25521487,daniel tosh,danieltosh,2009-03-20T15:32:52.000Z,FALSE,TRUE,,founder of https://t.co/Mp6Q9vNi7H,24049513,123,38,0
+39,23976386,David Guetta,davidguetta,2009-03-12T16:19:49.000Z,FALSE,TRUE,"Ibiza, Paris, the world...",'I'm Good (Blue)' with @BebeRexha is OUT NOW!!! https://t.co/sGPp7QwDtq,20088911,475,6580,0
+40,115485051,Conan O'Brien,ConanOBrien,2010-02-18T20:17:16.000Z,FALSE,TRUE,Los Angeles,"The voice of the people. Sorry, people.",28504537,1,5301,0
+41,145125358,Amitabh Bachchan,SrBachchan,2010-05-18T05:16:47.000Z,FALSE,TRUE,"Mumbai, India","""तुमने हमें पूज पूज कर पत्थर कर डाला ; वे जो हमपर जुमले कसते हैं हमें ज़िंदा तो समझते हैं ""~  हरिवंश राय  बच्चन",48113503,1797,69521,0
+42,19058681,ashton kutcher,aplusk,2009-01-16T07:40:06.000Z,FALSE,TRUE,"Los Angeles, California","I build things, stories, companies, collaborations of thoughts, dreams, & believe in a future where we all have a right to pursue happiness. +1 (319) 519-0576",17061730,771,10720,0
+43,32959253,Khloé,khloekardashian,2009-04-18T18:01:25.000Z,FALSE,TRUE,,,30479180,235,67809,0
+44,23617610,Kourtney Kardashian,kourtneykardash,2009-03-10T17:12:52.000Z,FALSE,TRUE,,,26849503,67,14483,0
+45,176566242,zayn,zaynmalik,2010-08-09T21:54:10.000Z,FALSE,TRUE,,,30938894,1938,3692,0
+46,101311381,Shah Rukh Khan,iamsrk,2010-01-02T20:55:43.000Z,FALSE,TRUE,,,42872344,74,58342,0
+47,18863815,Coldplay,coldplay,2009-01-11T11:04:45.000Z,FALSE,TRUE,"Buenos Aires, Argentina",The official Twitter of the band Coldplay. Latest album Music Of The Spheres out now. Music Of The Spheres World Tour in 2022/23.,23756058,779,9488,0
+48,19248106,Mariah Carey,MariahCarey,2009-01-20T18:08:51.000Z,FALSE,TRUE,Citizen of the World Dahhhling,Mimi 🦋✨,21867713,188,10812,0
+49,85452649,Ed Sheeran HQ,edsheeran,2009-10-26T23:57:28.000Z,FALSE,TRUE,London,North American Mathematics Tour 2023: https://t.co/nQaYLDnvA4,17556661,0,23741,0
+50,268439864,Christina Aguilera,xtina,2011-03-18T19:41:39.000Z,FALSE,TRUE,,🖤🤍 #LaFuerza #LaTormenta #LaLuz,16654157,48,3023,0
+51,52551600,Jim Carrey,JimCarrey,2009-06-30T22:58:44.000Z,FALSE,TRUE,Los Angeles,The ONLY official social media account for Actor Author and Artist Jim Carrey!,18960034,1,4700,0
+52,169686021,ye,kanyewest,2010-07-22T23:00:05.000Z,FALSE,TRUE,,,31878438,208,1934,0
+53,119509520,Chris Brown,chrisbrown,2010-03-03T21:39:14.000Z,FALSE,TRUE,,hate me tomorrow but love me tonight,32220354,0,4650,0
+54,132385468,Salman Khan,BeingSalmanKhan,2010-04-13T02:56:21.000Z,FALSE,TRUE,MUMBAI,"Film actor, artist, painter, humanitarian",44574862,28,43173,0
+55,42420346,AGNEZ MO,agnezmo,2009-05-25T15:05:00.000Z,FALSE,TRUE,Los Angeles,DREAM BELIEVE & MAKE IT HAPPEN! This account is supervised by management & have full rights to block any parties with negative influence in any form.,17899770,1034,15712,0
+56,31239408,BEYONCÉ,Beyonce,2009-04-14T21:56:04.000Z,FALSE,TRUE,,act i RENAISSANCE out now,15720258,9,22,0
+57,14920785,Blake Shelton,blakeshelton,2008-05-27T13:43:08.000Z,FALSE,TRUE,"Tishomingo, Ok","The Official Blake Shelton Twitter. You're getting the real BS straight from Blake himself. (And a few official updates from Team BS, too.)",19760881,655,13143,0
+58,16190898,Ryan Seacrest,RyanSeacrest,2008-09-08T19:55:09.000Z,FALSE,TRUE,"New York, NY",Taller in person,14872459,582,18766,0
+59,14502789,Ivete Sangalo,ivetesangalo,2008-04-23T23:25:12.000Z,FALSE,TRUE,,Twitter Oficial da artista brasileira Ivete Sangalo.,17144714,796,45450,0
+60,133880286,Leonardo DiCaprio,LeoDiCaprio,2010-04-16T22:04:13.000Z,FALSE,TRUE,"Los Angeles, CA",Actor and Environmentalist,19632229,236,2740,0
+61,24929621,ParisHilton,ParisHilton,2009-03-17T18:45:05.000Z,FALSE,TRUE,"Los Angeles, CA",✨Click the link below for exclusive content! 💘,16916509,18216,26691,0
+62,49573859,will.i.am,iamwill,2009-06-22T08:24:19.000Z,FALSE,TRUE,,https://t.co/45JasOwNjz,11974887,1430,8922,0
+63,219255067,د. محمد العريفي,MohamadAlarefe,2010-11-24T10:45:31.000Z,FALSE,FALSE,,(Muslim Scholar) سناب شات mohamad_alarefe راسل المكتبwhatsapp 00966535227779 فيس https://t.co/EetTTLaevY يوتيوب https://t.co/q8377q5t7t,19383988,0,23296,0
+64,157140968,Kendall,KendallJenner,2010-06-19T00:03:11.000Z,FALSE,TRUE,,@drink818 on Instagram and Twitter,32446002,109,9667,0
+65,18091904,Ashley Tisdale,ashleytisdale,2008-12-13T02:32:20.000Z,FALSE,TRUE,,"Dancing my way through tiktok & helping you live your best non toxic life.
+✧ Founder of Frenshe + Being Frenshe",12284078,208,11011,0
+66,3004231,Snoop Dogg,SnoopDogg,2007-03-30T19:05:42.000Z,FALSE,TRUE,LBC,“I STILL GOT IT” mixtape OUT NOW,20560362,2783,42745,0
+67,43152482,Alejandro Sanz,AlejandroSanz,2009-05-28T17:21:35.000Z,FALSE,TRUE,,#SOY 👉 https://t.co/RKlNHJcdCq,19793882,4295,30950,0
+68,40255499,Ricky Martin,ricky_martin,2009-05-15T14:53:26.000Z,FALSE,TRUE,Puerto Rico,https://t.co/4OqzpYcGFx,20228276,432,7700,0
+69,29479000,Ronaldinho,10Ronaldinho,2009-04-07T16:11:50.000Z,FALSE,TRUE,"Rio de Janeiro, Brasil",Twitter oficial do jogador Ronaldinho Gaúcho. Duas vezes eleito o melhor do mundo pela FIFA.,21099111,144,6204,0
+70,413487212,Simon Cowell,SimonCowell,2011-11-15T23:12:59.000Z,FALSE,TRUE,,@syco,10861725,2328,1965,0
+71,285332860,Wayne Rooney,WayneRooney,2011-04-20T23:47:12.000Z,FALSE,TRUE,,@dcunited | https://t.co/AQADVVriOR | @foundationwr | @triplessports,17215735,539,3348,0
+72,35936474,Kevin Durant,KDTrey5,2009-04-28T01:14:36.000Z,FALSE,TRUE,At the crib dog,"IM ME, I DO ME, AND I CHILL. @35ventures @boardroom",20606936,1485,24913,0
+73,24886570,Maroon 5,maroon5,2009-03-17T14:13:03.000Z,FALSE,TRUE,"Los Angeles, CA",The Official Twitter page for Maroon 5 @adamlevine @jamesbvalentine @JRCarmichael @pjmorton & @SamFarrar  JORDI Out Now: https://t.co/gql3eqwh6U,14153577,479,7386,0
+74,47363197,raditya dika,radityadika,2009-06-15T15:39:56.000Z,FALSE,FALSE,"Jakarta Selatan, DKI Jakarta",Tukang melamun yang mengubah kopi menjadi cerita.  CP: management@radityadika.com,15550034,696,52718,0
+75,236699098,Kylie Jenner,KylieJenner,2011-01-11T05:03:57.000Z,FALSE,TRUE,,,40353913,964,14289,0
+76,48332360,Claudia Leitte🧃,ClaudiaLeitte,2009-06-18T12:25:09.000Z,FALSE,TRUE,Brasil,🎤,14556226,1073,59895,0
+77,14213711,Danilo Gentili,DaniloGentili,2008-03-25T06:44:38.000Z,FALSE,TRUE,Santo André,Desde 1979 estragando tudo e decepcionando pessoas.,17274898,407,86842,0
+78,175883705,أحمد الشقيري,shugairi,2010-08-07T22:34:41.000Z,FALSE,TRUE,saudi Arabia,باحث عن السلام الداخلي في وسط ضعفي البشري,18381527,0,2136,0
+79,36152770,Marcos Mion,marcosmion,2009-04-28T19:15:13.000Z,FALSE,TRUE,My own world!,Twitter Oficial Marcos Mion - actor/TV Host/Entrepreneur,13924004,220,28935,0
+80,101695592,Deepika Padukone,deepikapadukone,2010-01-04T07:51:32.000Z,FALSE,TRUE,,,27325101,66,665,0
+81,259379883,Charlie Sheen,charliesheen,2011-03-01T20:09:03.000Z,FALSE,TRUE,Hamburger Hamlet,"Actor, Dad, world champion air guitarist.",10320614,185,2331,0
+82,90836187,Andrés Iniesta,andresiniesta8,2009-11-18T09:33:28.000Z,FALSE,TRUE,,⚽️ @visselkobe player | Kobe-BCN-Fuentealbilla | My personal projects: @thisiscapitten @mikakus @bodegainiesta | Management: @weare_nsn,25491822,119,3425,0
+83,113419517,Hrithik Roshan,iHrithik,2010-02-11T18:06:33.000Z,FALSE,TRUE,,Man on mission- to live the best life possible come what may.,32088774,87,6107,0
+84,18681139,PRIYANKA,priyankachopra,2009-01-06T16:05:15.000Z,FALSE,TRUE,,Dreamer.. Achiever..,27886621,534,22299,0
+85,43023158,Luciano Huck,LucianoHuck,2009-05-28T02:06:04.000Z,FALSE,TRUE,"Rio de Janeiro, Brasil",curious / curioso,13312816,549,12594,0
+86,224223563,Gerard Piqué,3gerardpique,2010-12-08T13:20:43.000Z,FALSE,TRUE,Barcelona,FCBarcelona football player | Kosmos President & Founder,20366915,758,3141,0
+87,492399548,Zac Efron,ZacEfron,2012-02-14T17:36:20.000Z,FALSE,FALSE,,,15103951,109,1822,0
+88,24852465,Carly Rae Jepsen,carlyraejepsen,2009-03-17T07:10:51.000Z,FALSE,TRUE,,THE LONELIEST TIME 💌 Out now. 💖🖤🌛🍇 (213) 732-3275,9543752,74130,7206,0
+89,19562228,Russell Brand,rustyrockets,2009-01-26T22:21:06.000Z,FALSE,TRUE,,"Join me weekdays LIVE on RUMBLE | 5:00 PM (GMT) | 12:00 PM (ET)
+https://t.co/AhoMyFM4IP",11164912,657,16857,0
+90,47288005,JUANES,JUANES,2009-06-15T07:57:11.000Z,FALSE,TRUE,🌎 🌍 ,NOV 10 2022 • AMORES PROHIBIDOS,11538056,766,13030,0
+91,9.81339E+17,Paulina Rubio,PauRubio,2018-06-14T18:51:44.000Z,FALSE,FALSE,,Now over at @paulinarubio,592,0,0,0
+92,17696167,Ludacris,Ludacris,2008-11-28T02:06:50.000Z,FALSE,TRUE,"Atlanta, GA",,11407817,317,22520,0
+93,17461978,SHAQ,SHAQ,2008-11-18T10:27:25.000Z,FALSE,TRUE,"Orlando, FL","VERY QUOTATIOUS, I PERFORM RANDOM ACTS OF SHAQNESS                        @djdiesel",15934670,875,10370,0
+94,5520952,Paulo Coelho,paulocoelho,2007-04-26T07:32:00.000Z,FALSE,TRUE,,I delete tweets,15355464,248,36237,0
+95,50374439,Tom Hanks,tomhanks,2009-06-24T17:39:05.000Z,FALSE,TRUE,Los Angeles,"I'm that actor in some of the movies you liked and some you didn't. Sometimes I'm in pretty good shape, other times I'm not. Hey, you gotta live, you know?",16136017,23,948,0
+96,242245578,د. عائض القرني,Dr_alqarnee,2011-01-24T09:22:31.000Z,FALSE,TRUE,Saudi Arabia,داعية إسلامي | دكتوراه في الحديث النبوي | مؤلف وأديب | صدرت لي العديد من المؤلفات وآخرها #ملهم_العالم للتواصل | alqarneoffice@gmail.com,20574876,513,72690,0
+97,40908929,Usher Raymond IV,Usher,2009-05-18T16:36:50.000Z,FALSE,TRUE,,USHER: The Vegas Experience | Text me at (404) 737-1821,12011212,536,6310,0
+98,31348594,Akshay Kumar,akshaykumar,2009-04-15T05:23:19.000Z,FALSE,TRUE,,,45419017,27,41550,0
+99,128841198,luna maya,LunaMaya26,2010-04-02T10:25:37.000Z,FALSE,TRUE,INDONESIA,"Queen of the moon 👑 CP: schedule.lunamaya@gmail.com //owner of https://t.co/C4bfhftBz5 , @travelsecretsid, LunaHabit @lunahabit",11952324,614,15953,0
+100,20015311,Ricky Gervais,rickygervais,2009-02-04T00:00:12.000Z,FALSE,TRUE,Earth,Godless Ape. Writer. Director. Actor. Comedian. #TheOffice #GhostTown #Extras #TheInventionOfLying #Derek #Humanity #AfterLife #SuperNature #AbsolutelyMental,15124521,1534,71978,0
+101,126571977,Cem Yılmaz,CMYLMZ,2010-03-26T08:44:54.000Z,FALSE,TRUE,"İstanbul, TR",Cem Yılmaz resmi Twitter hesabıdır. Cem Yılmaz official Twitter account.          https://t.co/nx5FvvxqZS,15962272,259,2406,0
+102,56783491,Nick Jonas,nickjonas,2009-07-14T19:07:05.000Z,FALSE,TRUE,"Los Angeles, CA",,14134015,621,6342,0
+103,183387449,Xabi Alonso,XabiAlonso,2010-08-26T21:54:09.000Z,FALSE,TRUE,,Cuenta oficial de Xabi Alonso,11654996,532,610,0
+104,250831586,Dwayne Johnson,TheRock,2011-02-11T22:14:10.000Z,FALSE,TRUE,,Founder,16759986,390,26708,0
+105,16303106,Stephen Colbert,StephenAtHome,2008-09-15T22:31:44.000Z,FALSE,TRUE,,Evie’s husband,19326879,49,7087,0
+106,139092348,Sergio Kun Aguero,aguerosergiokun,2010-05-01T14:30:52.000Z,FALSE,TRUE,"Barcelona, España",🇦🇷 CEO @KRUesports; @Stake - https://t.co/SiavGBJKzU; https://t.co/qWyPIcolpE,15400151,149,5231,0
+107,50037051,Victoria Justice,VictoriaJustice,2009-06-23T17:19:10.000Z,FALSE,TRUE,,A Perfect Pairing is out now on Netflix!,9880586,1667,21873,0
+108,58531272,Radamel Falcao,FALCAO,2009-07-20T17:23:57.000Z,FALSE,TRUE,"Madrid, Comunidad de Madrid",Jugador profesional de fútbol. Seguidor de Jesús // Professional football player. Jesus follower.,17264046,635,6843,0
+109,65992743,Lindsay Lohan,lindsaylohan,2009-08-15T22:33:26.000Z,FALSE,TRUE,,🙏,8225947,647,381,0
+110,19895282,A.R.Rahman,arrahman,2009-02-02T05:53:57.000Z,FALSE,TRUE,"Chennai, India",Director of LeMusk the Cinematic Sensory experience… Tweets by Administrator,24341248,3,6746,0
+111,196795202,Austin Mahone,AustinMahone,2010-09-29T22:53:34.000Z,FALSE,TRUE,"Los Angeles, CA",,8956271,69217,42620,0
+112,185314895,Victoria Beckham,victoriabeckham,2010-08-31T18:06:25.000Z,FALSE,TRUE,London,The official Twitter page for Victoria Beckham,11797674,56,4091,0
+113,280701704,James Rodríguez,jamesdrodriguez,2011-04-11T21:45:31.000Z,FALSE,TRUE,,Bienvenidos⚽🇨🇴 JR🔟,19035887,292,2925,0
+114,24966423,TreySongz.eth,TreySongz,2009-03-17T22:10:47.000Z,FALSE,TRUE,,‘Back Home’ available everywhere 🖤 “tweets ≠ endorsements” “#NotFinancialAdvice”,13630711,3380,14693,0
+115,91390383,Sofia Vergara,SofiaVergara,2009-11-20T17:55:25.000Z,FALSE,TRUE,,"Colombian, Mother, Wife, Actor, Entepreneur, cake lover 🍰 and judge on America’s Got Talent",8576510,109,10352,0
+116,92367751,Jessica Alba,jessicaalba,2009-11-24T21:17:31.000Z,FALSE,TRUE,,"Mom of 3, Founder of The Honest Company, amateur chef, terrible speller, loyal friend, hilarious at times... I play make believe for a living",8583522,1718,6662,0
+117,344634424,Rafa Nadal,RafaelNadal,2011-07-29T10:44:02.000Z,FALSE,TRUE,Manacor,Tennis player,15841661,146,3166,0
+118,18297088,Rafinha Bastos,rafinhabastos,2008-12-22T01:11:01.000Z,FALSE,TRUE,Brasil,"Perfil administrado por Rafinha e equipe. Quando o tweet for bom, foi do Rafinha. Quando der cagada, foi da equipe. Contato: contato@rafinhabastos.com.br",11379870,250,36105,0
+119,36483808,Daddy Yankee 🐐,daddy_yankee,2009-04-29T21:15:16.000Z,FALSE,TRUE,Puerto Rico ,Global Music Icon. New album #Legendaddy,15939189,87,23265,0
+120,30040682,Anahi,Anahi,2009-04-09T18:49:26.000Z,FALSE,TRUE,,Exclusive Management -The Sixth House info@sixthhouse.com,9894065,770,8509,0
+121,19691643,LMFAO,LMFAO,2009-01-29T02:32:50.000Z,FALSE,FALSE,Hollywood,Sorry For Party Rocking..... Ya B*tch!!,6814779,1351,5782,0
+122,52471614,William Bonner,realwbonner,2009-06-30T18:16:52.000Z,FALSE,TRUE,Brazil,,9907535,0,10151,0
+123,71201743,Virat Kohli,imVkohli,2009-09-03T07:57:30.000Z,FALSE,TRUE,,A proud husband and father ❤️,51727960,65,2716,0
+124,36008570,Jessie J,JessieJ,2009-04-28T06:34:34.000Z,FALSE,TRUE,,The one that sings really loud,8058560,156,20958,0
+125,42513459,Vidi Aldiano,vidialdiano,2009-05-25T23:31:51.000Z,FALSE,TRUE,INDONESIA,Booking through: +6282111069666 (Mr. Bibit)| varecords.management@gmail.com,8546068,471,32222,0
+126,23563916,Anne Curtis-Smith,annecurtissmith,2009-03-10T06:15:36.000Z,FALSE,TRUE,Republic of the Philippines :),Anne Curtis. Fil/Aussie. Actress/Host & Pursuer of Dreams. 📷: https://t.co/FfoJ7Rxq0f,14831765,1447,53847,0
+127,135421739,Sachin Tendulkar,sachin_rt,2010-04-21T07:42:23.000Z,FALSE,TRUE,"ÜT: 18.986431,72.823769",Proud Indian,38092044,81,4803,0
+128,6741632,Marcelo Tas,MarceloTas,2007-06-11T14:13:30.000Z,FALSE,TRUE,"Sao Paulo, Brazil",👽 comercial@supernormal.com.br,9179401,4015,23861,0
+129,2804435462,برنامج مقامات,mishari_alafasy,2014-09-11T22:23:45.000Z,FALSE,FALSE,,ينطلق برنامج مقامات للشيخ مشاري راشد العفاسي على تلفزيون دولة الكويت من جديد في دورة أكتوبر 2022 بعد عرضه الأول على شاشة mbc1,8116,3,20990,0
+130,136007061,Carles Puyol,Carles5puyol,2010-04-22T19:49:00.000Z,FALSE,TRUE,La Pobla de Segur & Barcelona,"Carles Puyol, born in La Pobla de Segur on April 13th, 1978. My facebook is https://t.co/XrUB7TdomG #olyverse",12421313,447,2521,0
+131,18948541,Seth MacFarlane,SethMacFarlane,2009-01-13T19:04:37.000Z,FALSE,TRUE,,"The Official Twitter Page of Seth MacFarlane - “The Orville: New Horizons” coming to Hulu June 2, 2022!",13680759,521,833,0
+132,4101221,Thalia,thalia,2007-04-11T01:07:09.000Z,FALSE,TRUE,,Welcome to my world! STREAM PSYCHO B**CH NOW! #PsychoBitch 🪩💜🔥💃🏻🕺🏽,9795101,2393,24659,0
+133,254274083,Marc Anthony,MarcAnthony,2011-02-18T23:59:54.000Z,FALSE,TRUE,,"We inspire, we are the change, we create. 
+PA’LLA VOY ALBUM⬇️ OUT NOW CHECK IT OUT!",11334674,811,7528,0
+134,185827887,Cesc Fàbregas Soler,cesc4official,2010-09-01T23:01:33.000Z,FALSE,TRUE,"Como, Lombardy",Proud dad of 5 beautiful children. 35 years old. Como football player. 📸 Instagram: cescf4bregas,9986996,414,5968,0
+135,18222378,50cent,50cent,2008-12-18T19:18:49.000Z,FALSE,TRUE,,"G-UNIT FILM & TV, SIRE SPIRITS, G-UNIT RECORDS & THE G-UNITY FOUNDATION",12649623,37,11513,0
+136,338084918,Pharrell Williams,Pharrell,2011-07-19T02:08:57.000Z,FALSE,TRUE,,i am OTHER. @sitw @humanrace,10669828,1099,4924,0
+137,104249727,J O E  J O N A S,joejonas,2010-01-12T19:29:00.000Z,FALSE,TRUE,,☕️ | he/him,9942151,85,11464,0
+138,17915334,Sean Don,BigSean,2008-12-06T03:17:02.000Z,FALSE,TRUE,,#DETROITMixtape,14185377,2189,21266,0
+139,264107729,5 Seconds of Summer,5SOS,2011-03-11T10:18:46.000Z,FALSE,TRUE,"Sydney, Australia",Our fifth album 5SOS5 is out now ✨,12519936,27303,29444,0
+140,6480682,Aziz Ansari,azizansari,2007-05-31T19:06:49.000Z,FALSE,TRUE,"New York, NY",Pasta lover. I don't tweet much. My new Netflix series Master of None is now streaming on Netflix. I wrote a book called Modern Romance.,9958915,0,7585,0
+141,1059194370,Kobe Bryant,kobebryant,2013-01-04T01:09:40.000Z,FALSE,TRUE,,"@Granity Studios - CEO, Writer, Producer",14882217,510,1906,0
+142,57099808,davidbisbal,davidbisbal,2009-07-15T18:47:03.000Z,FALSE,TRUE,"Almería, Andalucía, España",Nuevo single 'Tú me delatas',9931599,918,19304,0
+143,87170183,Abhishek 𝐁𝐚𝐜𝐡𝐜𝐡𝐚𝐧,juniorbachchan,2009-11-03T11:29:22.000Z,FALSE,TRUE,"Mumbai, India","Actor, Sports fan.",15547536,403,33783,0
+144,62557485,Tata werneck,Tatawerneck,2009-08-03T16:43:18.000Z,FALSE,TRUE,,Bonita mas nao de rosto. snap: tatawerneckreal,11462496,2382,25366,0
+145,6427882,Channing Tatum,channingtatum,2007-05-29T23:50:23.000Z,FALSE,TRUE,"Los Angeles, CA",I just want to be on an adventure.,7677085,307,7180,0
+146,230845588,Robin van Persie,Persie_Official,2010-12-26T21:38:00.000Z,FALSE,TRUE,"Rotterdam, The Netherlands",New padel line out now!!,9313843,201,1082,0
+147,51376979,Sonam K Ahuja,sonamakapoor,2009-06-27T07:25:39.000Z,FALSE,TRUE,India,Actor,13191926,958,20456,0
+148,79650494,Cody Simpson,CodySimpson,2009-10-04T04:53:26.000Z,FALSE,TRUE,,Australian Musician & Swimmer. @undp Ocean Advocate. Founder of Prince Neptune: The Label.,6749866,68046,34146,0
+149,24702915,Luis Fonsi,LuisFonsi,2009-03-16T14:58:39.000Z,FALSE,TRUE,PuertoRico/Miami,#NochePerfectaTour👇,9820930,317,12131,0
+150,20432727,Marco Luque,MarcoLuque,2009-02-09T12:52:27.000Z,FALSE,FALSE,,"Guerreiro da paz, mensageiro da alegria!",8894687,359,24232,0
+151,344801362,David Luiz,DavidLuiz_4,2011-07-29T16:17:52.000Z,FALSE,TRUE,Rio de Janeiro,"Enjoy the life!
+🔴⚫️💥
+https://t.co/6cHcpZY4nc…",8694770,201,2426,0
+152,740336334,Gareth Bale,GarethBale11,2012-08-06T10:39:31.000Z,FALSE,TRUE,,@LAFC and @FAWales,19034697,142,1715,0
+153,141664648,John Cena,JohnCena,2010-05-08T17:43:50.000Z,FALSE,TRUE,"West Newbury, MA","A forum of thoughts and perspectives designed to ignite conversations and actions leading to growth, and occasional self promotion. #NeverGiveUp #RiseAboveHate",13988455,463685,7320,0
+154,46527223,Eugenio Derbez,EugenioDerbez,2009-06-11T23:57:30.000Z,FALSE,TRUE,Los Angeles / Mexico City,Estrenando Tik Tok ⬇️⬇️⬇️,11568052,777,10572,0
+155,19028953,J. Cole,JColeNC,2009-01-15T17:08:04.000Z,FALSE,TRUE,,,14337487,411,2869,0
+156,278235826,Elissa,elissakh,2011-04-06T21:53:47.000Z,FALSE,TRUE,beirut,Intl. Lebanese artist. Global awards winner. Rooted in #Mawtini Women’s rights advocate #Yamrayti. @erecordsmusic #ANAWBASS ➡️ https://t.co/qS1PEsVPTy,15777491,397,65362,0
+157,25970331,Miranda Cosgrove,MirandaCosgrove,2009-03-23T07:49:51.000Z,FALSE,TRUE,Los Angeles,I cant complain but sometimes I still do,6943551,11445,7053,0
+158,18228898,John Legend,johnlegend,2008-12-18T23:42:30.000Z,FALSE,TRUE,,Chrissy's husband. Father of Luna & Miles. #LoveInLasVegas The Residency in 2022. Tickets and VIP at https://t.co/W0YOsNZmGG. Drink like me: @lve_wines,13774289,1542,16764,0
+159,110827653,Eva Longoria Baston,EvaLongoria,2010-02-02T22:31:26.000Z,FALSE,TRUE,,@risacookware @clubnecaxa @weareangelcity #casadelsoltequila #weareunbelievable,6818730,907,17914,0
+160,78010944,سلمان العودة (معتقل),salman_alodah,2009-09-28T13:17:37.000Z,FALSE,FALSE,Saudi Arabia,بحكم اعتقال د. سلمان العودة ـ فرّج الله عنه ـ فهذا الحساب حالياً تحت إدارة ابنه د. عبد الله العودة,12917401,9,46586,0
+161,426738834,David Villa,Guaje7Villa,2011-12-02T16:43:20.000Z,FALSE,TRUE,,"President at DV7 Group. Follow our projects at: @dv7soccer, @dsignatedplayer, @QueensboroFC, @DV7ManagementEN & @DV7Management. #DV7group #DV7Management",8858815,546,2812,0
+162,209994211,Cher Lloyd,CherLloyd,2010-10-30T09:56:49.000Z,FALSE,TRUE,,"Contact: info@cherlloyd.com
+🔥BADDEST with Imanbek OUT NOW🔥",6455844,9557,6497,0
+163,29840295,Jessica Simpson,JessicaSimpson,2009-04-08T22:26:39.000Z,FALSE,TRUE,"Los Angeles, CA",Official Jessica Simpson Twitter 👡 @jscollection,6212232,300,2918,0
+164,470307418,Nancy Ajram,NancyAjram,2012-01-21T16:32:54.000Z,FALSE,TRUE,Lebanon,,15503204,160,25735,0
+165,246225682,Anderson Silva,SpiderAnderson,2011-02-02T11:46:11.000Z,FALSE,TRUE,,Bem-vindo ao perfil oficial de Anderson Silva. O maior lutador de MMA de todos os tempos. Mande o seu recado para o Spider.,7499672,304,3894,0
+166,55033131,Ricardo Montaner,montanertwiter,2009-07-08T21:21:12.000Z,FALSE,TRUE,MIAMI,Ricardo Montaner's official Twitter - Instagram @montaner // FB : Ricardo.Montaner,9266028,435,59186,0
+167,380399508,Little Mix,LittleMix,2011-09-26T15:50:00.000Z,FALSE,TRUE,United Kingdom,,11796225,26531,34907,0
+168,42384760,Carmelo Anthony,carmeloanthony,2009-05-25T10:30:34.000Z,FALSE,TRUE,WORLDWIDE,Official Page of Carmelo Anthony. #STAYME7O,9281751,398,3439,0
+169,30364057,Sarah Silverman,SarahKSilverman,2009-04-11T01:28:47.000Z,FALSE,TRUE,State of Palestine,We are on a planet in outer space,12132976,1814,20430,0
+170,56631494,Shahid Kapoor,shahidkapoor,2009-07-14T06:58:48.000Z,FALSE,TRUE,,,15489331,97,7976,0
+171,22733444,T-Raww,Tyga,2009-03-04T04:29:52.000Z,FALSE,TRUE,LA,,4881928,4070,12017,0
+172,305085584,Roberto G. Bolaños,ChespiritoRGB,2011-05-25T16:25:49.000Z,FALSE,TRUE,"Cancún, México. ",Gracias por siempre...,6136896,20,3014,0
+173,28638191,Nicole Polizzi,snooki,2009-04-03T19:53:24.000Z,FALSE,TRUE,My own world,"THE SNOOKI SHOP 🛍 32 Main Street, Madison NJ 🖤 508 Main Street, Beacon NY 💋",5947475,423,36400,0
+174,789856765,marcelo tinelli,cuervotinelli,2012-08-29T18:05:27.000Z,FALSE,TRUE,Buenos aires,Padres de 5 hermosos hijos. Nacido en Bolivar(pcia.BsAs).,10276653,316,77733,0
+175,61507091,Angel Locsin,143redangel,2009-07-30T14:54:09.000Z,FALSE,TRUE,Republic of the Philippines :),"Volunteer, Activist, Endorser, Film & Television Actress. Instagram: @therealangellocsin Facebook: https://t.co/G8Zg8W2Vdx",12786714,511,12398,0
+176,50826280,Queen Latifah,IAMQUEENLATIFAH,2009-06-25T23:59:18.000Z,FALSE,TRUE,Everywhere,"Actor/Rapper/Singer/Producer 
+https://t.co/4aZi8oFsPN 
+https://t.co/j2UZaEzJRM
+https://t.co/XebeJrYUE8",8083781,803,6426,0
+177,66561957,zooey deschanel,ZooeyDeschanel,2009-08-18T01:55:35.000Z,FALSE,TRUE,somewhere pretty awesome...,where do I begin?,5728314,655,4388,0
+178,18713254,Pegg News,simonpegg,2009-01-07T06:19:34.000Z,FALSE,TRUE,Earth,This account is moderated on Simon's behalf,5586190,1,16235,0
+179,401866664,.,RaffiAhmadLagi,2011-10-31T06:29:04.000Z,FALSE,FALSE,,,8384976,0,13307,0
+180,26895879,NE-YO,NeYoCompound,2009-03-27T00:04:42.000Z,FALSE,TRUE,,#SelfExplanatory now. 🎙,6448890,7230,16845,0
+181,18625669,Calvin Harris,CalvinHarris,2009-01-05T06:17:35.000Z,FALSE,TRUE,,FUNK WAV BOUNCES VOL.2 OUT NOW,11849769,3017,242,0
+182,8161232,Richard Branson,richardbranson,2007-08-13T15:20:18.000Z,FALSE,TRUE,,"Tie-loathing adventurer, philanthropist & troublemaker, who believes in turning ideas into reality. Astronaut 001, otherwise known as Dr Yes at @virgin!",12652777,978,26576,0
+183,28897926,Ciara,ciara,2009-04-04T23:53:24.000Z,FALSE,TRUE,,#BetterThangsRemix ft. @IAMSUMMERWALKER @GloTheofficial OUT NOW! https://t.co/rnQxXd5ecG,11790901,59,12329,0
+184,14824849,Steve Martin,SteveMartinToGo,2008-05-18T21:33:55.000Z,FALSE,TRUE,Cloistering,My new book with Harry Bliss is about to drop: https://t.co/TAkGI0jqab,8734918,397,965,0
+185,142204481,Daniel Alves,DaniAlvesD2,2010-05-10T07:33:06.000Z,FALSE,TRUE,Mundo,"Dani Alves!! ( Juazeiro, Bahia, Brasil, 6 de maio de 1983),ATLETA PROFISSIONAL! Maior vencedor da história do futebol CLUB ATUAL: PUMAS DE MÉXICO 🇲🇽",9416425,439,8588,0
+186,30782495,KELENDRIA ROWLAND,KELLYROWLAND,2009-04-13T02:15:13.000Z,FALSE,TRUE,,,6958497,1706,14479,0
+187,19818494,fearne cotton,Fearnecotton,2009-01-31T15:28:48.000Z,FALSE,TRUE,london,Mum/wife/Broadcaster/founder of happy place,6726792,571,20801,0
+188,155927976,Rio Ferdinand,rioferdy5,2010-06-15T14:47:40.000Z,FALSE,TRUE,www.neweraglobalsports.com,Official Twitter Account of Rio Ferdinand / Media & Commercial Enquiries - Ingenious@neweraltd.co.uk / @_Jmallen,11528064,724,22527,0
+189,42519612,Floyd Mayweather,FloydMayweather,2009-05-26T00:08:06.000Z,FALSE,TRUE,"Las Vegas, NV",,7833598,488,7857,0
+190,403245020,Luke Hemmings,Luke5SOS,2011-11-02T06:59:37.000Z,FALSE,TRUE,He/Him,,10193003,18627,9494,0
+191,541561178,s h i r e e n,shireensungkar,2012-03-31T11:03:33.000Z,TRUE,FALSE,,,13,1,0,0
+192,15224867,Anderson Cooper,andersoncooper,2008-06-24T22:37:59.000Z,FALSE,TRUE,New York,CNN/ 60Minutes. Podcast “All There Is.” Link below,9899263,318,18384,0
+193,33804533,Fabio Porchat,FabioPorchat,2009-04-21T04:04:03.000Z,FALSE,TRUE,"Rio de Janeiro, Brazil","Que História é Essa, Porchat? Papo de Segunda e Porta dos Fundos! Ator, humorista e apresentador",9221421,1346,14510,0
+194,97865628,Farhan Akhtar,FarOutAkhtar,2009-12-19T09:37:49.000Z,FALSE,TRUE,"Mumbai, India",Writer. Director. Actor. Producer. Singer/Songwriter. Founder @MardOfficial Initiative | @UN_Women Goodwill Ambassador(South Asia),12614839,399,9421,0
+195,15460081,Jennette McCurdy,jennettemccurdy,2008-07-16T21:36:31.000Z,FALSE,TRUE,,,5565653,34016,230,0
+196,126676337,Gusttavo Lima,gusttavo_lima,2010-03-26T16:47:47.000Z,FALSE,TRUE,Goiânia/GO,Perfil Oficial... Brazilian Singer. ⬇️Confira meu último EP “Buteco Goiânia⬇️ ❤️🏛,15036634,788,20909,0
+197,48177728,BITCHIMBELLATHORNE,bellathorne,2009-06-18T00:25:58.000Z,FALSE,TRUE,,"number one book, number one new movie:) wow. love u guys thank u 🔥",6492454,6986,77161,0
+198,20508222,Holly Willoughby,hollywills,2009-02-10T11:50:59.000Z,FALSE,TRUE,London,I was introduced to this by a twitter legend! Ambassador for Garnier UK and Marks & Spencer and author of #reflections... link below to preorder.,7291997,287,7321,0
+199,104974333,Juan Luis Guerra,JuanLuisGuerra,2010-01-14T23:52:20.000Z,FALSE,TRUE,"Santo Domingo, RD","Músico, compositor, arreglista, cantante y productor dominicano.",7631216,65,1648,0
+200,117778179,T.I.,Tip,2010-02-26T15:47:13.000Z,FALSE,TRUE,"Atlanta, GA",#TheLIBRA ♎️⚖️ IG: @Troubleman31 Iser@wmeagency.com,9214074,720,19715,0
+201,19329393,Perez Hilton,PerezHilton,2009-01-22T06:47:48.000Z,FALSE,TRUE,"Los Angeles, CA","This is the account for https://t.co/3bay4JN1U1. For the man himself, follow @ThePerezHilton For booking inquiries, email Bookings@perezhilton.com",5504768,545,364667,0
+202,16812787,Dwight Howard,DwightHoward,2008-10-16T19:42:00.000Z,FALSE,TRUE,Atl,Be Great,6363231,7025,23537,0
+203,29749448,CHAYANNE,CHAYANNEMUSIC,2009-04-08T16:09:19.000Z,FALSE,TRUE,"Miami, Florida",Twitter oficial de Chayanne® / Escucha “Como Tú y Yo” aquí 👇🏼,9296262,930,5081,0
+204,17549677,Ricardo Arjona ®,Ricardo_Arjona,2008-11-22T00:40:10.000Z,FALSE,TRUE,,Y es tanta mi fe que aunque no tengo jardín... ya compré una podadora.,10473983,34,4937,0
+205,183230911,Alia Bhatt,aliaa08,2010-08-26T13:37:26.000Z,FALSE,TRUE,,Beautifully chaotic :),21665392,223,5614,0
+206,186712788,jose marie viceral,vicegandako,2010-09-04T05:12:31.000Z,FALSE,TRUE,Earth,Supermodel turned actress turned horse,14786407,498,24553,0
+207,154280902,Zendaya,Zendaya,2010-06-10T21:08:45.000Z,FALSE,TRUE,,,21279773,1676,58293,0
+208,79327591,Dulce Maria,DulceMaria,2009-10-03T00:22:58.000Z,FALSE,TRUE,,ORIGEN 🏹 disponible en todas las plataformas digitales  instagram @dulcemaria,7181000,895,33535,0
+209,58233603,Ian Somerhalder,iansomerhalder,2009-07-19T16:36:43.000Z,FALSE,TRUE,The Universe,Damon&Stefan have a bourbon.We have worked so hard on this.If you are 21 yrs old in the USA or legal drinking age go to our website 👇so we can share with you.,7112566,730,10113,0
+210,23613479,Kris Jenner,KrisJenner,2009-03-10T16:38:12.000Z,FALSE,TRUE,CLOUD NINE,"MOM, MANAGER, MOMAGER, LOVER OF LIFE, LOVER OF CHRIST",12644826,294,14378,0
+211,26053643,Jimmy Kimmel,jimmykimmel,2009-03-23T18:05:56.000Z,FALSE,TRUE,Los Angeles,Businessperson,11823029,854,7994,0
+212,27042513,Hugh Jackman,RealHughJackman,2009-03-27T16:45:10.000Z,FALSE,TRUE,Sydney ,,15016516,28,4227,0
+213,59156773,Luan Santana 🫀,luansantana,2009-07-22T15:35:59.000Z,FALSE,TRUE,Brasil,Cantor e Compositor,11786324,3777,14747,0
+214,153694176,IGGY AZALEA,IGGYAZALEA,2010-06-09T06:10:41.000Z,FALSE,TRUE,,None of your business,7605321,1491,10681,0
+215,102729125,Galilea Montijo,GalileaMontijo,2010-01-07T16:49:44.000Z,FALSE,TRUE,Mexico DF,Conductora-Actress/TVhost instagram:galileamontijo https://t.co/95FwhBv7UX,7311984,1346,22601,0
+216,54829997,Anushka Sharma,AnushkaSharma,2009-07-08T07:30:37.000Z,FALSE,TRUE,,illegitimi non carborundum . Anyone spreading hatred will be blocked .,23309306,118,4707,0
+217,27989078,ROBERT KARDASHIAN,robkardashian,2009-03-31T23:07:50.000Z,FALSE,TRUE,,snapchat: 👻 robphuckedme Instagram: robkardashianofficial,7213144,1329,1712,0
+218,25421094,AKON,Akon,2009-03-20T00:35:33.000Z,FALSE,TRUE,,,6163437,1,1882,0
+219,19018401,Jason Mraz,jason_mraz,2009-01-15T11:16:33.000Z,FALSE,TRUE,Earth,Celebrating the 20th Anniversary of Waiting for My Rocket to Come with a special digital Expanded Edition – out now! Buy / Stream: https://t.co/NQ9sgosQqQ,5226923,61,4785,0
+220,73443014,Nina Dobrev,ninadobrev,2009-09-11T18:00:49.000Z,FALSE,TRUE,,Where ever you go... there you are. Going day by day... so let's see where it takes me! Namaste.,7008761,147,7476,0
+221,16721910,Omar Chaparro,OMARCHAPARRO,2008-10-13T15:12:41.000Z,FALSE,TRUE,facebook.com/omarchaparro,Entretenedor y Cuchara. Contacto ™️@NadirAssis 🎼@Martinfabianr ____🎬@talentontheroad,7502201,1599,32103,0
+222,151123001,Sergio Ramos,SergioRamos,2010-06-02T17:17:33.000Z,FALSE,TRUE,"Madrid, Spain",🦁 YOU HAVE THE POWER TO MAKE BEAUTIFUL THINGS,19739221,731,4372,0
+223,41384170,Rodrigo Scarpa,rodrigovesgo,2009-05-20T15:47:49.000Z,FALSE,TRUE,"Florida, USA","Apresentador , Repórter e Investidor Curioso . Conheça meu Instagram @rodrigoscarpa e o https://t.co/rJbqSjjuDo",5463083,2294,11193,0
+224,313913938,Javier Mascherano,Mascherano,2011-06-09T12:23:45.000Z,FALSE,TRUE,,,8082569,377,1839,0
+225,44588485,Chetan Bhagat,chetan_bhagat,2009-06-04T10:30:19.000Z,FALSE,TRUE,Mumbai,Author. Columnist. Screenwriter. Motivational Speaker. Youtuber.,12505632,169,16618,0
+226,403255314,Calum Hood,Calum5SOS,2011-11-02T07:27:56.000Z,FALSE,TRUE,"Sydney, Australia",,7027154,14281,15161,0
+227,618420295,Javier “Chicharito” Hernandez,CH14_,2012-06-25T20:38:36.000Z,FALSE,TRUE,,@LAGalaxy,8829750,476,2624,0
+228,62513246,J.K. Rowling,jk_rowling,2009-08-03T13:23:45.000Z,FALSE,TRUE,Scotland,Writer sometimes known as Robert Galbraith,13968159,1039,15472,0
+229,29547045,FLO RIDA,official_flo,2009-04-07T21:14:47.000Z,FALSE,TRUE,"Miami, FL",“What a Night” is out everywhere now! freezy@imgstrongarm.com IMG/STRONGARM,4814647,2139,24120,0
+230,19877186,Chelsea Handler,chelseahandler,2009-02-01T21:13:36.000Z,FALSE,TRUE,"Los Angeles, CA",Tickets on sale for my Vaccinated And Horny stand-up tour | Dear Chelsea Podcast Season 2 out now | Stream my stand-up special “Evolution” on @hbomax🍊,7765640,623,13231,0
+231,170428440,atademirer,atademirer,2010-07-24T20:21:51.000Z,FALSE,TRUE,istanbul,,6985997,165,2422,0
+232,101928415,Scott Disick,ScottDisick,2010-01-05T02:15:37.000Z,FALSE,TRUE,NY-LA,For all inquiries please email matt@disickcorp.com Go check out my brand: https://t.co/BjLamqKdd2,6670691,23,2798,0
+233,262881419,Cheryl,CherylOfficial,2011-03-08T23:24:59.000Z,FALSE,TRUE,,Live In Love 💖✨🌈,5607214,937,7381,0
+234,213745334,Luis Suárez,LuisSuarez9,2010-11-09T17:56:06.000Z,FALSE,TRUE,Uruguay,"Selección Uruguaya (@Uruguay) & Club Nacional de Football (@Nacional) player. Born in Salto, Uruguay 24 January 1987",17328302,116,1736,0
+235,33801019,Parineeti Chopra,ParineetiChopra,2009-04-21T03:51:35.000Z,FALSE,TRUE,,Wandering Hedonist 🌟🌈 Instagram - @Parineetichopra.,14625795,237,8994,0
+236,47786101,Robert Downey Jr,RobertDowneyJr,2009-06-17T00:12:08.000Z,FALSE,TRUE,,You know who I am.,18015592,5,927,0
+237,205011496,Gonzalo Higuaín,G_Higuain,2010-10-19T23:45:32.000Z,FALSE,TRUE,"Torino, Piemonte",Esta es mi cuenta oficial.Hasta la victoria siempre.Gracias. Instagram Oficial : ghiguain20_9,6442611,223,382,0
+238,17020962,Jimmy Carr,jimmycarr,2008-10-28T13:39:56.000Z,FALSE,TRUE,,"Watch my specials, get tour tickets and my new book here:
+https://t.co/E00e4jNn09",6770152,425,5000,0
+239,48410093,Tom Cruise,TomCruise,2009-06-18T16:50:46.000Z,FALSE,TRUE,Worldwide,Actor. Producer. Running in movies since 1981.,6956646,49989,10860,0
+240,23561980,Kendrick Lamar,kendricklamar,2009-03-10T05:44:26.000Z,FALSE,TRUE,,@pglang,12265141,511,4132,0
+241,26589987,Serena Williams,serenawilliams,2009-03-25T21:00:33.000Z,FALSE,TRUE,Somewhere over the Rainbow,"Living, Loving, and working to help you.",10718820,373,14704,0
+242,39203045,Residente,Residente,2009-05-11T06:01:58.000Z,FALSE,TRUE,Puerto Rico ,El papá de Milo,6285998,1799,29750,0
+243,58528137,Adam Levine,adamlevine,2009-07-20T17:12:25.000Z,FALSE,TRUE,"Los Angeles, CA",man in a suitcase.,7819671,13210,5969,0
+244,68844197,Carlos Loret de Mola,CarlosLoret,2009-08-26T00:00:09.000Z,FALSE,TRUE,"México, DF.",Reportero. #Loret en @latinus_us Columna en @El_Universal_Mx  #AsíLasCosasConLoret en @WRadioMexico. Colaborador del @WashingtonPost @postopinion_es,9391856,2069,103715,0
+245,527526077,Jeremy Clarkson,JeremyClarkson,2012-03-17T14:49:48.000Z,FALSE,TRUE,,I am a still small voice of calm and reason.,7920338,199,7972,0
+246,43394391,Ana Hickmann,ahickmann,2009-05-29T19:45:07.000Z,FALSE,TRUE,,Empresária e Apresentadora de TV,6161869,290,26712,0
+247,275558381,أ. د. طارق الحبيب,Talhabeeb,2011-04-01T14:34:32.000Z,FALSE,TRUE,المملكة العربية السعودية,بروفسور واستشاري الطب النفسي | الأمين العام لاتحاد الأطباء النفسيين العرب | للاستشارات 966112296669+| | لتنسيق الدورات 966509880909+| | snapchat: t.alhabeeb,6582315,47,44967,0
+248,274119641,Vanessa Hudgens,VanessaHudgens,2011-03-29T19:28:34.000Z,FALSE,TRUE,,🔮,6633364,128,4591,0
+249,122969292,Dr.TareqAlSuwaidan,TareqAlSuwaidan,2010-03-14T14:33:12.000Z,FALSE,TRUE,Kuwait,مؤسس مشروع عمران لنهضة الأمة باحث ومفكر وداعية إسلامي، مدرب محترف في مجالات الإدارة والقيادة، رئيس مجلس إدارة مجموعة شركات الإبداع,9910660,12,21834,0
+250,215952307,James Corden,JKCorden,2010-11-15T11:40:04.000Z,FALSE,TRUE,"Los Angeles, CA","Sometimes it’s James, sometimes it’s the @latelateshow digital team. We dont read DMs. x",10872293,2537,13901,0
+251,403246803,michael clifford,Michael5SOS,2011-11-02T07:04:18.000Z,FALSE,TRUE,he/him,just a person i guess +1 323-310-3790,10094266,14036,12809,0
+252,20565284,Ellie Goulding,elliegoulding,2009-02-11T02:15:58.000Z,FALSE,TRUE,,🕊| Let It Die OUT NOW | Higher Than Heaven PRE ORDER NOW 🌍,6311485,672,18570,0
+253,405728790,Cameron Dallas,camerondallas,2011-11-05T18:20:57.000Z,FALSE,TRUE,,Co-Founder of @Fanfixio Business - camdallas2022@gmail.com,14711907,519,1475,0
+254,236636515,Joaquín López-Dóriga,lopezdoriga,2011-01-11T01:32:54.000Z,FALSE,TRUE,Ciudad de México,"🇺🇦Periodista #RadioFórmula #TeleFórmula #Milenio Facebook: https://t.co/NBp4gTHdV6 #Pumas YouTube, Instagram, Spotify, Telegram: https://t.co/t7VfEMc7a9",8038624,1925,434856,0
+255,68977380,Kiran Bedi,thekiranbedi,2009-08-26T13:32:38.000Z,FALSE,TRUE,India,"Indian Police Service (Rtd), Fmr Lt Governor Puducherry, Phd IIT Delhi, Author-Fearless Governance, Magsaysay Awardee, NGOs: @IVFoundation & @NavjyotiIF",12214589,432,38884,0
+256,63695781,Raisa Andriana,raisa6690,2009-08-07T11:36:31.000Z,FALSE,TRUE,,"I'm a singer, in love forever with it. In it for the love of music, not for the glitter and gold :) Contact : Boim - adryboim@junirecords.com",9334031,435,27076,0
+257,76294950,Anupam Kher,AnupamPKher,2009-09-22T09:53:46.000Z,FALSE,TRUE,"Mumbai, India",Actor/Teacher/MotivationalSpeaker/UN Ambassador @HeForShe/Author/Padma Shri/PadmaBhushan,20097902,214,42080,0
+258,409486555,Michelle Obama,MichelleObama,2011-11-10T20:13:01.000Z,FALSE,TRUE,"Washington, DC","Girl from the South Side and former First Lady. Wife, mother, dog lover. Always hugger-in-chief. #TheLightWeCarry",22182782,17,2051,0
+259,54951973,Mary J. Blige,maryjblige,2009-07-08T16:48:22.000Z,FALSE,TRUE,,https://t.co/R4MCjOP3vg,6220931,318,7149,0
+260,65151248,Serginho Groisman,oserginho,2009-08-12T20:31:30.000Z,FALSE,TRUE,Brasil,"Serginho Groisman Twitter oficial. Jornalista,dirijo e apresento programas de TV. Facebook serginhogroisman",6216657,743,9584,0
+261,19554706,Demi Moore,justdemi,2009-01-26T20:21:06.000Z,FALSE,TRUE,,,4421620,342,5504,0
+262,197807757,KATH 🐘,bernardokath,2010-10-02T14:30:30.000Z,FALSE,TRUE,,"In order to be irreplaceable, one must always be different.",10483483,568,6621,0
+263,75974281,Samuel L. Jackson,SamuelLJackson,2009-09-21T06:47:04.000Z,FALSE,TRUE,,,9090393,862,3887,0
+264,24741517,Nicole Scherzinger,NicoleScherzy,2009-03-16T18:28:02.000Z,FALSE,TRUE,"Los Angeles, CA","When you are born in a world you don't fit in, it's because you were born to help create a new one.",5011974,340,10961,0
+265,7428362,Black Eyed Peas,bep,2007-07-12T13:25:51.000Z,FALSE,TRUE,Los Angeles,"""SIMPLY THE BEST"" ft. @anitta & @elalfa18 out now! https://t.co/pShqqQX8cc",4643920,42011,4440,0
+266,266644093,okan bayulgen,okanbayulgen,2011-03-15T15:24:29.000Z,FALSE,TRUE,,"makinakafa, münzevi...",6961415,5438,6502,0
+267,257861295,INDONESIAinLOVE,INDONESIAinLOVE,2011-02-26T10:44:49.000Z,FALSE,FALSE,Indonesia,"Top News, Ilmu Pengetahuan & Breaking News || mencintai Indonesia ❤ saja tidak cukup, buat Indonesia mencintai kamu ❤",4987391,53,61370,0
+268,66959303,Amr Khaled,amrkhaled,2009-08-19T09:42:24.000Z,FALSE,TRUE,Egypt,أتواصل معكم يوميًا علي صفحتي الشخصية لنشر الخير والأمل والعمل الصالح . ~ عمرو خالد https://t.co/rXZBFCb3jf,11044467,14,19760,0
+269,20567939,MeekMill,MeekMill,2009-02-11T03:15:04.000Z,FALSE,TRUE,Killadelphia,I just wanna see the sun shine tomorrow @dreamchasers #hustler,11419667,1494,17361,0
+270,17386885,antanddec,antanddec,2008-11-14T13:04:56.000Z,FALSE,TRUE,United Kingdom,,6854257,824,16048,0
+271,7.89098E+17,CasillasWorld,casillasworld,2016-10-20T13:37:52.000Z,TRUE,FALSE,@IkerCasillas,Ahora me podeis encontrar en @IkerCasillas,0,0,1,0
+272,27725199,Rita Ora,RitaOra,2009-03-30T20:49:02.000Z,FALSE,TRUE,London,Barricades with @netskymusic out now⚡,6507607,1668,14359,0
+273,38741679,Luisana Lopilato,lulopilato,2009-05-08T20:51:39.000Z,FALSE,TRUE,"Buenos Aires, Argentina",Luisana Lopilato Official Twitter account. Actriz argentina.,6031348,105,7803,0
+274,43132532,FIUK 🎸🚀💥,Fiuk,2009-05-28T15:38:39.000Z,FALSE,TRUE,,fiuk@seainfluencers.com.br,5441641,1155,28399,0
+275,19571299,Nick Cannon,NickCannon,2009-01-27T01:44:34.000Z,FALSE,TRUE,,MR. NCREDIBLE aka THE KING of RAW&B,4668489,5795,30562,0
+276,3309596149,•Bambang Pamungkas•,bepe20s,2015-08-08T10:21:12.000Z,FALSE,FALSE,•Jakarta - Indonesia•,•Another side of Bambang Pamungkas• •Contact: thenekatchef@gmail.com•,1011,8,104,0
+277,51509917,Sandy Leah,SandyLeah,2009-06-27T18:16:25.000Z,FALSE,TRUE,"Campinas - SP, Brasil",Singer / Songwriter,5970951,104,5643,0
+278,34738598,Miranda Lambert,mirandalambert,2009-04-23T21:37:36.000Z,FALSE,TRUE,USA,New album 'Palomino' out now: https://t.co/GLmNHcV5jU,6799901,248,6194,0
+279,20490840,Angel Rivera,Angelluisr,2009-02-10T04:02:59.000Z,FALSE,TRUE,"Florida, USA",Founder & CEO @VAGARiEnergy @VaderaCapital | @Forbes Contributor,1125036,120,526,0
+280,310072711,Nash Grier,Nashgrier,2011-06-03T04:34:15.000Z,FALSE,TRUE,LA,"Part-time video creator, Full-time dad",6232496,994,32721,0
+281,41626669,bunga citra lestari,bclsinclair,2009-05-21T17:03:32.000Z,FALSE,FALSE,"Jakarta, Indonesia",Official Twitter of Bunga Citra Lestari. Indonesian Female Singer & Multi-Talented Actress,5781335,142,9744,0
+282,150566311,Demet Akalin,DemetAkalin,2010-06-01T07:29:05.000Z,FALSE,TRUE,"Istanbul, TR",Demet Akalın resmi Twitter hesabı / Demet Akalın official Twitter account. Facebook: https://t.co/zob03eyysy,6783139,419,91309,0
+283,64038747,Yeng Constantino,YengPLUGGEDin,2009-08-08T20:45:18.000Z,FALSE,TRUE,PILIPINAS KONG MAHAL!,Singer/Songwriter. VLOG ⤵️,7421808,953,42733,0
+284,23544596,Mindy Kaling,mindykaling,2009-03-10T02:29:28.000Z,FALSE,TRUE,Los Angeles,new money,11518094,918,20983,0
+285,8.90534E+17,S,siwon407,2017-07-27T11:25:59.000Z,TRUE,FALSE,,,0,0,0,0
+286,23065354,Mac,MacMiller,2009-03-06T13:52:47.000Z,FALSE,TRUE,,Circles. January 17.,7902573,1244,206,0
+287,265982289,David de Gea,D_DeGea,2011-03-14T13:03:14.000Z,FALSE,TRUE,,⚽ Goalkeeper @ManUtd 🇪🇸 International with @SeFutbol ♦️ Founder & President @RebelsGaming,14177606,261,2778,0
+288,140750163,Juan Mata García,juanmata8,2010-05-06T08:44:21.000Z,FALSE,TRUE,,Player of @galatasaraySK 🦁♥️💛. Member of @CommonGoalOrg ⚽️❤️🌎 https://t.co/Q7jzW2MupH,8027057,631,3132,0
+289,32453930,Tiger Woods,TigerWoods,2009-04-17T15:48:12.000Z,FALSE,TRUE,"Jupiter Island, FL","Official Twitter account of Tiger Woods. Father, Golfer, Entrepreneur. Tweets from TGR Ventures are signed – TGR",6662416,31,1366,0
+290,156132825,Mike Tyson,MikeTyson,2010-06-16T03:10:23.000Z,FALSE,TRUE,,Shop official Mike Tyson apparel 👇🏾,5897096,413,6859,0
+291,23006794,Lenny Kravitz,LennyKravitz,2009-03-06T00:51:27.000Z,FALSE,TRUE,,"#LetLoveRule +1 305-526-4614
+https://t.co/Qkg5TlyO1z",4780763,1701,3199,0
+292,104288093,kevin jonas,kevinjonas,2010-01-12T22:09:15.000Z,FALSE,TRUE,,"#GirlDad, Husband, Brother, and Guitarist.",5185523,1735,9931,0
+293,33995409,DWade,DwyaneWade,2009-04-21T18:42:20.000Z,FALSE,TRUE,I'm everywhere...,"From Robbins, IL..I'm a father First and everything else after that...",9678328,808,15186,0
+294,19373710,LINKIN PARK,linkinpark,2009-01-23T01:05:42.000Z,FALSE,TRUE,"Los Angeles, CA",,5839580,124,6511,0
+295,200913899,Hilary Duff,HilaryDuff,2010-10-10T16:29:02.000Z,FALSE,TRUE,"Los Angeles, CA","mummy,singer,actress,lover,friend",4518021,153,4421,0
+296,121044171,Suresh Raina🇮🇳,ImRaina,2010-03-08T08:47:26.000Z,FALSE,TRUE,India,"Professional Cricketer 🇮🇳, Co-Founder @maatecare, @grfcare 📧 - team@sureshraina.com For queries, contact Rishiraj - rg@artkonnect.in",20584507,1693,7692,0
+297,277434037,Ratan N. Tata,RNTata2000,2011-04-05T11:01:00.000Z,FALSE,TRUE,Mumbai,"Chairman Emeritus, Tata Sons. Chairman, Tata Trusts",12103130,27,180,0
+298,114446939,有吉弘行,ariyoshihiroiki,2010-02-15T12:51:21.000Z,FALSE,TRUE,日本,穏やかに。。。,7774771,285,21868,0
+299,637313893,G-DRAGON,IBGDRGN,2012-07-16T21:48:58.000Z,FALSE,TRUE,MADEINKOREA,https://t.co/94cfAZzmy9｜https://t.co/YepKJotLhA｜https://t.co/z4O2zgQL5q｜instagram:XXXIBGDRGN | https://t.co/RIRhpkMTaw,8554126,8,4802,0
+300,59949396,Anna Kendrick,AnnaKendrick47,2009-07-25T01:57:57.000Z,FALSE,TRUE,,kind of a lot,6879300,332,2476,0
+301,108345784,Angelica Panganiban,sectorkekz,2010-01-25T17:08:38.000Z,FALSE,FALSE,Happy Place,#keksec,4282709,0,13074,0
+302,17753033,Jonathan Ross,wossy,2008-11-30T11:53:25.000Z,FALSE,TRUE,London,"I also post self-indulgent moments from my life on Instagram, where I am @mewossy.",4936467,9682,26725,0
+303,29756339,Lucy Hale,lucyhale,2009-04-08T16:38:52.000Z,FALSE,TRUE,Tennessee/California,mama to elvis & ethel 🐾,6633986,440,19601,0
+304,37457377,Bridgit Mendler,bridgitmendler,2009-05-03T17:25:10.000Z,FALSE,TRUE,"Cambridge, MA","Hi! Working on JD/PhD @Harvard_Law + @medialab, I am also an actress and singer and wifey",4155640,971,9522,0
+305,130834357,Super Junior 이동해,donghae861015,2010-04-08T13:21:20.000Z,FALSE,TRUE,,SJ,5318734,101,2422,0
+306,10810102,John Cleese,JohnCleese,2007-12-03T13:43:30.000Z,FALSE,TRUE,London,"Trainee hermit, & keen Amateur Squirrel Trainer",5700182,256,12847,0
+307,16827333,Soulja Boy (Draco),souljaboy,2008-10-17T17:09:15.000Z,FALSE,TRUE,"Los Angeles, CA","""Soulja Boy - Get Sturdy"" out now! | https://t.co/aiqg1jdjUE • https://t.co/7x5m3xteQ9 • https://t.co/TuvrMG2F7a • https://t.co/pS2T8h5N6B",5527353,136,128353,0
+308,65186457,Prince Royce,PrinceRoyce,2009-08-12T22:38:20.000Z,FALSE,TRUE,"Bronx, New York",Live Life Smiling,6623612,305,18228,0
+309,386244525,Carrie Underwood,carrieunderwood,2011-10-06T22:36:16.000Z,FALSE,TRUE,"Nashville, TN","Mike's wife, Isaiah’s and Jacob’s mom. Also, mom to fur babies Penny Jean and Zero. Blessed and grateful! The official Twitter account for Carrie Underwood",8256089,450,6000,0
+310,27909036,Jesse & Joy Oficial,jesseyjoy,2009-03-31T16:48:05.000Z,FALSE,TRUE,En el espacio sideral.,Grammy and Latin Grammy winning band jessejoy@bizarrolive.com,5239443,897,30460,0
+311,17681513,Yoko Ono ☮️🏳️,yokoono,2008-11-27T16:06:43.000Z,FALSE,TRUE,New York,"IMAGINE PEACE: Think Peace, Act Peace, Spread Peace.
+🎧 Ocean Child - Songs of Yoko Ono is out now.",4569805,859390,14803,0
+312,59186139,OR,olla_ramlan,2009-07-22T17:22:44.000Z,FALSE,FALSE,Jakarta Capital Region,"ALLAH SWT is my Lord, Islam is my life, Qur'an is my guide, Prophet Muhammad is my role model, and Heaven is my goal!",4733188,316,27671,0
+313,259925559,Novak Djokovic,DjokerNole,2011-03-02T21:44:22.000Z,FALSE,TRUE,,🎾🇷🇸 @novakfoundation,9212031,769,3992,0
+314,92670884,gaby espino,gabyespino,2009-11-26T02:57:24.000Z,FALSE,TRUE,,Actress & Host MGMT: Jennifer@gomezvita.com / CEO @agavebeautybar,5214459,1127,36769,0
+315,82648754,Laudya Cynthia bella,Bellaudyaa,2009-10-15T16:00:45.000Z,FALSE,FALSE,Indonesia,lcbella.management@gmail.com اَللّهُ is my destiny&♥️ Prophet Muhammad ﷺ,5595697,897,19173,0
+316,14222536,tyler oakley (parody),tyleroakley,2008-03-26T03:20:33.000Z,FALSE,TRUE,business: lisa@select.co,internet oversharer (find me: https://t.co/vsugnGtMVT),5295371,820,74224,0
+317,18055737,John Green,johngreen,2008-12-11T18:28:42.000Z,FALSE,TRUE,"Indianapolis, IN","I'm an author (Turtles All the way Down, The Anthropocene Reviewed, etc.), a YouTuber (vlogbrothers, Crash Course, etc.), and a person who does not cast movies.",4653461,841,72,0
+318,32765534,Bill Simmons,BillSimmons,2009-04-18T03:37:31.000Z,FALSE,TRUE,LA (via Boston),@ringer (founder) @spotify + The BS Podcast + @therewatchables + @BookoBasketball + Music Box series on @hbo ... Past Life: @grantland33 @30for30,5659591,789,34017,0
+319,130122646,Diego Forlán,DiegoForlan7,2010-04-06T11:16:24.000Z,FALSE,TRUE,"Montevideo, Uruguay",⚽️🇺🇾,5057437,206,2008,0
+320,19330043,LLCOOLJ,llcoolj,2009-01-22T07:24:15.000Z,FALSE,TRUE,Studio.,I believe Hip-Hop culture isn’t disposable. I believe true art/artists don’t have expiration dates. Timeless Hip-Hop is Priceless. @rockthebells,5008119,1836,34521,0
+321,83297130,Facundo,facufacundo,2009-10-18T04:33:30.000Z,FALSE,TRUE,Facundo Gomez,contacto: contactofacufacundo@gmail.com https://t.co/FQezJwawka https://t.co/EmyXBRAlwl,5193902,628,21764,0
+322,32751684,Bianca Gonzalez,iamsuperbianca,2009-04-18T03:00:09.000Z,FALSE,TRUE,Philippines,"Television host, writer, advocate 🇵🇭
+She/her.",7544104,718,59339,0
+323,92708272,Mahendra Singh Dhoni,msdhoni,2009-11-26T07:42:07.000Z,FALSE,TRUE,India,"Member TEAM INDIA, Biker, Gamer, hindi retro aficionado, an absolute pet-lover and perennially hungry for chicken butter masala",8497330,33,480,0
+324,216299334,Piers Morgan,piersmorgan,2010-11-16T09:37:44.000Z,FALSE,TRUE,"London, Newick, LA.","'One day you're cock of the walk, the next a feather duster’ - Margot Barber. Pronouns: hot/hotter/hottest",8008448,2098,150790,0
+325,18825961,Skrillex,Skrillex,2009-01-10T03:49:35.000Z,FALSE,TRUE,,• your friend • Instagram / TikTok / Snap: Skrillex,5899994,1199,14233,0
+326,92724677,Virender Sehwag,virendersehwag,2009-11-26T10:00:40.000Z,FALSE,TRUE,India,Proud Indian | For commercial Queries: @AmritanshuGupta 9873690935    For @SehwagSchool 9711188700,23112939,139,12332,0
+327,41043596,Jorge & Mateus,jorgeemateus,2009-05-19T03:19:53.000Z,FALSE,TRUE,Brasil,Jorge & Mateus,9957425,112,21689,0
+328,90109872,Aluna Sagita Gutawa,gitagut,2009-11-15T06:15:43.000Z,FALSE,TRUE,Indonesia,,4603226,220,8783,0
+329,160926944,Lord Sugar,Lord_Sugar,2010-06-29T13:53:47.000Z,FALSE,TRUE,,"Chairman of Amshold Group, owner of @Amscreen and Amsprop. https://t.co/EBac0bLBMz",5224668,3099,59128,0
+330,6661522,cyprien,MonsieurDream,2007-06-08T08:21:12.000Z,FALSE,TRUE,Paris,"📚 Roger et ses humains 🎮 Nope Quiz, Make More Views 📺 L’Épopée Temporelle",8656943,624,17176,0
+331,53853197,Chris Paul,CP3,2009-07-05T06:25:22.000Z,FALSE,TRUE,,💚: @chrispaulfamfdn 🎥: @ohhdip,8502819,928,6619,0
+332,138600717,Jamie Foxx,iamjamiefoxx,2010-04-30T01:00:33.000Z,FALSE,TRUE,"Los Angeles, California",,4694988,187,3304,0
+333,214690684,Irfan Bachdim,IrfanBachdim10,2010-11-12T00:34:26.000Z,FALSE,TRUE,,"イルファン バフディム - Husband of a beautiful Blogger @JenniferBachdim - Father of 3 beautiful kids Kiyomi Sue,  Kenji Zizou & Kiyoji Kaynen!! Instagram: ibachdim",4688077,161,3535,0
+334,7.85044E+17,KC 👑,kc_concepcion,2016-10-09T09:06:30.000Z,FALSE,FALSE,,,1410,2,270,0
+335,328918379,Daniel Padilla,imdanielpadilla,2011-07-04T07:55:55.000Z,FALSE,TRUE,,GOD. COUNTRY. HONOR.,9370201,664,3309,0
+336,498840131,GAD,gadelmaleh,2012-02-21T13:41:53.000Z,FALSE,TRUE,,,7611935,1238,5594,0
+337,932429090,Marcelotwelve,MarceloM12,2012-11-07T16:32:45.000Z,FALSE,TRUE,,Don't ask me about my tattoos! Only GOD Can Judge Me 💂🏾💯 1988 Rio De Janeiro,12727201,390,1994,0
+338,38185503,Michel Teló,micheltelo,2009-05-06T14:14:20.000Z,FALSE,TRUE,Brasil,Escute meu novo EP | Pra Ouvir No Fone | https://t.co/TbAiMXvDf4,5828529,431,168382,0
+339,275546719,الشيخ صالح المغامسي,SalehAlmoghamsy,2011-04-01T14:05:34.000Z,FALSE,TRUE,www.alrasekhoon.com,الصفحة الرسمية للشيخ صالح بن عواد المغامسي - تحت إدارة الموقع الرسمي للشيخ الراسخون في العلم https://t.co/EEJwbEzKi6,6699516,1,11274,0
+340,134657984,Luis Manzano,luckymanzano,2010-04-19T02:47:09.000Z,FALSE,FALSE,"Lipa City, Calabarzon",@luckymanzano on IG,5409579,188,61018,0
+341,154605679,DON OMAR aka KONG,DONOMAR,2010-06-11T18:13:18.000Z,FALSE,TRUE,,"Bookings • bookings@donomar.com •\• Facebook, Instagram y TikTok @DONOMAR
+
+OUT NOW #GoodGirl ft. @Akon 👇",5409805,4641,45537,0
+342,500042487,Steve Carell,SteveCarell,2012-02-22T18:57:30.000Z,FALSE,TRUE,Los Angeles,Official Steve Carell,5420591,67,164,0
+343,19725644,Neil deGrasse Tyson,neiltyson,2009-01-29T18:40:26.000Z,FALSE,TRUE,New York City,Astrophysicist,14839000,28,7871,0
+344,25410548,El Dúo de la Historia,wisinyyandel,2009-03-19T23:34:16.000Z,FALSE,TRUE,"Cayey, Puerto Rico",Official Twitter Account - Vapor 🥷🥷🦊 @wisinyyandel @rauwalejandro,5084956,61,10445,0
+345,56521114,Noel Schajris,NoelSchajris,2009-07-13T22:49:16.000Z,FALSE,TRUE,"Los Angeles, CA",DYNAMO PRODUCTIONS MGMT: info@criteriaent.com Booking ventas@noelschajris.com TOUR ON SALE NOW!!!! 👇👇👇,4503444,1503,60453,0
+346,23832022,Rev Run,RevRunWisdom,2009-03-11T21:18:19.000Z,FALSE,TRUE,Worldwide ,"Pls don't be offended if I don't reply or follow u, But I Love you!",3903073,1,19684,0
+347,45278605,Sandra Dewi,SandraDewi88,2009-06-07T03:53:56.000Z,FALSE,FALSE,"Jakarta, Indonesia","Actress, Model, TV Host and Business Woman from Indonesia ✨ Disney Freak ✨ Contact Manager : @kartikadewi20 sandradewicontact@gmail.com",6533769,441,37820,0
+348,46247180,Amr Diab,amrdiab,2009-06-10T22:42:29.000Z,FALSE,TRUE,Egypt,"Best Selling Middle Eastern Artist, A #GuinnessWorldRecord Holder, 7 times winner of #WorldMusicAwards & 6 #AfricanMusicAwards",11495280,10,3213,0
+349,379408088,Shawn Mendes,ShawnMendes,2011-09-24T22:29:41.000Z,FALSE,TRUE,,,26662946,54055,15473,0
+350,36307418,Aleks Syntek,syntekoficial,2009-04-29T06:53:00.000Z,FALSE,TRUE,México,"Canto gritado, toco teclados y a veces guitarras. Booking: coco@cocodiaz.mx / saludos en https://t.co/xR8l7rPAPu",4600941,2581,23253,0
+351,542936786,عادل علي بن علي,AdelAliBinAli,2012-04-01T23:32:10.000Z,FALSE,TRUE,,سبحان الله وبحمده..سبحان الله العظيم,2443958,565,171456,0
+352,14128609,Felipe Neto 🦉,felipeneto,2008-03-12T00:17:35.000Z,FALSE,TRUE,Rio de Janeiro,Cover da Kelly Key /// Contato Comercial: felipeneto@play9.com.br,15553407,803,761,0
+353,15934029,Polo Polo,polo_polo,2008-08-21T17:27:53.000Z,FALSE,TRUE,México,"Palabras más, palabras menos, simplemente alguien que hizo de la risa un modo de vida. #romperelpacto",4758257,38,6227,0
+354,86119466,GloriaTrevi,GloriaTrevi,2009-10-29T17:34:24.000Z,FALSE,TRUE,,#IslaDivina #ElSeEquivoco,5067055,1500,56698,0
+355,128155589,Vijay Mallya,TheVijayMallya,2010-03-31T07:48:39.000Z,FALSE,TRUE,India,"Former two term Member of Parliament, Chairman of The UB Group,Sports enthusiast, Veteran Formula One Team Principal, Championing Youth empowerment.",5774280,252,12207,0
+356,439125710,Ashton Irwin,Ashton5SOS,2011-12-17T11:46:12.000Z,FALSE,TRUE,He/Him,Ai // @5SOS // @clubhousecandle,6247745,9739,12805,0
+357,17929027,Wale,Wale,2008-12-06T21:15:10.000Z,FALSE,TRUE,,,6321522,2595,27188,0
+358,70162012,Chino y Nacho,ChinoyNacho,2009-08-30T17:04:34.000Z,FALSE,TRUE,,@jesusmiranda @nacholacriatura Escucha #Antivirus ahora! ➡️ https://t.co/uusrwDyYL0,4505634,189,20507,0
+359,57998991,Riteish Deshmukh,Riteishd,2009-07-18T18:37:27.000Z,FALSE,TRUE,"Mumbai, India","Actor, Architect, Producer : Mumbai Film Company @mfc @imaginemeats",11344682,319,28987,0
+360,35693211,Preta Gil,PretaGil,2009-04-27T07:11:36.000Z,FALSE,TRUE,Brasil,"Cantora, atriz e apresentadora",5608205,1037,87505,0
+361,48440176,TOM CAVALCANTE,TomCavalcante1,2009-06-18T18:26:16.000Z,FALSE,TRUE,,comedian and TV host Insta: @tomcavalcante Snap: tomcavalcante,4772202,414,23146,0
+362,168767461,Randy Orton,RandyOrton,2010-07-20T19:16:21.000Z,FALSE,TRUE,,"Proud Father, Devoted Husband, 14-Time World Champion",6347327,1016,3838,0
+363,7.44E+17,DJ KING ASSASSIN,djkingassassin,2016-06-18T12:50:17.000Z,FALSE,TRUE,Syndicated World Wide,DJ Producer for #2Pac #IceT #RobBase #Cold187 #Kokane #MikeJones #Club #SeanCole #Treach #EazyE #Roger #4Tay #Wyclef #ShockG #MCHammer #HouseOfMarley #CoreDjs,472970,1388522,137620,0
+364,71755580,Gading Marten,gadiiing,2009-09-05T08:06:14.000Z,FALSE,FALSE,I'll be around,actor,4555519,698,55503,0
+365,94360081,DJ Pauly D,DJPaulyD,2009-12-03T16:17:58.000Z,FALSE,TRUE,"Las Vegas, Nevada",DJ Pauly D 🇮🇹,3663670,36277,28345,0
+366,94900238,Lucero,LuceroMexico,2009-12-06T00:36:55.000Z,FALSE,TRUE,Mexico,"42 años de carrera en la industria del entretenimiento hispano. CANTANTE, ACTRIZ Y CONDUCTORA. https://t.co/Ho0AaFoES9",8666857,50,49020,0
+367,160308387,PAULA,paulitachaves,2010-06-27T20:33:46.000Z,FALSE,TRUE,,Mamá de Oli Balta y Fili... en una con @pedroalfonsoo        Tv Host 💫Modelo Argentina #bakeoffargentina  por @telefe,5779172,275,31011,0
+368,27457788,Kevin Spacey,KevinSpacey,2009-03-29T16:55:27.000Z,FALSE,TRUE,London - NYC - LA,Former shoe salesman now making a go at film and theater.,3996813,30,2089,0
+369,24963961,Ozzy Osbourne,OzzyOsbourne,2009-03-17T21:56:55.000Z,FALSE,TRUE,,The Prince of Darkness,5506116,81,7256,0
+370,51263592,Adam Schefter,AdamSchefter,2009-06-26T22:55:28.000Z,FALSE,TRUE,New York,"ESPN Senior NFL Insider. 
+Interview & Podcast Requests: ESPNPR@espn.com
+Host of the Adam Schefter Podcast
+https://t.co/oz43ix5jZU",9969409,3640,62438,0
+371,471287735,Gary Lineker 💙💛,GaryLineker,2012-01-22T18:07:24.000Z,FALSE,TRUE,,Once kicked a ball about. Now talk about kicking a ball about. @goalhangerfilms ..Instagram garylineker,8613048,1352,46071,0
+372,46602211,Vhong Navarro,VhongX44,2009-06-12T07:07:22.000Z,FALSE,FALSE,,INSTAGRAM (@vhongx44) https://t.co/QvaJWWCyv0 https://t.co/ZsuP8M8E2N,6922773,179,3785,0
+373,19555067,Jordin Sparks,JordinSparks,2009-01-26T20:27:11.000Z,FALSE,TRUE,LA/PHX/NY,Singer/Songwriter,3550784,5267,46534,0
+374,100563581,juliaperez,juliaperrez,2009-12-30T18:28:03.000Z,FALSE,FALSE,INDONESIA (JAKARTA),⭐️ Actress ⭐️ Singer ⭐️ Entertainer ⭐️ FDJ ⭐️ HOST..my management at: Whatsapp / SMS : +6281290900971 info@julia-perez.com,4947106,1349,88425,0
+375,19637934,RainnWilson,rainnwilson,2009-01-28T05:28:45.000Z,FALSE,TRUE,Los Angeles-ish,Just another luminous spiritual being having a beautiful and difficult human experience.,4448376,675,21882,0
+376,84620024,Sıla Gençoğlu,silagencoglu,2009-10-23T15:41:00.000Z,FALSE,TRUE,İstanbul,"#velhasıl #kalksınuyuyanlar
+https://t.co/be9TjTMqtz",5555331,197,2251,0
+377,36412963,Rania Al Abdullah,QueenRania,2009-04-29T17:18:31.000Z,FALSE,TRUE,"Amman, Jordan",A mum and a wife with a really cool day job الملكة رانيا العبدالله - المملكة الأردنية الهاشمية,10146475,46,2252,0
+378,91845185,Hulya Avsar,hulyavsar,2009-11-22T18:55:09.000Z,FALSE,FALSE,,"Sevmek, Gülmek, Mutlu Olmak İbadettir.",4074523,41,5033,0
+379,462004145,Najwa Karam,najwakaram,2012-01-12T13:06:58.000Z,FALSE,TRUE,Lebanon,"🇱🇧 لبنان بِصَوْتي | check out ""Saa3a Bayda"" on YouTube",8586137,119,45028,0
+380,255030147,Jamel Debbouze,DebbouzeJamel,2011-02-20T14:34:14.000Z,FALSE,TRUE,"Paris, France","🎬 LE NOUVEAU JOUET de James Huth avec Daniel Auteuil, Alice Belaïdi et Simon Faliu, actuellement au cinéma.",7348266,487,5485,0
+381,366592246,Eden Hazard,hazardeden10,2011-09-02T13:16:31.000Z,FALSE,FALSE,,Belgium 🇧🇪,7323930,194,1656,0
+382,65659343,Ajay Devgn,ajaydevgn,2009-08-14T15:25:45.000Z,FALSE,TRUE,Mumbai,I talk more in movies than in real life...,15868644,54,3745,0
+383,54641845,INDRA BEKTI,indrabektiasli,2009-07-07T18:59:36.000Z,FALSE,TRUE,,"TV presenter, MC, owner INBEK ent , INBEKLOTHES, INBEKTRAVEL , INBEKEVENT ,  manager Roy 081212123111",4064528,5683,58926,0
+384,141052723,Miranda Kerr,MirandaKerr,2010-05-07T02:19:22.000Z,FALSE,TRUE,,https://t.co/dtBFhcNCzP,4898715,608,4022,0
+385,619293948,فايز المالكي,fayez_malki,2012-06-26T16:18:54.000Z,FALSE,TRUE,,إنسان في خدمة الإنسان (إن لم تستطع أن تفعل أشياء عظيمه فأفعل أشياء صغيره بطريقه عظيمة)سناب https://t.co/o8T759vXtv,7691984,963,54798,0
+386,46277588,Angélica Huck,angelicaksy,2009-06-11T01:15:01.000Z,FALSE,TRUE,,Brazilian Artist,4814144,170,7083,0
+387,386654472,Gary Barlow,GaryBarlow,2011-10-07T17:15:22.000Z,FALSE,TRUE,,"#ADifferentStage 🔜 Portsmouth 7 - 11 Nov, Nottingham 13 - 15 Nov, Wolverhampton 16 - 20 Nov  🎭",4088834,4231,18515,0
+388,115341081,SHILPA SHETTY KUNDRA,TheShilpaShetty,2010-02-18T10:41:18.000Z,FALSE,TRUE,,"Full-time Mother & Wife, Actor, Entrepreneur, Yogi, Author of @greatindiandiet. Download my App: https://t.co/k4Xj3ciJ2X",6483513,140,7775,0
+389,169279319,Carmen Aristegui,aristeguicnn,2010-07-21T23:53:51.000Z,FALSE,TRUE,Mexico ,Detrás de escena con el equipo que produce Aristegui en @CNNEE. Los tuits de Carmen se firmarán como -C. Aristegui o -C.,7616774,21,2993,0
+390,54682125,Bill Cosby,BillCosby,2009-07-07T21:24:43.000Z,FALSE,TRUE,BillCosby.com/Concerts,"My first TV concert special in 30 years, Far From Finished debuted on @ComedyCentral on Nov 23rd. Buy the DVD today: https://t.co/Ym2tpBtbba #FarFromFinished",3180457,7,2624,0
+391,21879024,Tony Hawk,tonyhawk,2009-02-25T15:52:43.000Z,FALSE,TRUE,San Diego & world at large,"Pro skater, father, husband, videogame character, CEO, food/spirit glutton, philanthropist & public skatepark advocate. Old AF and still skating.",4564432,9736,13133,0
+392,13058232,Noah,noaheverett,2008-02-04T18:08:17.000Z,FALSE,TRUE,On the road,"The nice guy that finished first - Building an Ark (https://t.co/4DEMjYp6VX), previously Twitpic",3218017,1980,9518,0
+393,142519598,Andrea Legarreta,AndreaLegarreta,2010-05-11T02:52:00.000Z,FALSE,TRUE,México ( en tu T.V),Conductora de TV (host) @programa_hoy Televisa. Esposa de @ErikRubin y mamá de dos pollitas #1DiaALaVez Facebook: https://t.co/Z8uqawJ7cM,5566650,1070,23630,0
+394,58598187,Tyler Perry,tylerperry,2009-07-20T21:35:27.000Z,FALSE,TRUE,"Atlanta, GA","The OFFICIAL Twitter page of Writer, Director, Producer, Actor - Tyler Perry",6682165,137,2495,0
+395,38871237,Julieta Venegas,julietav,2009-05-09T15:32:20.000Z,FALSE,TRUE,México en tu corazón,música músicaaaaaaa y lecturas aqui https://t.co/cirYgmhwvN…,4277478,366,15707,0
+396,107318424,Bipasha Basu,bipsluvurself,2010-01-22T05:12:58.000Z,FALSE,TRUE,"Mumbai, India",An Actor & fitness enthusiast who believes in the philosophy of ''Love Yourself... Watch this space for the real me.,6645723,159,12328,0
+397,740216334,PSY,psy_oppa,2012-08-06T09:15:58.000Z,FALSE,TRUE,KOREA,PSY from P NATION,4384419,629,5060,0
+398,321970500,Cara Delevingne,Caradelevingne,2011-06-22T12:42:03.000Z,FALSE,TRUE,London,EMBRACE YOUR WEIRDNESS! I am unprofessionally professional human being. Eyebrow and life enthusist.,9285485,950,7557,0
+399,36686415,galifianakisz,galifianakisz,2009-04-30T15:19:13.000Z,FALSE,TRUE,United States,,3075016,0,107,0
+400,24775528,Nelly_Mo,Nelly_Mo,2009-03-16T21:38:48.000Z,FALSE,TRUE,St. Louis,"https://t.co/l8dkNt6I4H New single #FreakyWithYou 
+NELLY's OFFICIAL TWITTER...CEO of Nelly Inc, Derrty Ent, NELLYVILLE on BET ...!!!",3715089,1389,10849,0
+401,41229669,Kelly!,KellyOsbourne,2009-05-19T22:34:19.000Z,FALSE,TRUE,London / Los Angeles,check out my new podcast The Kelly Osbourne and Jeff Beacher show!!! click the link below. new episodes every Tuesday!!!!!,3360447,2031,16108,0
+402,46508678,Yordi Rosado,YordiRosado,2009-06-11T22:24:45.000Z,FALSE,TRUE,"Mexico, Mexico City","Productor, conductor, locutor y autor.
+Contrataciones: karina@mediosyproducciones.com
+Campañas digitales: yordirosado@tngmgt.com",4222723,1406,35821,0
+403,24447643,Eddie Izzard,eddieizzard,2009-03-14T23:13:44.000Z,FALSE,TRUE,Earth,Performing Charles Dickens' Great Expectations December 22 - January 23.  Tickets at: https://t.co/u7PRHZorJA,4327111,597,9360,0
+404,1492538024,Kapil Sharma,KapilSharmaK9,2013-06-08T10:19:55.000Z,FALSE,TRUE,"Mumbai, India","Actor, who loves to make ppl laugh 🤗",19722489,798,11248,0
+405,30631061,cüneyt özdemir,cuneytozdemir,2009-04-12T10:09:17.000Z,FALSE,TRUE,Memleket,"hayat, hayaller, kırıklıklar, umutlar, dünya, aşk, bulantı, ilişkiler, siyaset, diplomasi, sinema, can sıkıntısı...
+https://t.co/W7DexssCe5",7341040,1352,42570,0
+406,20545055,Joel Osteen,JoelOsteen,2009-02-10T20:56:05.000Z,FALSE,TRUE,,Inspiring people to reach their dreams and live their best life. Download the latest episode of the #JoelOsteenPodcast today!,10254894,165,21858,0
+407,281766200,Dylan O'Brien,dylanobrien,2011-04-13T22:55:58.000Z,FALSE,TRUE,,you can contact me at my imdb page which is conveniently linked below,6272404,2417,1660,0
+408,87808186,Diego Torres,diegotorres,2009-11-05T23:01:00.000Z,FALSE,TRUE,Argentina,"Cantante, compositor y actor.",4432838,237,10545,0
+409,26516984,Keri Hilson,KeriHilson,2009-03-25T15:16:28.000Z,FALSE,TRUE,,designer of audible art • sleep sold separately • instagram: @kerihilson,4234374,417,14486,0
+410,277444134,Yılmaz Erdoğan,yilmazerdogan,2011-04-05T11:36:09.000Z,FALSE,TRUE,Türkiye/Istanbul,Yılmaz Erdoğan resmi Twitter hesabıdır. / Yilmaz Erdogan official Twitter account. Bu hesap Yılmaz Erdoğan’ın sosyal medya ekibi tarafından yönetilmektedir.,4348404,45,939,0
+411,86254626,Preity G Zinta,realpreityzinta,2009-10-30T06:30:11.000Z,FALSE,TRUE,Catch me if you can....,"Actor, Producer, Writer, Entrepreneur , Human Being and Cricket fan!",6056977,114,21106,0
+412,1337785291,Roger Federer,rogerfederer,2013-04-08T22:33:48.000Z,FALSE,TRUE,Switzerland,Professional tennis player,12896726,87,2229,0
+413,67995848,Green Day,GreenDay,2009-08-22T22:05:41.000Z,FALSE,TRUE,"East Bay, California",Personal accounts @billiejoe @trecool @mikedirnt,4897365,178,2592,0
+414,351921957,Ezequiel Lavezzi,PochoLavezzi,2011-08-09T22:24:59.000Z,FALSE,TRUE,,Ezequiel 'El Pocho' Lavezzi's Official Profile.  https://t.co/aVLEDak63z https://t.co/XiEG0YJGRk…https://t.co/CeAFPpUbaD,4987604,279,3094,0
+415,77694285,Carlos Vives,carlosvives,2009-09-27T08:34:25.000Z,FALSE,TRUE,Bogota D.C.,CUMBIANA II YA DISPONIBLE,5299776,2564,27974,0
+416,17336417,Jack Whitehall,jackwhitehall,2008-11-12T09:52:00.000Z,FALSE,TRUE,,Actor and comedian.,6113352,1301,10821,0
+417,22461427,Al Yankovic,alyankovic,2009-03-02T07:00:29.000Z,FALSE,TRUE,Los Angeles,You know... the weird one.,5062692,625,4548,0
+418,59900378,Alejandro Fernández,alexoficial,2009-07-24T22:01:07.000Z,FALSE,TRUE,Mexico,Twitter oficial de Alejandro Fernández | #AFHechoEnMexico 🇲🇽 Boletos DISPONIBLES AQUÍ ⬇️,6777319,214,8676,0
+419,55520719,Shreya Ghoshal,shreyaghoshal,2009-07-10T09:48:59.000Z,FALSE,TRUE,"Mumbai, India",A flower child. Sings the tune of love. Proud mom of Devyaan and her golden puppy @SherlockFetcher,7172283,633,24791,0
+420,64444249,Laura G,LAURAGII,2009-08-10T16:30:30.000Z,FALSE,TRUE,Mexico DF,"Conductora @VengaLaAlegria | Directora de https://t.co/marG53F2uY & @proyectomamas.tv | Esposa de Naza & Mamá de Lisa, Lucio |Manager @pabloahum | Instagram @lauragii",4632490,1167,157263,0
+421,55043362,RaghebAlama,raghebalama,2009-07-08T21:58:01.000Z,FALSE,TRUE,Lebanon,#استمارة_6 😎👇,6208349,655,43530,0
+422,20659839,Wyclef Jean,wyclef,2009-02-12T07:11:07.000Z,FALSE,TRUE,,The Official and ONLY Wyclef Twitter Profile. Press: media@headsmusic.com All other inquiries: management@headsmusic.com,3767892,3791,34279,0
+423,1244602586,الوليد بن طلال,Alwaleed_Talal,2013-03-05T20:53:23.000Z,FALSE,TRUE,Riyadh,The Chairman of the Board of @Kingdom_KHC             The Chairman of the Board of @Alwaleed_Philan             The Chairman of the Board of @Rotana,15336042,55,447,0
+424,16679529,Scott “Scooter” Braun,scooterbraun,2008-10-10T04:45:48.000Z,FALSE,TRUE,,be kind for everyone you meet is fighting a hard battle,3647006,6486,32673,0
+425,70805914,Adela Micha,Adela_Micha,2009-09-01T22:30:36.000Z,FALSE,TRUE,México City ,"Periodista. @LaSagaOficial #SagaLive martes y jueves 7 PM, Me lo Dijo Adela L a V 9 a 12. YouTube https://t.co/nOr29tbeTT Facebook",5012712,679,100818,0
+426,40101400,Tiësto,tiesto,2009-05-14T22:18:51.000Z,FALSE,TRUE,Worldwide,10:35 out now ! https://t.co/6zYfYlzDHT MGMT: bo@id8mgmt.com,4746914,744,32924,0
+427,43003845,paramore,paramore,2009-05-28T00:20:32.000Z,FALSE,TRUE,"nashville, tn","pre-save “This Is Why,” the album. Feb 10.
+https://t.co/5VT3FZAcWe",5420970,2,5806,0
+428,92907248,Kevin Aprilio,apriliokevin,2009-11-27T05:10:04.000Z,FALSE,TRUE,Indonesia,#Vierratale #KevinandtheRedRose ig: https://t.co/WvUL5PoTwU,3839802,41,305,0
+429,33597201,Ashley Benson,AshBenzo,2009-04-20T17:48:24.000Z,FALSE,TRUE,,Instagram - ashleybenson TikTok - ashleybenson,3908141,179,22489,0
+430,114557496,Ivan Urgant,urgantcom,2010-02-15T20:38:49.000Z,FALSE,TRUE,"Moscow, Russia","Вечерний Ургант, Первый канал",4391498,1,1071,0
+431,45865160,NORMAN,NormanDesVideos,2009-06-09T15:45:54.000Z,FALSE,TRUE,Paris,"Je n’ai aucun métier, par contre je fais des vidéos et du stand up 🎤",6899585,850,5512,0
+432,60583926,IyaVillaniaArellano,iyavillania,2009-07-27T12:35:20.000Z,FALSE,TRUE,Philippines,Mondays to Fridays for Chika Minute on 24 Oras GMA-7  Sundayss on People Vs The Stars 5PM GMA Network,4352237,655,26258,0
+433,45112524,Usain St. Leo Bolt,usainbolt,2009-06-06T11:27:52.000Z,FALSE,TRUE,"Kingston, Jamaica",Anything is possible I don't think limits,4896717,112,8076,0
+434,16727535,Lance Armstrong,lancearmstrong,2008-10-13T20:59:15.000Z,FALSE,TRUE,"Austin, TX","Father of 5, Founder @wedusport, partner at @nextventures, endurance junkie, and 7 MJ’s.",3091457,703,13459,0
+435,264498030,Paul Wesley,paulwesley,2011-03-12T00:47:35.000Z,FALSE,TRUE,,🌱 @brothersbond,4209982,1984,2132,0
+436,67736078,Luis Chataing,LuisChataing,2009-08-21T22:19:28.000Z,FALSE,TRUE,"Miami, FL",Humorista venezolano,4798411,207,82279,0
+437,34949757,Álvaro Arbeloa,aarbeloa17,2009-04-24T15:13:37.000Z,FALSE,TRUE,"Madrid, Comunidad de Madrid",,5924315,1148,7625,0
+438,27115071,Paul Pierce,paulpierce34,2009-03-27T22:31:10.000Z,FALSE,TRUE,"Calabasas, CA",The one and only Truth,4073657,349,2201,0
+439,24807616,Joseph Gordon-Levitt,hitRECordJoe,2009-03-17T00:45:00.000Z,FALSE,TRUE,"Los Angeles, CA",Pinocchio 🦗 - Mr. Corman 🎧🤍 -- VP Creative Innovation at MasterClass - art & community on HITRECORD 🔴,3990764,323,52378,0
+440,110681593,Hamza Namira,HamzaNamira,2010-02-02T12:02:41.000Z,FALSE,TRUE,"London, England","Ridiculously introvert, a proud Xennial. Egyptian Musician/Composer/Producer & Singer - FB: https://t.co/E9FTy0At9k حمزة نمرة 
+info@namiraproductions.co.uk",7836680,115,7636,0
+441,220228167,Madhuri Dixit Nene,MadhuriDixit,2010-11-27T04:09:16.000Z,FALSE,TRUE,Mumbai,Feeling connected with each other makes life worth living. Happy to keep in touch! #TuHaiMera Audio & Video OUT NOW! 👇,10557259,36,9496,0
+442,33990291,Jennifer Hudson,IAMJHUD,2009-04-21T18:25:33.000Z,FALSE,TRUE,Chicago,🎤 @JHudShow host 📺 Emmy winning producer 🎙 Grammy winning artist 🎥 Oscar winning actress 🎭 Tony winning producer,4028258,713,17272,0
+443,16228398,Mark Cuban,mcuban,2008-09-10T21:12:01.000Z,FALSE,TRUE,,"Dunking on the pharma industry with @costplusdrugs.com, the lowest prices on meds anywhere.  check it out !",8835246,2115,5228,0
+444,38531995,Dr. Mehmet Oz,DrOz,2009-05-07T22:20:44.000Z,FALSE,TRUE,"Huntingdon Valley, PA",Heart surgeon. Empowered millions to take control of their health. Republican candidate for U.S. Senate in Pennsylvania.,3912123,865,21181,0
+445,40527958,Belinda,belindapop,2009-05-16T19:42:06.000Z,FALSE,TRUE,Edén,"Aunque ya nada puede devolver la hora del esplendor en la hierba, la belleza subsiste en el recuerdo...",6752512,1844,9136,0
+446,15809249,Joyce Meyer,JoyceMeyer,2008-08-11T15:23:12.000Z,FALSE,TRUE,"St. Louis, MO",Sharing Christ - Loving People   *All responses are moderated by Joyce Meyer Ministries. Tweets from Joyce will be signed accordingly.,6414274,177,84721,0
+447,386420143,Valentino Rossi,ValeYellow46,2011-10-07T08:00:32.000Z,FALSE,TRUE,ITALIA,pilota da corsa con il numero 46,5600790,292,5029,0
+448,65863622,Pocong,Poconggg,2009-08-15T08:57:25.000Z,FALSE,TRUE,Always beside you,A Paranormal and Ghost from Indonesia.,5085780,0,30686,0
+449,89006817,Gülben Ergen,gulbenergen,2009-11-10T19:55:34.000Z,FALSE,TRUE,Türkiye Cumhuriyeti,,4292186,1182,54117,0
+450,119360445,Mohamed ElBaradei,ElBaradei,2010-03-03T12:09:47.000Z,FALSE,TRUE,,,6126395,171,5131,0
+451,21705616,Jim Jones,jimjonescapo,2009-02-23T23:10:39.000Z,FALSE,TRUE,Harlem,#VampireLife bookings for #JimJones bookjimjones@gmail.com PR: ChanelRae@TheLegionMediaGroup.com,3373544,659,19965,0
+452,322606204,عبدالرحمن بن مساعد بن عبدالعزيز🇸🇦,abdulrahman,2011-06-23T13:09:30.000Z,FALSE,TRUE,,(فسيكفيكهم الله وهو السميع العليم) ( وأفوض أمري إلى الله إن الله بصيرٌ بالعباد)https://t.co/BxtLo2RG9t,8286620,8646,49496,0
+453,14506253,Joel McHale,joelmchale,2008-04-24T03:43:24.000Z,FALSE,TRUE,Galactica actual,Meticulously trimming my beard currently,3266317,2413,8305,0
+454,109118967,Jaime Camil,jaimecamil,2010-01-28T01:22:09.000Z,FALSE,TRUE,"Los Angeles, CA","Actor/Producer/Director, Publicist: https://t.co/6j3xHBJYjj, Management: @zerogravitymgmt, All SoMe: @jaimecamil, fan mail: fans@jaimecamil.com",4159674,489,14911,0
+455,342562305,Acun Ilıcalı,acunilicali,2011-07-26T06:29:37.000Z,FALSE,TRUE,,Acun Ilıcalı Resmi Twitter Hesabıdır.,6027230,15,745,0
+456,39338168,Aline Barros,alinebarros,2009-05-11T20:50:06.000Z,FALSE,TRUE,Rio de Janeiro,"Serva do Senhor, pastora, cantora, casada com Pr. Gilmar Santos, mãe de Nicolas e Maria Catherine.Membro da @ceizs",4724558,109,16081,0
+457,252753618,Nani,luisnani,2011-02-15T20:57:55.000Z,FALSE,TRUE,,Professional Football Player at @gomvfc. 2016 European Champion for @selecaoportugal. 2008 Winner of FIFA Club World Cup and UCL in 2007/08 for @ManUtd.,3909217,194,1924,0
+458,185739738,WILLOW,OfficialWillow,2010-09-01T18:34:57.000Z,FALSE,TRUE,,• refract the wisdom to heal the abyss some •,3380327,13286,1463,0
+459,63796949,ahmet hakan,ahmethc,2009-08-07T18:42:17.000Z,FALSE,TRUE,istanbul - turkey,gazeteci,5689846,15490,47928,0
+460,79536438,Big Time Rush,bigtimerush,2009-10-03T18:43:44.000Z,FALSE,TRUE,,Official Twitter of Big Time Rush - We Are Back. Members - @1LoganHenderson @HeffronDrive @TheCarlosPena @JamesMaslow Pre-Save “Dale Pa’Ya” Now!,3301110,183,1216,0
+461,403580183,Pedro Rodríguez,_Pedro17_,2011-11-02T18:06:24.000Z,FALSE,TRUE,Roma,@OfficialSSLazio Player,4822507,202,934,0
+462,18953259,Phillip Schofield,Schofe,2009-01-13T21:01:47.000Z,FALSE,TRUE,Somewhere peaceful,I don’t tweet anymore or check my @‘s sorry. thanks for all the fun originally though xx,4467439,11640,36355,0
+463,220332457,きゃりーぱみゅぱみゅ,pamyurin,2010-11-27T13:30:22.000Z,FALSE,TRUE,,Kyary pamyu pamyu🇯🇵,5044053,410,19017,0
+464,21323673,Emily Osment,EmilyOsment,2009-02-19T18:19:11.000Z,FALSE,TRUE,,Dead End: Paranormal Park on Netflix. Young Sheldon Thursday nights on CBS.,3088204,376,9316,0
+465,183078358,Enrique Gil,itsenriquegil,2010-08-26T02:45:11.000Z,FALSE,TRUE,Quezon City,"Yesterday is history, Today is a gift, Tomorrow a mystery 💯🇵🇭🇪🇸",5475132,107,1605,0
+466,83613107,Sam Milby,samuelmilby,2009-10-19T14:37:01.000Z,FALSE,TRUE,Manila/LA/Ohio Buckeye,"Actor / Singer
+
+Instagram - samuelmilby",4874555,582,5596,0
+467,1432977446,Mario Balotelli,FinallyMario,2013-05-16T12:35:27.000Z,FALSE,TRUE,,Official twitter page for Mario Balotelli! ITALIA  & BRESCIA striker⚽ Don't believe anything you read about me unless is coming from here✌,3526570,64,1218,0
+468,14790966,Dolly Parton,DollyParton,2008-05-15T20:00:06.000Z,FALSE,TRUE,"Nashville, Tennessee",The Official Twitter of Dolly Parton 🦋 “A Holly Dolly Christmas Ultimate Deluxe” is out now! 🎄❄️,5525846,44,2872,0
+469,19982092,Chris Moyles,ChrisMoyles,2009-02-03T16:39:29.000Z,FALSE,TRUE,Australia,@RadioX breakfast + 3 times UK world dance champion ❎ @TobyTarrant covering 🧔🏼‍♂️ Currently living in Australia 🦘 Tweets by @JamesRobinson #TeamMoyles,3502336,251,14247,0
+470,41265813,Brad Paisley,BradPaisley,2009-05-20T01:37:57.000Z,FALSE,TRUE,"Nashville, TN","In 1972, a crack commando unit was sent to prison by a military court for a crime they didn't commit. I was also born.",4295701,130,8123,0
+471,20837438,Haifa Wehbe,HaifaWehbe,2009-02-14T08:41:59.000Z,FALSE,TRUE,Lebanon,Arabic Pop singer Winner of 3 Big Apple Music Awards as Best middle Eastern Artist & Most Popular Artist Voted by People. #Walad on all Platforms 👇🏻,7257240,94,23634,0
+472,71876190,Danny DeVito,DannyDeVito,2009-09-05T19:44:48.000Z,FALSE,TRUE,Los Angeles,"I'm an actor, director and producer.",4419844,32,7783,0
+473,14622632,Rob Dyrdek,robdyrdek,2008-05-02T04:21:42.000Z,FALSE,TRUE,"Beverly Hills, CA",MANUFACTURING AMAZING @dyrdekmachine,3032494,173,9845,0
+474,93935921,JWOWW,JENNIWOWW,2009-12-01T20:25:57.000Z,FALSE,TRUE,,Proud Mama,3072070,358,29545,0
+475,155151279,Lata Mangeshkar,mangeshkarlata,2010-06-13T07:32:59.000Z,FALSE,TRUE,"Mumbai, Maharashtra",playback singer since 1942. https://t.co/QLcoED2DWy,14749496,9,3530,0
+476,127680499,Paula Fernandes 🚪,PaulaFernandes7,2010-03-29T23:24:56.000Z,FALSE,TRUE,,11:11 chegou! ⬇️,4517741,372,4787,0
+477,157998843,Syahrini,PrincesSyahrini,2010-06-21T13:35:51.000Z,FALSE,FALSE,Indonesia,Keep Calm And Be Cetar Tar! Tar!,3656533,177,3293,0
+478,28076276,Jason Derulo,jasonderulo,2009-04-01T09:05:46.000Z,FALSE,TRUE,,"Bookings at Derulobookings@gmail.com
+
+Pre-Save Never Let You Go",3707626,12698,15542,0
+479,31241437,ZOÉ,zoetheband,2009-04-14T22:03:12.000Z,FALSE,TRUE,México,@DiscosPanoram,4459402,228,9857,0
+480,41036546,Bruno Gagliasso,brunogagliasso,2009-05-19T02:39:37.000Z,FALSE,TRUE,Brasil,Ator,5842818,1297,30754,0
+481,12044602,Arnold,Schwarzenegger,2008-01-09T21:12:40.000Z,FALSE,TRUE,"Los Angeles, California","Former Mr. Olympia, Conan, Terminator, and Governor of California. I killed the Predator. I told you I'd be back. Sign up for my newsletter:",5175299,449,7756,0
+482,58603510,Bruna Marquezine,BruMarquezine,2009-07-20T21:55:48.000Z,FALSE,TRUE,Rio,,10885950,296,19990,0
+483,112289040,Josh Devine,JoshDevineDrums,2010-02-07T23:21:39.000Z,FALSE,TRUE,Nashville/ UK,International touring/studio Drummer • Creds: @onedirection/ @skepta/ sessions • Twitch partner,3146841,9874,12469,0
+484,147828409,Pedro Alfonso,pedroalfonsoo,2010-05-25T04:29:46.000Z,FALSE,TRUE,mi corazon siempre en j.marmol,"Papá de Olivia, Baltazar y Filipa. Casado con Pau @paulitachaves",4874323,640,22155,0
+485,26090319,kesha,KeshaRose,2009-03-23T21:07:57.000Z,FALSE,TRUE,,taking the high road✨,3158421,1376,8355,0
+486,25110374,Russell Simmons,UncleRUSH,2009-03-18T17:19:28.000Z,FALSE,TRUE,,,4370418,990,68206,0
+487,19882775,Jake T. Austin,JakeTAustin,2009-02-01T23:15:53.000Z,FALSE,TRUE,"Los Angeles, CA",,2819305,3491,3541,0
+488,109705251,Tulisa,officialtulisa,2010-01-30T00:04:35.000Z,FALSE,TRUE,London,https://t.co/kvLGO4oQDW,2983633,20,174,0
+489,464139666,Eleanor Calder,EleanorJCalder,2012-01-14T22:04:56.000Z,FALSE,FALSE,London,Instagram | eleanorj92 - snapchat | eleanorsnap,2756255,1016,1723,0
+490,40519997,Chad Johnson,ochocinco,2009-05-16T18:55:22.000Z,FALSE,TRUE,Liberty City,McDonalds is cheaper than therapy & never forget you’re paying for sex indirectly but the word “relationship” changes the narrative.,3271607,7152,184568,0
+491,238319766,Chris Rock,chrisrock,2011-01-14T22:11:56.000Z,FALSE,TRUE,"Brooklyn, NY",EGO DEATH WORLD TOUR 2022. Click the link for tickets below. Text me at 718-223-4313 ----- Non Verbal Learning Disorder; read about it here https://t.co/BSRlcUI79q,5560360,277,2617,0
+492,279452961,Wesley Sneijder,sneijder101010,2011-04-09T08:55:16.000Z,FALSE,TRUE,,Welcome to my official twitter page. From now on I will keep everyone personally up to date with things that are happening in my life! Wesley Sneijder,3892298,151,1583,0
+493,23648057,SEAN KINGSTON ©,SeanKingston,2009-03-10T20:24:51.000Z,FALSE,TRUE,✈ WorldWide...,IN GOD I Trust!... New Reggae Album “ Road To Deliverance” Out Now‼️🔥 Show Bookings: Kingstonbookings90@gmail.com,2866945,668,24732,0
+494,107120856,brozo xmiswebs,brozoxmiswebs,2010-01-21T16:20:18.000Z,FALSE,TRUE,,"El Mañanero Diario: un informativo recio, crudo, neto, arrimador y chacotero. Aquí se van a enterar de  lo q nos parezca digno de compartir; lo q no, no. Órale!",7028720,1306,73898,0
+495,96185337,Murat Boz,MuratBoz,2009-12-11T19:07:18.000Z,FALSE,TRUE,Turkey,,3718961,0,752,0
+496,17284624,VJ Daniel Mananta,vjdaniel,2008-11-10T10:25:42.000Z,FALSE,TRUE,Indonesia ,"God’s 🎙for Peace, Love & Joy. c/p: Yanwar: 08170808535 || My YouTube channel👇",5483373,447,6366,0
+497,243442402,amanda bynes,amandabynes,2011-01-27T01:45:46.000Z,FALSE,FALSE,,♡,2521305,54,12,0
+498,50821343,Fê Paes Leme,FePaesLeme,2009-06-25T23:48:05.000Z,FALSE,TRUE,Por aí...,,4429689,833,38692,0
+499,121169579,Jessica Cediel,jessicacediel,2010-03-08T16:59:43.000Z,FALSE,TRUE,planeta azul ,ISAÍAS 41! Cuenta oficial ❤️   Contacto: info@jessicacedieloficial.com  Enamorada De Dios y de nadie más 🙌😍,5117816,250,31576,0
+500,36679967,Ana Maria Braga,ANAMARIABRAGA,2009-04-30T14:52:04.000Z,FALSE,TRUE,"ÜT: -23.003168,-43.343916","Aqui a gente fica por dentro do que está rolando no mundo rapidinho, troca receitas e ideias. Tô no Face como ""Ana Maria Braga"" e no Insta como ""anamaria16""",4839431,418,13721,0
+501,6273552,MC HAMMER,MCHammer,2007-05-23T22:50:33.000Z,FALSE,TRUE,Bay Area #GoldenState #Oakland,#OAKLANDFIGHTCLUB #RootedinOakland #Dubnation #RaiderNation #AI #Hamm400aos #Science #NFTs #DeFi  #Books #Metaverse #Dogon #Philosophy #AncientEgypt,3218522,69125,105705,0
+502,55573873,Gisele Bündchen,giseleofficial,2009-07-10T14:22:07.000Z,FALSE,TRUE,,https://t.co/Le2PUDRvDj,4623477,91,4736,0
+503,245992215,Fergie,Fergie,2011-02-01T22:15:24.000Z,FALSE,TRUE,"Los Angeles, CA",,3752861,615,4543,0
+504,45580261,Fonseca,Fonseca,2009-06-08T14:49:28.000Z,FALSE,TRUE,,Mi nuevo álbum se llama #ViajanteTour 🧳 https://t.co/jPivqmcn0L,4119351,991,19015,0
+505,174144887,Rick G. Rosner,dumbassgenius,2010-08-03T06:03:04.000Z,FALSE,TRUE,Los Angeles,"World's 2nd-highest IQ. (Recently fell to 3rd, but that's still pretty good.) Former Kimmel writer. Genius &/or deluded.",893348,2056,74535,0
+506,35472557,Ayu Dewi,mrsayudewi,2009-04-26T14:17:28.000Z,FALSE,FALSE,Indonesia,BUAGA ; To bring laughter into ur life is my passion- IG @Mrsayudewi || YouTube @Mrsayudewi Cp: AD Team 08118678780,4175970,379,12835,0
+507,251600033,بتال القوس,battalalgoos,2011-02-13T13:31:17.000Z,FALSE,TRUE,,شخص يكرهه المتعصبون.. ويراهن على العقلاء..!,5811019,1153,40811,0
+508,50751556,Nelly Furtado,NellyFurtado,2009-06-25T20:02:18.000Z,FALSE,TRUE,,Loose 15th Anniversary Digital Expanded Edition out now,2964158,4039,93,0
+509,130307120,kim atienza,kuyakim_atienza,2010-04-06T23:08:30.000Z,FALSE,TRUE,manila,"Believer, loves Jesus, his wife and kids, Ironman triathlete, marathon runner. Philippians 4:13 I can only do this through Him who gives me strength",4147052,992,44683,0
+510,38815052,Nikki Gil-Albert,nikkigil,2009-05-09T07:02:35.000Z,FALSE,TRUE,Philippines,Wife. Mom. Student. Artist. https://t.co/ZIzNtOWJKK,3803247,455,13065,0
+511,16129920,Rachel Maddow MSNBC,maddow,2008-09-04T15:02:12.000Z,FALSE,TRUE,"New York, NY USA","I see political people...
+(Retweets do not imply endorsement.)",10544806,4656,19978,0
+512,14939981,Dr. Love,questlove,2008-05-29T02:17:23.000Z,FALSE,TRUE,Illadelph & Fi-Di NYC & 31Rock,THE HIP HOP REX CHAPMAN❓❤.y.at,3417550,9966,83141,0
+513,63263205,Erika de la Vega,ErikaDLV,2009-08-05T21:30:36.000Z,FALSE,TRUE,"Miami, FL","La NO hija del Zorro. TV & Radio Host. Comedian. Más mente que cuerpo. Mind over body.
+Escucha mi Podcast #EnDefensaPropiaByErika
+👇",4336679,844,21631,0
+514,277180205,Romeo Santos,RomeoSantosPage,2011-04-04T21:21:17.000Z,FALSE,TRUE,New York,FV3 AVAILABLE NOW,4850171,35,4729,0
+515,59808841,Yuvraj Singh,YUVSTRONG12,2009-07-24T15:26:22.000Z,FALSE,TRUE,"Mumbai, India",YouWeCan,5976296,397,10245,0
+516,39325978,Travie McCoy,TravieMcCoy,2009-05-11T19:52:56.000Z,FALSE,TRUE,"Geneva, NY",My new album NEVER SLEPT BETTER is out NOW on @hopelessrecords #neversleptbetter,2838210,410,5253,0
+517,34097876,Lauren Conrad,LaurenConrad,2009-04-21T23:54:03.000Z,FALSE,TRUE,"Los Angeles, CA","Lifestyle at @laurenconradco, Designer of @lclaurenconrad and Co-founder of @thelittlemarket",2853183,86,7193,0
+518,543533194,David Silva,21LVA,2012-04-02T16:19:00.000Z,FALSE,TRUE,"San Sebastián, España",Jugador de la Real Sociedad,4088436,351,1045,0
+519,46011743,Caio Castro,CaioCastro,2009-06-10T02:14:06.000Z,FALSE,FALSE, ,no Twitter,3564240,233,3432,0
+520,62900439,THiago André,thiaguinhocomth,2009-08-04T19:12:44.000Z,FALSE,TRUE,#MeuNomeÉThiagoAndré,"Meu nome é Thiago André, mas geral me chama de THIAGUÉ!!! THamo junto! Paz de Cristo! Ouça meu projeto ""Meu Nome É Thiago André""!",5109148,755,31506,0
+521,701699418,Ahmet Kural,AHMTKURAL,2012-07-17T20:14:04.000Z,FALSE,TRUE,,https://t.co/SxwvYbeQfd.,3947078,137,860,0
+522,68997312,Titi Kamal,Titi_KamaLL,2009-08-26T14:40:02.000Z,FALSE,TRUE,the world,@Titi_kamall,4185106,894,28288,0
+523,196679942,Павел Воля,RealVolya,2010-09-29T17:25:43.000Z,FALSE,TRUE,,Вторая часть моего аудиоальбом со стихами уже на всех площадках. Послушать: https://t.co/DmAnVOzFP1,4165303,87,2653,0
+524,124779370,JORGE RIAL,rialjorge,2010-03-20T14:48:04.000Z,FALSE,TRUE,Argentina,A veces periodista. Abuelo orgulloso,3422240,1886,89050,0
+525,18420140,Brooke Burke,brookeburke,2008-12-28T02:44:03.000Z,FALSE,TRUE,,"CEO of the Brooke Burke Body Fitness app 📲 https://t.co/geCvK0mlze 🔥 , Podcast 🎤 @intimateknowledge",2800661,265,27511,0
+526,24086418,Peter Andre,MrPeterAndre,2009-03-13T00:42:33.000Z,FALSE,TRUE,Surrey...don't be baby,"Proud dad,Singer/songwriter,producer Tv presenter.3x ARIA award winner,World music award winner. Grateful😀claire@thecangroup.co.uk Co-founder @say_itsfine👇",3118019,6756,14608,0
+527,330446733,Toni Kroos,ToniKroos,2011-07-06T16:47:56.000Z,FALSE,TRUE,"Madrid, Spanien","Official Twitter of Toni Kroos. @RealMadrid @DFB_Team @FIFAWorldCup winner 2014 @ChampionsLeague winner 2013, 2016, 2017, 2018, 2022  Foundation: @TKStiftung",11063986,177,3275,0
+528,43513715,Mustafa Ceceli ©,mustafaceceli,2009-05-30T11:03:01.000Z,FALSE,FALSE,İstanbul,"Official Twitter Page.Singer, Producer since 2003,  Graduated from Yeditepe University Business Administration",3929144,40,8468,0
+529,254152016,سامي الجابر,SamiAlJaber,2011-02-18T18:19:34.000Z,FALSE,TRUE,Riyadh,Saudi | Businessman | @adidasmena Ambassador | Chairman of the advisory board @nejreeapp,7442217,140,8525,0
+530,21681809,Giuliana Rancic,GiulianaRancic,2009-02-23T19:12:50.000Z,FALSE,TRUE,Los Angeles,"Mom/Wife/TV Host/@HSN Fashion Designer, etc...",2940533,758,19222,0
+531,152902472,Yesung,shfly3424,2010-06-07T04:50:16.000Z,FALSE,TRUE,Korea,Super junior Yesung https://t.co/3X0muqtE7M https://t.co/0BFxQkCk5N https://t.co/Qt5EDXMFWX https://t.co/42QC9hySYo,5090602,3,4232,0
+532,33905807,Andres Lopez Forero,lopezandres,2009-04-21T13:41:09.000Z,FALSE,TRUE,"Miami, FL","Colombian comedian. En https://t.co/xydtC8xFF0 ver #LaPelotadeLetras #FruticaPicada sin costo. 
+#LlegarAMarte FB:LopezMan IG:idealopez 
+Business inquiries:",3374671,100412,29819,0
+533,250090860,Joey Essex,JoeyEssex_,2011-02-10T12:00:50.000Z,FALSE,TRUE,,Essex by name. Based on a true story… For all business enquiries contact @neonmanagement,3107331,220,24716,0
+534,262359713,Heidi Klum,heidiklum,2011-03-07T22:19:11.000Z,FALSE,TRUE,,CHAI TEA WITH HEIDI OUT NOW,4809064,137,7489,0
+535,24967668,LA LA,lala,2009-03-17T22:17:13.000Z,FALSE,TRUE,Insta: @lala Snapchat: lala ,Thanks for the love! Its appreciated and always needed! LOVE YOU!! ❤❤❤,4643910,992,29029,0
+536,112457675,Gemma Styles,GemmaAnneStyles,2010-02-08T15:32:23.000Z,FALSE,TRUE,London,(she/her) 💻writer⁣ 🍿accidental influencer 🗣 podcasting @goodinfluencegs 🕶 i make sunglasses! 🌻 @MQmentalhealth ambassador ✉️ repped @gleamfutures,3897927,872,10544,0
+537,351528904,#مصطفى_الآغا Mustafa Agha,mustafa_agha,2011-08-09T11:20:09.000Z,FALSE,TRUE,,يفتشون عن أخطاء الآخرين وكأنهم يبحثون عن كنز عقول تستحق الشفقة  https://t.co/EiPwmy1lOc snap: mustafa_agha11,4579431,111,158024,0
+538,27678749,Emma Roberts,RobertsEmma,2009-03-30T16:52:12.000Z,FALSE,TRUE,LA&NY,https://t.co/8dZouoehsm,3298555,737,7199,0
+539,24278900,Busta Rhymes,BustaRhymes,2009-03-13T23:17:17.000Z,FALSE,TRUE,THE UNIVERSE,,3930820,972,31733,0
+540,27710376,Mano Menezes,manomenezes,2009-03-30T19:36:29.000Z,FALSE,TRUE,,Atualizado pelo treinador e por sua assessoria.,2901957,1,1271,0
+541,31353077,Nathan Fillion,NathanFillion,2009-04-15T05:57:40.000Z,FALSE,TRUE,Los Angeles,It costs nothing to say something kind. Even less to shut up altogether.,3264369,602,12001,0
+542,19679611,Pattie Mallette,pattiemallette,2009-01-28T22:09:07.000Z,FALSE,TRUE,,#LoveWins  #LOVEARMY,3107753,562,6799,0
+543,33923443,"MarQuis Trill | Crypto, NFT & Blockchain Analyst",6BillionPeople,2009-04-21T14:43:32.000Z,FALSE,TRUE,"Miami, FL","Cryptocurrency + NFT + Blockchain Educator, Investor & Trader. CEO of @altcoincon @blkblockchain @myhardwallet @wealthhumans Join my community today | Click ⬇️",2059724,4081373,183417,0
+544,220557145,#وليد_الفراج,waleedalfarraj,2010-11-28T04:01:57.000Z,FALSE,TRUE,jeddah,رئيس تحرير برنامج #اكشن_مع_وليد في قناة mbc action  | مستشار اعلامي | سناب w_alfarraj ، علاقاتي العامة بواسطة شركة فينومينال emad@prphenomenal.co,7367709,2701,48217,0
+545,8273632,Gustavo Cerati,cerati,2007-08-18T22:38:39.000Z,FALSE,TRUE,Ciudad de Buenos Aires,Cuenta oficial de Gustavo Cerati,3397983,5,684,0
+546,21278412,Fabolous,myfabolouslife,2009-02-19T05:19:42.000Z,FALSE,TRUE,Where the Cash At,"Its Loso, In Case You Aint Know So aka The Best Who Ever Twitted",4164142,328,21774,0
+547,21586418,danawhite,danawhite,2009-02-22T18:44:49.000Z,FALSE,TRUE,"Las Vegas, NV",#UFC281: Adesanya vs Pereira || Saturday November 12 || LIVE on @ESPNPlus PPV,6079868,1851,40076,0
+548,146200269,Espinoza Paz 🤠,EspinozaOficial,2010-05-20T21:08:19.000Z,FALSE,TRUE,"Mazatlán, Sinaloa",Disponible 𝗡𝗨𝗘𝗩𝗢 𝗦𝗘𝗡𝗖𝗜𝗟𝗟𝗢 #EseSoyYo ➡️ https://t.co/j7dyPh6tUS   oficina@espinoz.co Booking Manager: Carlos Quintero USA +1(310)946-8601,3267535,156,9302,0
+549,120178497,นิชคุณ Buck หรเวชกุล,Khunnie0624,2010-03-05T18:09:01.000Z,FALSE,TRUE,,I'm only on Twitter and Weibo (尼坤khun) and now Instagram (Khunsta0624). The rest are not my personal accounts. ( T.S. means Today's Song),6849504,183,5698,0
+550,443215941,Seth Rogen,Sethrogen,2011-12-21T23:17:52.000Z,FALSE,TRUE,,I... Tweet!!!!!!,9415170,1826,11582,0
+551,14123683,Andy Murray,andy_murray,2008-03-11T14:22:56.000Z,FALSE,TRUE,London,I play tennis.,3555105,160,3177,0
+552,46345843,John Bishop,JohnBishop100,2009-06-11T08:29:14.000Z,FALSE,TRUE,,"I have not eaten meat since the 80's. husband, father, animal lover.",3500905,541,11431,0
+553,48823885,Corbuzier,corbuzier,2009-06-19T20:49:43.000Z,FALSE,FALSE,,YOU KNOW WHO I AM,4358454,0,17224,0
+554,77812872,Dr Elio Keller,ceracoat,2009-09-27T19:36:45.000Z,FALSE,FALSE,zürich,If you can dream it you can do it - President Ceracoat & Autolinea Group - CEO of Ceracoat Industries - President of Ceracoat's help for children foundation,804441,1472,5705,0
+555,34717352,DavidKWilliams,DavidKWilliams,2009-04-23T20:20:53.000Z,FALSE,FALSE,global,#Chairman #CEO #BoardMember #BizConsultant #LeadershipCoach #Forbes #HBR #Author-The 7 Non-Negotiables of Winning https://t.co/e5fQjsLj7P @CamFoundationFB,843055,4452,27796,0
+556,221122127,michelle keegan,michkeegan,2010-11-29T20:12:35.000Z,FALSE,TRUE,,You only live once... But if you do it right once is enough. X,3401565,430,11126,0
+557,22832029,Slash,Slash,2009-03-04T20:51:27.000Z,FALSE,TRUE,"Los Angeles, CA",The official Twitter of Slash. ‘4’ by Slash ft. Myles Kennedy & The Conspirators is out now.,3603916,804,14844,0
+558,22412376,Goat lord,deadmau5,2009-03-01T21:59:41.000Z,FALSE,TRUE,,deadmau5 presents We Are Friends tour; get tickets and upgrades via https://t.co/oJoqQaDWzc. XYZ out now! check link below for stream/DL options :P,3402316,650,44124,0
+559,64563165,Pedro Bial,PBiaL,2009-08-11T00:17:31.000Z,FALSE,TRUE,Brazil,TV Journalist,3674723,713,1533,0
+560,29441764,BRUNO IERULLO,BRUNOIERULLO,2009-04-07T12:59:13.000Z,FALSE,FALSE,TORONTO-NY-MILANO,Fashion Designer BRUNO IERULLO https://t.co/wqK8LBnu1j Instagram BRUNOIERULLO Movie Documentary-MATERIAL SUCCESS https://t.co/XewXjKlVNs,952255,2081,1022,0
+561,102928627,NOAH,NOAH_ID,2010-01-08T08:37:53.000Z,FALSE,TRUE,Indonesia,@R_besar | @Loekman_Guitar | @DorfelDave | FB: https://t.co/tKvdAfnOHS instagram: https://t.co/W6cW5X9PDN #NOAHSecondChance,4568996,393,24438,0
+562,216264820,Michael Owen,themichaelowen,2010-11-16T06:15:01.000Z,FALSE,TRUE,Contact: enquiries@themichaelowen.com,,3801981,1083,15094,0
+563,46957344,DrakeBell.ethᵍᵐ,DrakeBell,2009-06-13T20:29:33.000Z,FALSE,TRUE,Portugal,New album out soon!,4410025,2669,3887,0
+564,216201838,Ansel,AnselElgort,2010-11-16T01:32:37.000Z,FALSE,FALSE,NYC,,3195684,7744,1982,0
+565,6211972,Sara Bareilles,SaraBareilles,2007-05-21T23:17:07.000Z,FALSE,TRUE,VOTE,BLACK LIVES MATTER.,2808700,524,13762,0
+566,65432405,Tito El Bambino 🦅✨,Tbambino,2009-08-13T18:36:30.000Z,FALSE,TRUE,Puerto Rico,,4146350,209,26039,0
+567,304596944,ISCO ALARCON,isco_alarcon,2011-05-24T19:47:37.000Z,FALSE,TRUE,Arroyo de la miel,JUGADOR SEVILLA ! Instagram iscoalarcon,5563614,295,1026,0
+568,169272033,Alejandro Vigilante,VigilanteArtist,2010-07-21T23:30:31.000Z,FALSE,TRUE,"Miami,Florida",Pop Artist - Digital Artist - Founder of iArt Movement 💜⁷ NFT https://t.co/3UbXmBbGGo,581894,27106,63781,0
+569,1269425228,Manuel Neuer,Manuel_Neuer,2013-03-15T10:48:16.000Z,FALSE,TRUE,,"Hier twittere ich Themen zum FC Bayern, der Nationalmannschaft und vieles mehr rund um den Fußball.",3975144,48,156,0
+570,55616342,Kev Adams,kevadamsss,2009-07-10T17:27:37.000Z,FALSE,TRUE,"Adams Park, MI","🌟« Le vrai moi » dispo sur @netflixfr                                  🪞« Miroir » en tournée à partir de 2023, chope tes places: https://t.co/VqfBeXRVmc",6023418,711,12848,0
+571,44039298,Seth Meyers,sethmeyers,2009-06-02T02:35:39.000Z,FALSE,TRUE,New York,,4927718,905,10780,0
+572,143490635,Andrea Serna,AndreaSernaTV,2010-05-13T16:20:34.000Z,FALSE,TRUE,Colombia,Presentadora de Televisión. Contacto: irma@irma-a.com (Irma Aristizabal - Manager),3642214,646,30204,0
+573,136885994,Lee Teuk,special1004,2010-04-25T05:24:02.000Z,FALSE,TRUE,Seoul,SJ-Special,4377211,13,3355,0
+574,52939106,Janet Jackson,JanetJackson,2009-07-02T02:25:48.000Z,FALSE,TRUE,Los Angeles,💙 #JanetJacksondoc 💙,4161642,93,2365,0
+575,163559269,Pau Gasol,paugasol,2010-07-06T18:37:04.000Z,FALSE,TRUE,,"Barcelona, Memphis, Los Angeles, Chicago, San Antonio, Milwaukee, Portland, Barcelona... And Twitter!!",7216350,404,15464,0
+576,19697415,Bill Maher,billmaher,2009-01-29T05:19:44.000Z,FALSE,TRUE,Los Angeles,The Official Bill Maher Twitter,10995218,36,5406,0
+577,44670915,J BALVIN,JBALVIN,2009-06-04T17:41:41.000Z,FALSE,TRUE,,Ser Humano,10849351,543,31746,0
+578,505218781,ROLA,RolaWorLD,2012-02-27T01:02:11.000Z,FALSE,TRUE,,Instagram🌎→ Rolaofficial and StudioR330🕊♻️✨,4127533,152,3479,0
+579,95515846,Vinny Guadagnino,VINNYGUADAGNINO,2009-12-08T22:22:20.000Z,FALSE,TRUE,NYC ,Low carb stripper. Link to preorder The #KetoGuido Cookbook below⬇️. #JSFamilyVacation IG: VINNYGUADAGNINO. 📧 : vinnygbookings@gmail.com,2788042,1329,16483,0
+580,31685653,Lea Salonga,MsLeaSalonga,2009-04-16T07:41:07.000Z,FALSE,TRUE,Wherever I hang my hat is home,Human.,5664357,750,30681,0
+581,12,jack,jack,2006-03-21T20:50:14.000Z,FALSE,TRUE,,#bitcoin,6487416,4579,28694,0
+582,24342206,Manu Ginobili,manuginobili,2009-03-14T06:48:43.000Z,FALSE,TRUE,San Antonio / Bahia Blanca,"Era el 20 de los Spurs y el 5 de Argentina. 
+Now Special Advisor to Basketball Operations for the San Antonio Spurs.",4797121,113,6769,0
+583,22096068,Georgina Wilson,ilovegeorgina,2009-02-27T02:20:22.000Z,FALSE,FALSE,"Manila, Philippines ",,4043883,627,19019,0
+584,58538830,JACKY BRACAMONTES,jackybrv,2009-07-20T17:51:37.000Z,FALSE,TRUE,,Actress/Tv Host. Just a girl... Trying to enjoy life... and be happy!!!! CONTACTO: @xumalin,3395380,643,11536,0
+585,24621955,#VisionImplementor,Tyrese,2009-03-16T01:05:30.000Z,FALSE,TRUE,I am a GLOBAL SHIFTER! ,"I've created a #BlackRose' Universe Double album, a book, 1hr Docu all in stores NOW make an R&B Soul statement buy the FULL #BlackRose' album - it's my BEST!",2866140,2633,50024,0
+586,47719006,Quisiera Que Te Quedes A Mi Lado,ReikMx,2009-06-16T19:29:45.000Z,FALSE,TRUE,,"Twitter Oficial de Reik conformado por Jesús Navarro, @julioreguia y @bibimarin. Management: @WestWoodEntt. Contrataciones: jsantillan@westwoodent.com",3986577,643,21902,0
+587,20978103,Dane Cook,DaneCook,2009-02-16T11:28:12.000Z,FALSE,TRUE,"Los Angeles, CA",My NEW event 'Above It All' is STREAMING NOW at my website.,2740580,920,19633,0
+588,336116660,Jerry Seinfeld,JerrySeinfeld,2011-07-15T19:26:31.000Z,FALSE,TRUE,"New York, NY",The Comedians In Cars Getting Coffee Book is available November 22,4301679,121,1689,0
+589,92726549,Genelia Deshmukh,geneliad,2009-11-26T10:16:23.000Z,FALSE,TRUE,,Actor - Producer,5284104,119,8690,0
+590,14515734,Dr. Drew,drdrew,2008-04-24T18:35:47.000Z,FALSE,TRUE,"Pasadena, CA",Board Certified Internist • Addiction Medicine Specialist • TV Host / Podcaster • @AskDrDrew #AdamAndDrewShow #YMH #DrDrewAfterDark & MTV #TeenMom,2635503,1286,17886,0
+591,39261061,MARLEY - ALE WIEBE,marley_ok,2009-05-11T14:29:50.000Z,FALSE,TRUE,buenos aires,"soy el papá de Mirko, conductor de telefe tv host from argentina. Canal de YouTube: Marley ok. Facebook: MarleyTv Instagram: Marley_ok",5276940,1935,45063,0
+592,34461692,@andreolifelipe,andreolifelipe,2009-04-23T00:30:51.000Z,FALSE,TRUE,"São Paulo, Brasil",Jornalista/Globo Esporte SP///contato: jennifer@linkinfirm.com,3369585,2659,6963,0
+593,108538006,L̶O̶G̶A̶N̶,1LoganHenderson,2010-01-26T07:10:25.000Z,FALSE,TRUE,,,2754310,789,3798,0
+594,461922813,Zlatan Ibrahimović,Ibra_official,2012-01-12T10:44:34.000Z,FALSE,TRUE,,Let’s make the world move @hm_move,8673299,9,870,0
+595,156954768,Hande Yener,handeyener,2010-06-18T12:01:10.000Z,FALSE,TRUE,Istanbul / TURKEY,"popular singer,artist, digitalpr@pollproduction.com İYİ YA  yayında 👇🏼",3477106,1808,65906,0
+596,19604744,Smosh,smosh,2009-01-27T17:55:24.000Z,FALSE,TRUE,"Los Angeles, CA","New videos every Monday, Tuesday, Wednesday & Thursday 🎥",2634301,7348,47195,0
+597,3303293865,Caitlyn Jenner,Caitlyn_Jenner,2015-05-30T01:08:18.000Z,FALSE,TRUE,"California, USA",Biz / Mgmt: sophia@caitlynjenner.com,3424721,45,1431,0
+598,17169320,COMMON,common,2008-11-04T21:18:21.000Z,FALSE,TRUE,"Chicago, IL",A Beautiful Revolution Pt. 2 out now! https://t.co/1CwoRaUlCn,5379539,876,15252,0
+599,69396376,Suso el Paspi,susoelpaspi,2009-08-27T20:33:21.000Z,FALSE,FALSE,Medellín,"Comediante colombiano  y presentador TV de @TheSusosShow 
+Tengo una Escuela de Arte @tecreoartes
+Mánager: @dianitapvelas
+comunicaciones@tecreo.com.co",3722295,658,44441,0
+600,155620016,Amber Rose,DaRealAmberRose,2010-06-14T16:58:19.000Z,FALSE,TRUE,"South Philly, PA",hoe/ baby mama/ star fucker,3750970,733,14343,0
+601,79708561,Jacqueline Fernandez,Asli_Jacqueline,2009-10-04T11:16:08.000Z,FALSE,TRUE,,Actress,15869703,203,7795,0
+602,1964571728,Karim Benzema,Benzema,2013-10-16T11:19:37.000Z,FALSE,TRUE,,Football player - @equipedefrance @realmadrid Business inquiries 📩 info@thebenzemakarim.com,18189875,93,3764,0
+603,21324258,Martha Stewart,MarthaStewart,2009-02-19T18:25:14.000Z,FALSE,TRUE,"Katonah, NY","curious,inquisitive,experimental entrepreneur who cares about the world we live in",3457834,4554,9802,0
+604,69751644,James Maslow,jamesmaslow,2009-08-29T01:32:02.000Z,FALSE,TRUE,Los Angeles,"For Inquires: Team@jamesmaslow.com
+https://t.co/2ycNpTXyho",2909643,9199,14580,0
+605,21744528,La Fouine,lafouine78,2009-02-24T10:56:06.000Z,FALSE,TRUE,Trappes/Paris,« XXI » disponible partout ⬇️,4709061,261,42884,0
+606,2533070650,Oscar,oscar8,2014-05-06T15:05:20.000Z,FALSE,TRUE,,"Welcome to my Twitter!
+IG: https://t.co/6qcDtTGMat
+FB: https://t.co/FRfeDAfw8k
+📧: contato@one9content.com",4483964,163,1474,0
+607,140538938,Susana Gimenez,Su_Gimenez,2010-05-05T19:17:21.000Z,FALSE,TRUE,Buenos Aires,"Conductora de TV, Actriz - TV Host, Actress",4160930,125,794,0
+608,20620967,David Henrie,DavidHenrie,2009-02-11T19:57:37.000Z,FALSE,TRUE,Where in the world are you?,"Trying to bring about goodness through being a husband, father and content creator! Business inquiries please email frankie@media43.com",2537458,1534,10343,0
+609,216430965,Caspar Lee,Caspar_Lee,2010-11-16T18:17:37.000Z,FALSE,TRUE,London ,partner @ https://t.co/bSQ1bEhs86 & co-founder @ https://t.co/iBUPLw2um0,5004197,2976,9293,0
+610,17019152,Steve Aoki,steveaoki,2008-10-28T11:19:27.000Z,FALSE,TRUE,"ÜT: 34.075736,-118.301746",📲 (310) 340-7892 | JOIN THE A0K1VERSE | https://t.co/MFG1DjArSY,8206735,5648,47896,0
+611,169927844,BoA,BoAkwon,2010-07-23T14:28:44.000Z,FALSE,TRUE,In this world ,Music release: 20.12.01 6PM (KST) Album release: 20.12.01 The 10th album “BETTER”,3118535,148,2094,0
+612,127680760,Вера Брежнева,VeraBrezhneva,2010-03-29T23:25:56.000Z,FALSE,TRUE,Ververa,Hope Love Peace ❤️ #ververa ❤️ #vbdiary ❤️ http://t.co/Xc1jJhyhYW ❤️,2901890,36,5614,0
+613,105296218,Danielle Peazer,DaniellePeazer,2010-01-15T23:35:33.000Z,FALSE,TRUE,"London, England",doing this thing called life and barely tweeting about it 🙃  IG: DaniellePeazer YouTube: https://t.co/LIzojiALLo,2359919,1105,23413,0
+614,50811932,James Harden,JHarden13,2009-06-25T23:23:37.000Z,FALSE,TRUE,"Philadelphia, PA",NBA Player for the Philadelphia 76ers,7733745,276,13418,0
+615,33868638,shruti haasan,shrutihaasan,2009-04-21T10:35:52.000Z,FALSE,TRUE,India,everything in its right place,7955814,346,17037,0
+616,166767883,Joey Barton,Joey7Barton,2010-07-14T23:34:19.000Z,FALSE,TRUE,,Instagram: joey7bartonofficial                      ▪️K A I Z E N▪️,2879055,867,21682,0
+617,87174678,Sania Mirza,MirzaSania,2009-11-03T12:02:55.000Z,FALSE,TRUE,"ÜT: 52.478533,-1.907616",Humour.Courage.Grace. / @UN_Women Goodwill Ambassador for South Asia,9149190,126,7942,0
+618,112915037,Steve Austin,steveaustinBSR,2010-02-10T03:27:14.000Z,FALSE,TRUE,Broken Skull IPA. Best IPA in America. Beer me.,"Instagram-@steveaustinBSR
+https://t.co/ZMA3ERY3ov",4749885,617,35679,0
+619,828742454,Sandara Park,krungy21,2012-09-17T09:51:13.000Z,FALSE,TRUE,,투애니원의 상큼한보컬 & 신인여배우 2NE1's fresh vocal & Pambansang krungkrung ng Pilipinas & Actress,5900400,187,9727,0
+620,158128894,Nina Garcia,ninagarcia,2010-06-21T21:32:40.000Z,FALSE,TRUE,NYC,"Official Account - Nina Garcia, @ELLEMagazine Editor in Chief & Project Runway Judge - Twitter Oficial de Nina Garcia",3082263,1591,37007,0
+621,163082968,فارس عوض,farisf9,2010-07-05T14:15:22.000Z,FALSE,TRUE,Abu Dhabi,معلق رياضي ❤️ اتشرف بمتابعة الجميع بإستثناء من تعلم الهجاء قبل الحروف 🤷🏻‍♂️ حساب الانستغرام  https://t.co/ub37y34xsW,5144041,889,35456,0
+622,75916180,Imagine Dragons,Imaginedragons,2009-09-21T00:37:53.000Z,FALSE,TRUE,Las Vegas,Mercury Acts 1 & 2 OUT NOW @DanReynolds @benamckee @WayneSermon @DanielPlatzman,5666426,16149,8721,0
+623,330705266,Hayes Grier,HayesGrier,2011-07-07T01:15:54.000Z,FALSE,TRUE,NC/LA,Instagram - @hayesgrier,3518814,501,8748,0
+624,24516380,Alberto Ciurana,AlbertoCiurana,2009-03-15T12:23:20.000Z,FALSE,TRUE,,Chief Content & Distribution Officer for @Azteca,1091647,7836,90380,0
+625,21219827,Shay Mitchell,shaymitch,2009-02-18T17:51:56.000Z,FALSE,TRUE,,Live The Life You Love... SnapChat: officialshaym,2968704,629,23214,0
+626,180396151,Rossa Roslaina,mynameisrossa,2010-08-19T14:50:16.000Z,FALSE,TRUE,Indonesia,Singer & Brand Ambassador based in Indonesia & Malaysia | CP : @gemasakti (gemanagasakti@gmail.com) | Official Social Media : https://t.co/VFQjci1FkV,4216262,338,18846,0
+627,53338746,👼🏼,troyesivan,2009-07-03T09:00:57.000Z,FALSE,TRUE,,https://t.co/O2QgsgCLPc,8867099,3399,18340,0
+628,62902439,Reggie Bush,ReggieBush,2009-08-04T19:20:45.000Z,FALSE,TRUE,"Los Angeles, CA",I can do all things through Christ who strengthens me,2653909,244,9217,0
+629,334865866,محمد العوضي,mh_awadi,2011-07-13T19:54:03.000Z,FALSE,TRUE,,الحساب الرسمي والوحيد لـِ محمد العوضي ـ مع رجائنا من جميع (المحبين) عدم إستخدام اسم أو صورة الدكتور في أي من الحسابات على تويتر instagram : mh.awadi,4099693,443,38717,0
+630,153619589,Eugenia Suarez ♛,chinasuarez,2010-06-09T01:12:50.000Z,FALSE,TRUE,"En las nubes, casi siempre.","Mamá enamorada perdidamente de Rufina, Magnolia y Amancio ❤️ Instagram: sangrejaponesa ---- 🎬",4045165,519,11416,0
+631,238475531,Metallica,Metallica,2011-01-15T07:34:59.000Z,FALSE,TRUE,"San Francisco, CA",http://t.co/EAkqroM0OA | http://t.co/BEu6OVRhKG,6157927,33,5197,0
+632,78941611,Harsha Bhogle,bhogleharsha,2009-10-01T16:18:03.000Z,FALSE,TRUE,"Mumbai, India","Blessed. Enjoy till it lasts. 
+https://t.co/SY1rTB6XA4",8987656,167,64971,0
+633,136140018,Deborah Secco,dedesecco,2010-04-23T03:49:26.000Z,FALSE,TRUE,@dedesecco,Sendo o melhor que posso,4398907,343,18373,0
+634,7.28247E+17,Juliana Paes,jupaesoficial,2016-05-05T15:38:25.000Z,FALSE,FALSE,Brasil ,,457,1,1,0
+635,287834630,Gary Neville,GNev2,2011-04-25T19:27:56.000Z,FALSE,TRUE,,Attack The Day,5408348,1038,19605,0
+636,42562446,Stephen Curry,StephenCurry30,2009-05-26T04:15:37.000Z,FALSE,TRUE,Worldwide,"Believer. Husband 2 @ayeshacurry, father to Riley, Ryan and Canon, son, brother. Warriors guard. Davidson Wildcat. BAYC. Philippians 4:13 #ChangeTheGameForGood",17130394,856,7954,0
+637,166270127,Tim Tebow,TimTebow,2010-07-13T19:07:23.000Z,FALSE,TRUE,,Text me ➡️ (904) 441-5450 Co-Founder @campusunlocks,4526981,105,3822,0
+638,213969309,Lewis Hamilton,LewisHamilton,2010-11-10T06:48:29.000Z,FALSE,TRUE,All around the World!!,"🌱 Based Diet. Love Animals. Living in my purpose, for adventure, open-mindedness and positivity 🙏🏾",7884316,221,1410,0
+639,142448465,Giovanna Antonelli,gio_antonelli,2010-05-10T22:47:04.000Z,FALSE,TRUE,Brasil/ itália ,,4239075,206,24650,0
+640,44312605,Josh Hutcherson,jhutch1992,2009-06-03T07:05:45.000Z,FALSE,TRUE,,Official Instagram:   https://t.co/IGidYuutpw         Official Facebook: https://t.co/G5wFdYnuKE,2250823,108,588,0
+641,394581283,Fernando Torres,Torres,2011-10-20T09:23:11.000Z,FALSE,TRUE,,Bienvenidos a mi perfil oficial en Twitter / Welcome to my official Twitter profile https://t.co/8jKUHVCnXc https://t.co/3FCVxMHq3f,3619517,213,1555,0
+642,230288829,Amr Waked,amrwaked,2010-12-24T22:20:19.000Z,FALSE,TRUE,,"سينمائي وموسيقي على باب الله صوت لمن ليس له صوت Filmmaker and Musician A voice to the voiceless https://t.co/ttRZtUccdN
+https://t.co/DAoKag51C5",7008163,503,24436,0
+643,113278275,Boman Irani,bomanirani,2010-02-11T07:44:23.000Z,FALSE,TRUE,mumbai,Always at the movies. Even when I’m at work.,5486591,210,9134,0
+644,31080039,Lena Dunham,lenadunham,2009-04-14T07:35:38.000Z,FALSE,TRUE,a city near you,Good Thing Going | Stream #CatherineCalledBirdy on Amazon Prime 🕊️,5191261,769,14845,0
+645,812613596,Assi El Hallani,assihallani,2012-09-09T07:35:39.000Z,FALSE,TRUE,,Lebanese Singer | Instagram / Facebook assielhallaniofficial |,3598218,335,52368,0
+646,20632700,Leigh Francis,LeighFrancis,2009-02-11T21:57:48.000Z,FALSE,TRUE,Somewhere nice hopefully ,I do stuff on the telly.,2766513,1592,59146,0
+647,46919513,Willie Colón,williecolon,2009-06-13T16:54:17.000Z,FALSE,TRUE,"Bronx, NY",FB: @thewilliecolon @williecolononline. IG &  Parler: @realwilliecolon MeWe: @realwilliecolon Anti-Marxist Anti-Communist,2002725,10183,74153,0
+648,316053407,Aljassmi حسين الجسمي,7sainaljassmi,2011-06-12T21:36:45.000Z,FALSE,TRUE,United Arab Emirates,Emirati 🇦🇪 Official Twitter.       Worldwide Agent is @mayarabbas,7253689,30,13109,0
+649,1.35E+18,Jill Biden,FLOTUS,2021-01-13T00:57:47.000Z,FALSE,TRUE,,First Lady of the United States Jill Biden. Community college educator. Military mother. Grandmother. Wife of @POTUS.,4095037,6,606,0
+650,88910796,Eser YENENLER,eseryenenler,2009-11-10T11:53:09.000Z,FALSE,TRUE,,EYS youtube: https://t.co/Bo44bgURSN,3591026,268,1804,0
+651,255388236,The Weeknd,theweeknd,2011-02-21T07:45:45.000Z,FALSE,TRUE,"Toronto, Ontario",dawn FM,16723906,0,4647,0
+652,15155074,Pearl Jam 🇺🇦,PearlJam,2008-06-18T06:59:14.000Z,FALSE,TRUE,"Seattle, WA",Gigaton - Out Now. Listen to the new album: https://t.co/p27bfTiqQ0,3512467,926,9672,0
+653,145548166,Dalnim,AllRiseSilver,2010-05-19T07:10:42.000Z,FALSE,TRUE,,#SUPERJUNIOR #EUNHYUK,2826325,0,1446,0
+654,139848744,Shawn Michaels,ShawnMichaels,2010-05-03T21:31:44.000Z,FALSE,TRUE,San Antonio ,This is the official Twitter for the real Shawn Michaels. #WWENXT,4055095,56,25366,0
+655,62581962,Justin,shitmydadsays,2009-08-03T18:20:34.000Z,FALSE,FALSE,,"Author of Shit My Dad Says and, coming May 15th, my new book I Suck At Girls. My dad's in it, don't worry. This account is where I publish the shit that he says",2217234,1,173,0
+656,618336955,The Vamps,TheVampsband,2012-06-25T18:43:45.000Z,FALSE,TRUE,United Kingdom,@thevampsbrad @thevampscon @thevampsjames @thevampstristan 🎂10 YEARS OF THE VAMPS 🎂 GREATEST HITS WORLD TOUR 🌍 On sale now ⬇️,3709996,44220,23227,0
+657,96846955,Steve Harvey,IAmSteveHarvey,2009-12-14T21:41:34.000Z,FALSE,TRUE,"Los Angeles, CA","Global philanthropists, investor and award winning entertainer. “The more people you help become successful the more successful you become. “",5861046,981,75103,0
+658,139876086,AB de Villiers,ABdeVilliers17,2010-05-03T23:10:45.000Z,FALSE,TRUE,"South Africa, Pretoria","Former South African Cricket player. I have a passion to create, I like to build well and I love to have a positive impact on others and our planet",9114917,145,5906,0
+659,120943272,Erin Andrews,ErinAndrews,2010-03-08T02:12:04.000Z,FALSE,TRUE,Everywhere,TEXT ME: +1 (310) 564-2573 @tubi ambassador @wearbyea & @calmdownpodcast ⤵️,2669199,568,23686,0
+660,9255842,Oscar Filho,OscarFilho,2007-10-05T01:48:15.000Z,FALSE,TRUE,São Paulo,Humorista • Ator • Instagram: @oscarfilho Contato para shows e eventos: dricosta@agenciamento.art.br,3018401,76,15096,0
+661,56304605,Rajdeep Sardesai,sardesairajdeep,2009-07-13T06:14:44.000Z,FALSE,TRUE,New Delhi,"Citizen first. Blessed. Only 'ism' is humanism. newsman, tv anchor, author, columnist, father, friend. In search of a better world.",8977977,656,75505,0
+662,1183041,Wil Wheaton,wilw,2007-03-14T21:25:33.000Z,FALSE,TRUE,Los Angeles,#BlackLivesMatter,2684771,6,442,0
+663,241382835,Chris Pratt,prattprattpratt,2011-01-22T03:49:01.000Z,FALSE,TRUE,,,8371740,475,4158,0
+664,256881576,Gabrielle Union,itsgabrielleu,2011-02-24T07:48:58.000Z,FALSE,TRUE,,"Loving fashion, beauty, fitness, dogs and sports :) IG: GabUnion FB: GabrielleUnionOfficial Snap: GabUnionWade",4484847,1001,29945,0
+665,32062132,Sertab Erener,sertaberener,2009-04-16T18:25:56.000Z,FALSE,TRUE,,"Singer, songwriter https://t.co/MGw84reW79 https://t.co/nfyenyDPmB instagram: @sertaberener",3009034,153,5237,0
+666,14791251,Jason Aldean,Jason_Aldean,2008-05-15T20:22:17.000Z,FALSE,TRUE,"Nashville, TN","Official Jason Aldean Twitter Account. New double album MACON, GEORGIA out now! https://t.co/MDRKR9iZzj",3765029,131,19015,0
+667,613321095,King Mika Singh,MikaSingh,2012-06-20T08:01:31.000Z,FALSE,TRUE,mumbai,Singer writer composer and producer..,4094983,251,33764,0
+668,580097412,Chris Evans,ChrisEvans,2012-05-14T16:23:02.000Z,FALSE,TRUE,,A Starting Point: @ASP,16208415,730,2134,0
+669,1401587503,松本人志,matsu_bouzu,2013-05-04T06:48:33.000Z,FALSE,TRUE,,所属事務所：吉本興業 コンビ名：ダウンタウン 血液型：Ｂ型,9269852,94,955,0
+670,14994465,Jimmy Eat World,jimmyeatworld,2008-06-03T16:29:21.000Z,FALSE,TRUE,"Mesa, Arizona",Place Your Debts Out Now,2357081,161,7142,0
+671,45831321,Mark Wright,MarkWright_,2009-06-09T13:03:24.000Z,FALSE,TRUE,London,UK Agent and press: @intertalent LIVE WRIGHT https://t.co/ixqzy3VUxh,2635553,595,16638,0
+672,124003770,Cher,cher,2010-03-17T23:05:55.000Z,FALSE,TRUE,"Malibu, California","Stand & B Counted or Sit & B Nothing. Don't Litter,Chew Gum,Walk Past Homeless PPL w/out Smile.DOESNT MATTER in 5 yrs IT DOESNT MATTER THERE'S ONLY LOVE&FEAR",4021233,188,36447,0
+673,26642006,Alyssa Milano,Alyssa_Milano,2009-03-26T00:34:20.000Z,FALSE,TRUE,Los Angeles,🇺🇸 Check out @sorrynotsorry @PatNotPart and @NoRA4USA Please follow my other accounts for career updates @AlyssaDotCom @TouchByAM Text Me: (323)396-9923,3563767,6968,77002,0
+674,57905993,Lisa Surihani,LisaSurihani,2009-07-18T10:39:33.000Z,FALSE,TRUE,,"Malaysian Actor , Host . FB : Lisa Surihani (verified) IG : lisasurihani (verified)",3751836,437,23688,0
+675,101532373,Lorenzo Jovanotti,lorenzojova,2010-01-03T17:46:53.000Z,FALSE,TRUE,,Profilo ufficiale di Lorenzo Jovanotti Cherubini,3761259,1309,17819,0
+676,14681605,KevinSmith,ThatKevinSmith,2008-05-07T01:18:24.000Z,FALSE,TRUE,Body? L.A. Mind? N.J.,"It begins with me covered in sperm, trapped in my old man's balls. Then, suddenly... ESCAPE!",3070910,69,39462,0
+677,342599843,mariogotze.eth,MarioGoetze,2011-07-26T08:29:14.000Z,FALSE,TRUE,"Frankfurt am Main, Deutschland","soccer @eintracht, @nike // believing in digital identities and communities @RTFKT",4177873,488,1543,0
+678,19929890,barkha dutt,BDUTT,2009-02-02T20:36:36.000Z,FALSE,TRUE,India,"Barkha Rani Jamke Barasti Hai. Emmy Nominated Reporter. Columnist @WashingtonPost. Editor, @themojostory. Argumentative! Yaaron Ka Yaar",7174542,3872,150055,0
+679,27760317,The Beatles,thebeatles,2009-03-30T23:31:05.000Z,FALSE,TRUE,,,3880680,326482,6207,0
+680,96083073,فيصل القاسم,kasimf,2009-12-11T07:53:15.000Z,FALSE,TRUE,"Doha, Qatar",أغرد كي أتعلم.والآراء كالفيروسات تتحور باستمرار، والثابت الوحيد هو المتحول. أرى الدنيا من زاوية منفرجة، فالعالم أوسع بكثير من عصبياتنا الضيقة. لا أتبنى الرتويت,6102939,519,121982,0
+681,382613598,Frases 🌿,SintoniaVerso,2011-09-30T11:35:51.000Z,FALSE,FALSE,"Marília, Brasil",Publicidade: Alissonhs20@gmail.com,4173912,1225,164951,0
+682,75334313,Javier Alatorre,Javier_Alatorre,2009-09-18T17:22:24.000Z,FALSE,TRUE,Ciudad de Mexico,"Periodista / Conductor ""Hechos"" y ""Las Noticias con Javier Alatorre"" Facebook: JavierAlatorreMx YouTube: JavierAlatorreMx Instagram: Javier_Alatorre",3919312,440,9436,0
+683,35877056,Axel,AxelOficial,2009-04-27T22:02:09.000Z,FALSE,TRUE,"Buenos Aires, Argentina","Cantante, Autor y Compositor Argentino IG y FB: @AxelOficial #LaMusicaNosUne",3960167,1060,21969,0
+684,500194345,كاظم الساهر  Kadim Al Sahir,KadimAlSahirORG,2012-02-22T22:06:19.000Z,FALSE,TRUE,,Kadim Al Sahir OFFICIAL Twitter account. | Official website : https://t.co/M9H4RssZf1 | Instagram account : https://t.co/nfGS0Wpnmw,7427069,9,4345,0
+685,20348773,Nil Karaibrahimgil,Niltakipte,2009-02-08T03:16:29.000Z,FALSE,FALSE,,kendi kendime konusuyorum kusura bakmiyorsunuz di mi?,2662516,299,4337,0
+686,248900032,Earvin Magic Johnson,MagicJohnson,2011-02-07T23:29:07.000Z,FALSE,TRUE,Los Angeles,The official Twitter account of Earvin “Magic” Johnson!,5327229,223,12731,0
+687,1283561876,Bastian Schweinsteiger,BSchweinsteiger,2013-03-20T15:29:50.000Z,FALSE,TRUE,Germany,"Football world champion with @DFB_Team Former player of @FCBayern, @ManUtd & @ChicagoFire Expert at @sportschau",5041242,130,2009,0
+688,171117515,Kevin Pietersen🦏,KP24,2010-07-26T16:06:52.000Z,FALSE,TRUE,,"Founder/owner - @oursorai & @umganulodge. Brand Ambassador, @betway, @Hublot.",3932867,372,10203,0
+689,6809022,Andreu Buenafuente,Buenafuente,2007-06-14T10:07:20.000Z,FALSE,TRUE,Barcelona,"""Soy muy fan tuya, pero ahora no me acuerdo cómo te llamas"" (Una desconocida, en la calle).",3634871,2827,14675,0
+690,26885308,Ashlee Simpson Ross,ashleesimpson,2009-03-26T23:23:55.000Z,FALSE,TRUE,"Los Angeles, CA",Hello. ❤️,2177011,158,1294,0
+691,119776110,Pablo Alborán,pabloalboran,2010-03-04T16:22:49.000Z,FALSE,TRUE,,Bienvenidos a la página Oficial de Pablo Alborán en Twitter. Welcome to Pablo Alborán Official Twitter page.,3762997,2268,29872,0
+692,105451020,Santiago Segura,SSantiagosegura,2010-01-16T11:20:59.000Z,FALSE,TRUE,,El 2 de Diciembre estaremos en todos los cines con “A todo tren 2”! Que no decaiga! 🤗,3282320,1391,56546,0
+693,28209292,Dr. Dre,drdre,2009-04-01T22:08:11.000Z,FALSE,TRUE,"Los Angeles, CA",This is Dr. Dre’s official Twitter page.  Dr. Dre does not tweet.,3009420,11,167,0
+694,18470958,Kat Graham,KatGraham,2008-12-30T05:31:31.000Z,FALSE,TRUE,In Pan’s Labyrinth,"UN @Refugees GWA, Long Hot Summer, Toro Gato, @Netflix everything! +1(323)310-4047",1958073,189,26313,0
+695,44196397,Elon Musk,elonmusk,2009-06-02T20:12:29.000Z,FALSE,TRUE,Hell,Twitter Complaint Hotline Operator,115169957,128,20147,0
+696,45556398,Deddy Mahendra Desta,desta80s,2009-06-08T12:43:17.000Z,FALSE,TRUE,CP: @dikaisdidit 087877991999,instagram: @desta80s,3154622,416,9788,0
+697,145499533,Missy Elliott,MissyElliott,2010-05-19T03:42:32.000Z,FALSE,TRUE,,I Stan for GOD Period! I AM THE DEFINITION of AVANT GARDE👏🏾 #COOLOFF video out NOW 🥶🔥 https://t.co/88rqLDGiNs,7044623,11686,96548,0
+698,44229128,Maria Gadú,mariagadu,2009-06-02T22:45:23.000Z,FALSE,TRUE,Brazil,"a luta pela mãe terra é a mãe de todas as lutas🌿
+Assista agora 'O Som Do Rio'",2645797,380,5678,0
+699,109213578,Solenn Heussaff,solennheussaff,2010-01-28T09:39:18.000Z,FALSE,FALSE,"Manila, Philippines",,4143844,678,23785,0
+700,78223605,Denny Cagur,DennyCagur,2009-09-29T05:14:31.000Z,FALSE,FALSE,Indonesia,Manusia ganteng stok terakhir yang manisnya alami tanpa pemanis buatan..,3071572,646,27600,0
+701,19596687,Lukas-Podolski.com,Podolski10,2009-01-27T15:26:17.000Z,FALSE,TRUE,"Zabrze, Polska",News von und mit Lukas Podolski. Schaut auch auf meine Homepage: https://t.co/zK7FnPQiEI Instagram: poldi_official,3390215,331,8984,0
+702,121046433,Rohit Sharma,ImRo45,2010-03-08T08:56:53.000Z,FALSE,TRUE,,,21234271,42,2580,0
+703,18159470,Macklemore,macklemore,2008-12-16T09:31:07.000Z,FALSE,TRUE,The Town,FAITHFUL OUT NOW 🌹,2212962,1366,18747,0
+704,153295172,William Levy,willylevy29,2010-06-08T05:05:02.000Z,FALSE,TRUE,,"NORMAL , NATURAL Y UN POQUITO ACELERADOOOOO............. Instagram: @willevy",2967231,538,4511,0
+705,38802447,Mike Epps,TheRealMikeEpps,2009-05-09T05:04:41.000Z,FALSE,TRUE,"Los Angeles, CA",Comedian/Actor/Producer,3333806,4026,36587,0
+706,163082695,Tarkan,tarkan,2010-07-05T14:14:29.000Z,FALSE,TRUE,İstanbul,https://t.co/GzCWOuA3tL https://t.co/g4mzCJ75p9 https://t.co/D1xzdSQIjC,4363011,47,586,0
+707,66458391,Craque Neto 10,10neto,2009-08-17T19:29:07.000Z,FALSE,TRUE,Brasil,"Twitter Oficial do Neto, comentarista da Rede Bandeirantes e blogueiro especialista em esportes",3843544,335,16576,0
+708,28641033,FannyLu,FannyLu,2009-04-03T20:07:00.000Z,FALSE,TRUE,Colombia,#LágrimasDeAmor👇🏻,2787596,239,11943,0
+709,19661294,The Killers,thekillers,2009-01-28T16:49:36.000Z,FALSE,TRUE,Fabulous Las Vegas,,4769368,37,1626,0
+710,21955058,mark hoppus,markhoppus,2009-02-26T01:54:14.000Z,FALSE,TRUE,"Los Angeles, CA",bassist singer person in the blink-182 and simple creatures.,2703466,15,3079,0
+711,42916821,Ha*Ash,haashoficial,2009-05-27T16:24:54.000Z,FALSE,TRUE,,#HAASHTAG  💃🏻💃🏼 #HaAshFansRule ❤️,5660719,495,13911,0
+712,117251043,German Paoloski,germanpaoloski,2010-02-25T01:07:05.000Z,FALSE,TRUE,En mi querida Bs.As,"Periodista.Conductor y Productor de G5 Contenidos,Sportscenter(ESPN) y el Noticiero de la Gente (Telefe)",3161442,403,29608,0
+713,36704352,Elizabeth Gillies,LizGillies,2009-04-30T16:29:34.000Z,FALSE,TRUE,,Dynasty season 5 is now on Netflix ✨,3382206,477,14125,0
+714,161419220,Lee Min Ho,ActorLeeMinHo,2010-06-30T20:16:29.000Z,FALSE,TRUE,"Seoul, Korea",#이민호 공식 트위터 | LEE MIN HO Official Twitter,3183408,2,909,0
+715,63485337,notch,notch,2009-08-06T17:08:06.000Z,FALSE,TRUE,,"Profile pic is kawaii af.
+Banner by @Mathep11
+Some of the jokes are original
+Please bring back alf",3656441,223,92352,0
+716,22924311,Yalın,YALINonline,2009-03-05T14:29:38.000Z,FALSE,TRUE,"Istanbul,TURKEY",https://t.co/rR0ccwimQf https://t.co/Ex9t5zeIiG https://t.co/bQjldFhav1,3225193,76,2098,0
+717,176486829,Dermot O'Leary,radioleary,2010-08-09T17:33:02.000Z,FALSE,TRUE,In your telly.,"'Are you crazy? The fall will probably kill you.' Instagram: @dermotoleary. Not the best at DMs, so please contact dermot@johnnoel.com",2674269,6655,19034,0
+718,35982046,Russell Westbrook,russwest44,2009-04-28T03:59:26.000Z,FALSE,TRUE,"Los Angeles, CA",WHY NOT ?,6948979,691,5993,0
+719,131264923,Henry Lau,henrylau89,2010-04-09T19:32:18.000Z,FALSE,TRUE,all over,Instagram : @henryl89,3436515,101,2018,0
+720,46335511,Trevor Noah,Trevornoah,2009-06-11T07:03:48.000Z,FALSE,TRUE,"New York, NY","Comedian from South Africa. I was in the crowd when Rafiki held Simba over the edge of the cliff, like an African Michael Jackson.",11853033,463,11597,0
+721,21133007,ONEREPUBLIC,OneRepublic,2009-02-17T21:31:30.000Z,FALSE,TRUE,"Colorado, California, Space","""I Ain't Worried"" from Top Gun: Maverick Out Now! ✈️",3148827,28245,15358,0
+722,108936259,arjun rampal,rampalarjun,2010-01-27T13:27:14.000Z,FALSE,TRUE,"ÜT: 19.166473,72.845918",Don’t leave things till it’s too late you are the DJ of your own Fate.,4467758,203,5902,0
+723,351535962,JKT48,officialJKT48,2011-08-09T11:36:38.000Z,FALSE,TRUE,jakarta,JKT48 is AKB48's first overseas sister group. Instagram: jkt48,4468665,298,22507,0
+724,195703895,TheFarahKhan,TheFarahKhan,2010-09-27T11:27:40.000Z,FALSE,TRUE,"Mumbai, India","Director, Producer, Choreographer, TV personality, but mainly, Mother of Triplets.",6882616,0,2777,0
+725,29842036,Ryan Sheckler,RyanSheckler,2009-04-08T22:34:29.000Z,FALSE,TRUE,"San Clemente, CA",Professional Skateboarder - @redbull | @etnies | @oakley | @indy_trucks | @Ethika | @melinbrand | @woodward | @sheckfoundation | @sandlottimes,2739829,376,4830,0
+726,128958788,Nicolas Vazquez 🇦🇷,vazqueznico,2010-04-02T18:51:58.000Z,FALSE,TRUE,Argentina,"Samurai. Actor, productor & director. 🇦🇷🎭🎥",3291846,1358,22353,0
+727,15666380,ʞɔiwbɿɒH ꙅiɿʜƆ,hardwick,2008-07-30T21:20:18.000Z,FALSE,TRUE,Lawss Angleez,"Stand-upper, Zombie Therapist, Ball Dropper, Ravenclaw, @Nerdist Inventor and ID10T",2424729,776,40363,0
+728,171840420,Álvaro Morata,AlvaroMorata,2010-07-28T08:42:37.000Z,FALSE,TRUE,,@atleti 🔴⚪️ Instagram: https://t.co/JZhgaBCPEN Facebook: https://t.co/gSOEalmBsk,4242910,877,2421,0
+729,205302299,kerry washington,kerrywashington,2010-10-20T15:26:40.000Z,FALSE,TRUE,,For new projects follow @simpsonstreet 718-400-7118,5548403,890,34731,0
+730,47263956,Rafael Cortez,cortezrafa,2009-06-15T05:00:18.000Z,FALSE,TRUE,São Paulo,"Apresentador, Ator, Músico e Comediante. Contrate: gustavo@oroboro.art.br Shows: contato@rafaelcortez.com Assine e Assista: https://t.co/JAIxYqpwfW",3384370,526,10911,0
+731,486023178,عمر الملحم  MBS,Omar_Almulhem,2012-02-07T20:52:39.000Z,FALSE,TRUE,‏Snap : Omar_Almulhem,خادم لديني ووطني ، مقدم ، ومدرب معتمد في الحوار الإعلامي ، عاشق للقهوة ، انسان بسيط ❤️ للإعلان إدارة الأعمال : 966554643089+ Oalmulhem@outlook.sa,2433560,577,59186,0
+732,46832898,Bethany Mota,BethanyMota,2009-06-13T05:18:09.000Z,FALSE,TRUE,,spooky scorpio,4716151,33877,25565,0
+733,152987149,Thiago Alcantara,Thiago6,2010-06-07T11:38:11.000Z,FALSE,TRUE,"Liverpool, England",1991. @LFC and @SeFutbol ⚽️communications and sponsorship ➡️ hello@thiagoalcantara.es Our Legacy: @alcantarafound,4477451,173,2515,0
+734,120557765,Carlos PenaVega,TheCarlosPena,2010-03-06T20:33:05.000Z,FALSE,TRUE,USA,Psalm 18:2 /Big Time Rush / PenaVega #808,2551595,1706,8848,0
+735,19743731,Alfredo Flores,AlfredoFlores,2009-01-29T23:59:18.000Z,FALSE,TRUE,,Director | Photographer For Business Inquiries • Business@9seven3.com,2419078,965,41456,0
+736,278328390,G,jackgilinsky,2011-04-07T02:12:22.000Z,FALSE,TRUE,,,2868423,12729,6177,0
+737,159068666,Carole Samaha,CAROLE_SAMAHA,2010-06-24T10:54:23.000Z,FALSE,TRUE,World,Lebanese Middle Eastern Artist - World Music Awards winner. #MaghroumiBmeen ❤️🕊️,4908244,269,41859,0
+738,17266725,Tony Robbins,TonyRobbins,2008-11-09T09:06:32.000Z,FALSE,TRUE,USA,"📈The Nation’s #1 Life & Business Strategist
+💡Entrepreneur⚡️Top Business Leader
+📚NYT Bestselling Author",3187064,1088,11700,0
+739,135901326,GARY VALENCIANO,GaryValenciano1,2010-04-22T14:11:39.000Z,FALSE,TRUE,Manila for now,,4070274,361,29092,0
+740,29611918,Kendra Wilkinson,KendraWilkinson,2009-04-08T02:07:16.000Z,FALSE,TRUE,,"mother, best selling author, real estate agent, etc.",2222093,1140,22632,0
+741,27406401,b r a n d y,4everBrandy,2009-03-29T10:11:01.000Z,FALSE,TRUE,Worldwide,#TheYearOfFullMoon20 🌚,3312680,3900,20704,0
+742,110365072,Gordon Ramsay,GordonRamsay,2010-02-01T08:31:59.000Z,FALSE,TRUE,,Always near food....,7712398,33518,24688,0
+743,45452226,Chris Gayle,henrygayle,2009-06-07T23:42:47.000Z,FALSE,TRUE,,Universe-Boss / 'Chris d Lion' IG: @chrisgayle333 https://t.co/Kv5SfGSWls,4945335,50,15140,0
+744,138388408,Joseph S Blatter,SeppBlatter,2010-04-29T12:11:15.000Z,FALSE,TRUE,Switzerland,Football Philosopher,2244406,286,2452,0
+745,69683823,Kenan Doğulu,kenandogulu,2009-08-28T20:17:26.000Z,FALSE,TRUE,Istanbul,The Official Kenan Doğulu Twitter Account // Kenan Doğulu Resmi Twitter Hesabı,2614950,354,1966,0
+746,188039706,Rory McIlroy,McIlroyRory,2010-09-07T19:51:29.000Z,FALSE,TRUE,Holywood/PBG/On the road,I hit a little white ball around a field sometimes,3233006,439,3633,0
+747,340466920,Гарик Харламов,Garik2000,2011-07-22T19:02:28.000Z,FALSE,TRUE,,По вопросам сотрудничества: +79295000006 Алексей.,2790330,177,7434,0
+748,48562147,Gisella Anastasia,gisel_la,2009-06-19T01:17:31.000Z,FALSE,FALSE,"ÜT: -6.1289266,106.6548274",i love my G :) | Dance like no one is watching | Sing like no one is listening | Love like you've never been hurt | live like it's heaven on Earth,2524124,938,15077,0
+749,197034645,Paul Walker,RealPaulWalker,2010-09-30T14:08:40.000Z,FALSE,TRUE,,"Outdoorsman, ocean addict, adrenaline junkie... and I do some acting on the side. - PW ---This profile is run by Team PW. https://t.co/jlvRkZYitX",2295903,63,2396,0
+750,190955393,Jhong hilario,jhongsample,2010-09-15T07:37:01.000Z,FALSE,FALSE,"Manila,Philippines",https://t.co/m4qqG172fW,3454911,470,13670,0
+751,190774889,Dr. Angelo Carbone,drangelocarbone,2010-09-14T20:19:09.000Z,FALSE,FALSE,São Paulo - Capital - Brasil ,CONSULTORIA JURÍDICA: +55 (11) 31130033. WhatsApp 999861600 carboneadvogado@uol.com.br,742768,161650,111228,0
+752,105838056,Flor De La Ve🏳️‍⚧️,Flordelav,2010-01-17T17:18:37.000Z,FALSE,TRUE,Argentina,https://t.co/O1Zct0JuiS #Orgullosamentetrans,2864282,1039,30156,0
+753,104969057,Ian McKellen,IanMcKellen,2010-01-14T23:29:56.000Z,FALSE,TRUE,"London, UK",My ONLY Twitter account. Beware of imposters who try to gain your confidence. Tickets for MOTHER GOOSE at https://t.co/cYuHTMm0aR,4078812,843,2958,0
+754,264058981,XIAN LIM,XianLimm,2011-03-11T07:42:11.000Z,FALSE,TRUE,,Artist/ Filmmaker/ Painter,3065403,426,22579,0
+755,230567975,Samir Nasri Official,SamNasri19,2010-12-26T00:37:34.000Z,FALSE,TRUE,"Dubai, United Arab Emirates",Ex international football player,2373388,99,632,0
+756,74622617,Zaira,zairana,2009-09-16T01:50:11.000Z,FALSE,TRUE,,#NAME?,2498525,613,15524,0
+757,15588657,Deepak Chopra,DeepakChopra,2008-07-24T20:41:29.000Z,FALSE,TRUE,Global,Founder of @chopraglobal @ChopraFNDN #Metahuman #DailyBreath #digitaldeepak #Neveralone Get your copy of #MindfulMoments through my website👇,3183721,794,82775,0
+758,22685200,Larry King,kingsthings,2009-03-03T21:44:20.000Z,FALSE,TRUE,"Los Angeles, California","Love suspenders & interviewing people. Watch #LarryKingNow & #PoliticKING. Airs Monday, Wednesday and Friday on @Hulu and @OraTV. Go Dodgers! ⚾️",2342766,886,16507,0
+759,24002803,Anggun Official,Anggun_Cipta,2009-03-12T18:43:36.000Z,FALSE,TRUE,Paris - France,Music Lover ❤ Management contact : anggunmanagement@consultant.com #elihallo available here👇,3867406,302,13995,0
+760,19671129,Ice Cube,icecube,2009-01-28T19:47:00.000Z,FALSE,TRUE,"Los Angeles, CA","West Coast Warlord
+New Mount Westmore Single ""Too Big"" https://t.co/rk2pvOOzae",5692279,309,10075,0
+761,66334209,Lara Dutta Bhupathi,LaraDutta,2009-08-17T11:34:58.000Z,FALSE,TRUE,,"One head, many hats! https://t.co/eRX6gSqHb8. @worldofarias",3282601,150,5149,0
+762,15962096,David Lynch,DAVID_LYNCH,2008-08-23T22:41:48.000Z,FALSE,TRUE,Los Angeles,"Filmmaker. Born Missoula, MT. Eagle Scout.",3257507,41,918,0
+763,176315005,LAAZCARATE,LAAZCARATE,2010-08-09T05:37:41.000Z,FALSE,FALSE,Saturno,INSTAGRAM: @laazcarateoficial Contacto laboral: laazcaratealaorden@gmail.com,4599462,296,7200,0
+764,20221159,Jeremy Piven,jeremypiven,2009-02-06T07:09:58.000Z,FALSE,TRUE,On the road ,,2208793,513,5568,0
+765,872374136,Fifth Harmony,FifthHarmony,2012-10-10T19:28:02.000Z,FALSE,TRUE,,@LaurenJauregui @AllyBrooke @DinahJane97 @Normani • #FifthHarmony available now!,4539933,21898,13333,0
+766,7861312,Felicia Day🇺🇸,feliciaday,2007-07-31T22:58:08.000Z,FALSE,TRUE,"Los Angeles, CA","Actress, New Media Geek, Author, Gamer, Misanthrope. I like to keep my Tweets real and not waste people's time. she/her",2608998,1062,40948,0
+767,317034396,Shraddha,ShraddhaKapoor,2011-06-14T10:14:40.000Z,FALSE,TRUE,"Mumbai, India.",Living the dream! 🦄🦋💫💜,14364151,273,5720,0
+768,46636018,#تركي_الدخيل,TurkiAldakhil,2009-06-12T11:57:21.000Z,FALSE,TRUE,الإمارات العربية المتحدة,سفير خادم الحرمين الشريفين لدى دولة الإمارات العربية المتحدة (حساب شخصي),3924074,3186,36190,0
+769,13,Biz Stone,biz,2006-03-21T20:51:43.000Z,FALSE,TRUE,"San Francisco, CA",Co-founder of Twitter and Medium.,2631358,1622,10032,0
+770,89303321,Oscar D' Leon,OscarDLeon,2009-11-11T22:37:47.000Z,FALSE,TRUE,Venezuela,ᴍᴀɴᴀɢᴇʀ: Zoraida Léon,2871639,2321,36354,0
+771,53732896,Tom Daley,TomDaley1994,2009-07-04T18:45:22.000Z,FALSE,TRUE,Plymouth,I'm not a swimmer! I'm a diver!!! Haha. Tom's Daily Goals is out now :) https://t.co/97T6wuGeYB,2284659,1671,8883,0
+772,32985158,Chris Colfer,chriscolfer,2009-04-18T19:33:27.000Z,FALSE,TRUE,Los Angeles,"#1 New York Times Bestselling author, Golden Globe winning actor, Member of TIME 100... still mastering motor skills. He/Him.",2119483,837,4439,0
+773,710064516,Ashley Cole,TheRealAC3,2012-07-22T04:12:33.000Z,FALSE,TRUE,,Former Professional Footballer | Coach @Everton | U21 Assistant Coach @England | Luke@10TenTalent.com,2428562,422,1285,0
+774,44527648,Chris Jericho,IAmJericho,2009-06-04T02:48:33.000Z,FALSE,TRUE,I'm from Winnipeg you idiot!,#TheWizard..... https://t.co/Kzv7gEF5UL AND Be sure to follow @TalkIsJericho @WebIsJericho,3614170,2275,73606,0
+775,69023599,Dani Bolina,Dbolina,2009-08-26T16:20:07.000Z,FALSE,TRUE,,assessoriadanibolina@gmail.com,2400496,216,24583,0
+776,16794568,Joey Graceffa,JoeyGraceffa,2008-10-15T21:19:08.000Z,FALSE,TRUE,Los Angeles,,3729336,951,27985,0
+777,37972440,Joe Sugg,Joe_Sugg,2009-05-05T17:31:55.000Z,FALSE,FALSE,London,"I didn't choose the Sugg life, the Sugg life chose me. 🎭 Joe and dianne show tickets HERE - https://t.co/vsarPgQfh8",4779365,2432,22739,0
+778,32745368,kate del castillo,katedelcastillo,2009-04-18T02:44:02.000Z,FALSE,TRUE,"Los Angeles, CA","Actress, Mexican, instagram: katedelcastillo  Starring in @AudibleTheater’s #thewayshespoke, July 8-Aug 18 https://t.co/ae1kDTBz8l",3936814,502,13195,0
+779,99008565,孫正義,masason,2009-12-24T02:26:24.000Z,FALSE,TRUE,,孫正義です。 Twitterで多くの皆さんと時空を超えて、心の繋がりが広がっていく事に感動しています。世界が平和でより多くの人々が、幸福になれる事を心から願っています。,3001700,75,6110,0
+780,332638587,Aaron Paul,aaronpaul_8,2011-07-10T05:01:54.000Z,FALSE,TRUE,,"Owner of Dos Hombres Mezcal
+Act in stuff
+Produce some things",2517694,525,29,0
+781,74712538,Paul McCartney,PaulMcCartney,2009-09-16T11:55:21.000Z,FALSE,TRUE,England,Official Paul McCartney account administered by MPL | Text me: +1(212)313-9547,4270688,17,6081,0
+782,21774892,Mandy Moore,TheMandyMoore,2009-02-24T17:39:42.000Z,FALSE,TRUE,"Los Angeles, CA","Singer-Songwriter-Actress on @NBCThisIsUs, Tuesdays 9/8c on @NBC 'In Real Life' album out now!",2312050,788,6048,0
+783,46576295,ADAM LAMBERT,adamlambert,2009-06-12T04:03:30.000Z,FALSE,TRUE,West Hollywood & WORLDWIDE,"Mad About The Boy is available to stream now!
+https://t.co/mcA2V5B9Rj
+
+Insta: @adamlambert 
+TikTok: https://t.co/DN9UbE4XcS
+Contact: info@edge-ent.com",2319563,1369,9545,0
+784,34197952,anand mahindra,anandmahindra,2009-04-22T05:40:01.000Z,FALSE,TRUE,"Mumbai, India","Chairman & Team member, Mahindra Group",10001758,291,23893,0
+785,37710752,Bill Nye,BillNye,2009-05-04T17:42:04.000Z,FALSE,TRUE,"Los Angeles, CA",Science Guy and CEO of @exploreplanets. Check out my new show 'The End is Nye' on @Peacock.,6035946,138,2580,0
+786,314547227,عُلا الفارس,OlaAlfares,2011-06-10T12:46:01.000Z,FALSE,TRUE,"London, England",Journalist | lawyer ⚖️ أُعد وأُقدم #الجانب_الآخر على شاشة الجزيرة,4878163,574,8131,0
+787,123206116,Soimah Pancawati,showimah,2010-03-15T10:10:48.000Z,FALSE,TRUE,Indonesia,Pesinden Republik Indonesia,2751249,293,9250,0
+788,144380789,Greyson Chance,greysonchance,2010-05-16T03:59:01.000Z,FALSE,TRUE,"Oklahoma, USA","New Album, Palladium Out Now. On-Tour in North America.",2463485,137718,10376,0
+789,6539592,Jim Gaffigan,JimGaffigan,2007-06-03T11:09:19.000Z,FALSE,TRUE,,Male Model. COMEDY MONSTER on Netflix. Touring with all new material on DARK PALE TOUR. My first wife is @jeanniegaffigan.,3186142,2900,21062,0
+790,24523660,Denise Richards,DENISE_RICHARDS,2009-03-15T13:33:30.000Z,FALSE,TRUE,Los Angeles,live in the moment.....,2130594,303,14539,0
+791,16302242,Stephen A Smith,stephenasmith,2008-09-15T21:19:57.000Z,FALSE,TRUE,,"The real Stephen A. Smith.                                                            
+@knowmercypod Listen NOW!
+Straight Shooter, available for pre-order",5800721,14,41158,0
+792,243662948,Richard Hammond,RichardHammond,2011-01-27T15:03:53.000Z,FALSE,TRUE,,Recently re-employed car show bloke. Has own bicycle.,3080078,136,2849,0
+793,74992460,Risto Mejide,ristomejide,2009-09-17T11:48:42.000Z,FALSE,TRUE,,"Más de 25 años trabajando en publicidad y 16 en televisión. Más de 1.000.000 de lectores en 11 libros publicados. Y aún así, no aprendo. #Concedonulli",2736870,1932,33139,0
+794,141186163,iqbaal ramadhan,iqbaale,2010-05-07T11:41:28.000Z,FALSE,TRUE,,"choose fun, always",2941081,269,5552,0
+795,44101412,Davina McCall,ThisisDavina,2009-06-02T11:25:03.000Z,FALSE,TRUE,,"hi I’m me , a work in progress https://t.co/TlQuUJRXdf 📍 https://t.co/v6s2hyDOM1",2720424,1090,46197,0
+796,1471068170,David Ospina,D_Ospina1,2013-05-31T01:38:34.000Z,FALSE,TRUE,,Arquero del Napoli y de La Seleccion Colombia 🇨🇴,3308358,341,484,0
+797,69293780,emre aydın,emreaydin,2009-08-27T13:45:05.000Z,FALSE,TRUE,İstanbul,ruhi,3169261,720,6677,0
+798,550202880,Raphaël Varane,raphaelvarane,2012-04-10T13:41:55.000Z,FALSE,TRUE,,🔴 @ManUtd 🇫🇷 @equipedefrance ⭐️⭐️ #TeamVarane,7258370,141,1672,0
+799,86962432,J Alvarez,JAlvarezFlow,2009-11-02T15:22:28.000Z,FALSE,TRUE,,https://t.co/tMJUPkqT9z,3484469,1006,72938,0
+800,25954814,Christian Bautista,xtianbautista,2009-03-23T04:44:53.000Z,FALSE,TRUE,In your heart,"Balladeer,ActionStar,GrooveMaster,Love Doctor,Dishwasher,Electrician,Handyman, Hitman,Son of God,Singer,Host,Actor- for bookings-email- orosacarlo@gmail.com",3324864,820,26745,0
+801,363961928,Carter Reynolds,carterreynolds,2011-08-29T00:12:16.000Z,FALSE,TRUE,"Los Angeles, CA",ig: @carterreynolds 📧:contactcarterreynolds@gmail.com,2545451,3577,18454,0
+802,317370751,Hélà,KyrieIrving,2011-06-14T20:50:16.000Z,FALSE,TRUE,YAHWEH,"I am never alone. God and the ancestors are always near by, I AM",4672392,497,3521,0
+803,189591533,Yosri Fouda,YosriFouda,2010-09-11T17:50:36.000Z,FALSE,TRUE,"London, England",Journalist/Author,3607717,434,4213,0
+804,55753842,Ruffa Gutierrez,iloveruffag,2009-07-11T04:08:35.000Z,FALSE,TRUE,"Manila, Philippines","Actress | TV Host | Advocate | Beauty | Lifestyle | Travel | Mom to Lorin & Venice 👑 MAID IN MALACAÑANG 🎥 Gutz & Glow, this October! ✨",3031444,148,50649,0
+805,139539038,jc the streamer,jccaylen,2010-05-02T23:22:27.000Z,FALSE,TRUE,,i strem everyday on https://t.co/m0GMIUegTE,6372886,24460,41933,0
+806,125430181,Shy'm,shymofficiel,2010-03-22T19:53:45.000Z,FALSE,TRUE,Paris,Elle danse encore // lien dans la bio,2867875,288,16313,0
+807,14353392,Anthony Bourdain,Bourdain,2008-04-10T17:46:33.000Z,FALSE,TRUE,In transit . ,Enthusiast.,6569681,709,13348,0
+808,30704824,Rachel Zoe,RachelZoe,2009-04-12T19:29:05.000Z,FALSE,TRUE,,"Designer, editor, stylist, author, mother, founder of @thezoereport. Shop my collections https://t.co/VFstzaeHEs ✨Book A Call With Me: https://t.co/3vSfVgqppo XoRZ",3507660,290,16555,0
+809,27673684,DJ KHALED,djkhaled,2009-03-30T16:29:14.000Z,FALSE,TRUE,,All inquiries : info@rocnation.com  #GODDID OUT NOW!,5632563,2031,97460,0
+810,43859592,Angelica Vale,angelicavale,2009-06-01T09:42:01.000Z,FALSE,TRUE,¡En todos lados! Everywhere!,¡Artista y feliz mamá de 2 milagritos! Artist and proud mom of 2 little miracles! ¡Muy feliz! Always happy!,2617941,1583,21935,0
+811,407977463,Jason Segel,jasonsegel,2011-11-08T20:23:30.000Z,FALSE,TRUE,,,1981775,1238,331,0
+812,114761346,andhika pratama,dhikacungkring,2010-02-16T14:38:19.000Z,FALSE,TRUE,"ÜT: -6.296833,106.776257",,2679336,309,33876,0
+813,69610339,Robbie Williams,robbiewilliams,2009-08-28T15:08:55.000Z,FALSE,TRUE,,The OFFICIAL Twitter for Robbie Williams. My brand new album ‘XXV’ is out now. ‘XXV’ Tour - 25 Years of Hits. Link in bio.,2457534,100,5629,0
+814,92727851,James May,MrJamesMay,2009-11-26T10:26:59.000Z,FALSE,TRUE,Between the two oblivions,Guess what?,3228744,267,13187,0
+815,109275593,zaheer khan,ImZaheer,2010-01-28T14:33:48.000Z,FALSE,TRUE,,Cricketer | Fitness Enthusiast | Owner of ProSport Fitness| ZaheerKhan’S Hospitality | Cheese Cake Lover| Love Mumbai |,5977078,202,1232,0
+816,272561314,Lottie Tomlinson,lottietommo,2011-03-26T19:23:56.000Z,FALSE,FALSE,"London, England",,2376590,2058,5006,0
+817,315919021,Jackson Harries,JackHarries,2011-06-12T17:15:29.000Z,FALSE,TRUE,London,"Filmmaker, Photographer, Environmentalist.",1740871,891,8636,0
+818,29898542,Kendall Schmidt,HeffronDrive,2009-04-09T02:35:33.000Z,FALSE,TRUE,Looking Up,,2171620,5396,12686,0
+819,78035324,karylle,anakarylle,2009-09-28T15:02:48.000Z,FALSE,TRUE,Republic of the Philippines,Get your 🎫 for our new musical Rodgers and Hammerstein’s CAROUSEL 🎠 See you at the new CCP Black Box 🎭     Stream FINE 🎧,4300167,1818,33430,0
+820,183731193,EL MORENO MICHAEL,elmorenomichael,2010-08-27T19:13:22.000Z,FALSE,TRUE,Venezuela ,"Actor Comedian Singer Imitator Producer, 33 Aniversario #ElReyDeLaCaracterizacion Contrataciones en larry@morenomichael.com Sigueme en Tik-Tok 👇🏽👇👇🏾MM",1279620,761,44957,0
+821,87781747,Jeremy Bieber,JeremyBieber,2009-11-05T21:00:35.000Z,FALSE,TRUE,"Ontario, Canada","Justin, Jazmyn, Jaxon, Allie and Bay #mygang aka lordrauhl spade elite!",2174219,161,6181,0
+822,22592948,Nathan Kress,NathanKress,2009-03-03T06:02:24.000Z,FALSE,TRUE,Bag End,"Zaddy // Short King // Maker of exceptional sandwiches @RadioActiveDads every Wednesday at 3pm Pacific, and new @iCarly streaming Fridays on Paramount+! Links👇",2299773,90,7805,0
+823,21787625,Hardwell,HARDWELL,2009-02-24T19:38:00.000Z,FALSE,TRUE,,REBELS NEVER DIE! https://t.co/6E3U5zM9W7,7141577,1045,12375,0
+824,278103138,Charlotte Crosby,Charlottegshore,2011-04-06T16:23:31.000Z,FALSE,TRUE,,@charlotte_show 💕 @justtattooofus 💀,2814418,3651,36642,0
+825,61091504,sarah sechan,sarseh,2009-07-29T02:39:16.000Z,FALSE,FALSE,bitter sweet universe,domesticated nonsmokerchocoholic,2420889,125,22397,0
+826,46357464,HADİSE AÇIKGÖZ,Hadise,2009-06-11T10:09:40.000Z,FALSE,TRUE,Global,#İmdat ❤️‍🔥,3475238,1,6493,0
+827,378632690,Cyril Hanouna,Cyrilhanouna,2011-09-23T14:55:32.000Z,FALSE,TRUE,"Paris, France",Compte officiel / Insta : https://t.co/uR5evSMoA3 / Facebook : https://t.co/UsSGenxbSa…,6035857,6407,14627,0
+828,391037985,Tom Hiddleston,twhiddleston,2011-10-14T23:20:46.000Z,FALSE,TRUE,,Actor.,4260259,1269,1837,0
+829,95715393,Maná,manaoficial,2009-12-09T19:36:28.000Z,FALSE,TRUE,"Guadalajara, México",BOLETOS de #ManaMexico2022 DISPONIBLES AQUÍ! 🇲🇽🖤🎸↘️,2696882,83,6813,0
+830,177345928,player/coach,CMPunk,2010-08-11T22:19:44.000Z,FALSE,TRUE,"Chicago, Illinois",Straight edge. Sweetheart. No Facebook.,2712988,351,21139,0
+831,81825702,Marcus Butler,MarcusButler,2009-10-12T12:03:58.000Z,FALSE,TRUE,,Retired YouTuber 👨‍🦳 Co-Founded nu-in ♻️,2839909,751,12204,0
+832,135064055,小嶋 陽菜,kojiharunyan,2010-04-20T06:57:44.000Z,FALSE,TRUE,Tokyo,@herlipto_info Founder & CCO 🐈 https://t.co/PJhnBqxIny,3117628,232,13473,0
+833,146985042,Andrés Cepeda,andrescepeda,2010-05-22T22:21:47.000Z,FALSE,TRUE,Colombia,Cuenta Oficial de Andrés Cepeda / Contacto Manager: manager@andrescepeda.com.co,3201616,52,18401,0
+834,139162440,Patton Oswalt,pattonoswalt,2010-05-01T19:00:10.000Z,FALSE,TRUE,Los Angeles,New @Netflix special WE ALL SCREAM now streaming!!!MINOR THREATS from @DarkHorse out now! I like making stuff. IG: pattonoswalt,4761040,4624,59609,0
+835,355708717,Triple H,TripleH,2011-08-15T19:31:15.000Z,FALSE,TRUE,"Greenwich, CT",14-Time World Champion.  Chief Content Officer @WWE.,7731466,31,7712,0
+836,113603164,Jodi Sta.Maria,JodiStaMaria,2010-02-12T11:07:15.000Z,FALSE,TRUE,,🌈❤️mother. thespian. acupuncture detoxification specialist. wanderer. dreamer. believer. ❤️🌈    IG:jodistamaria,3287519,389,14686,0
+837,95482484,Sebastian Rulli,sebastianrulli,2009-12-08T19:16:04.000Z,FALSE,TRUE,Mexico,"Actor de profesión.Conocedor de Nada y Aprendiz de Todo,Aventurero por naturaleza.Lo mejor...Padre por Amor.Contacto: pepe@pureandb.com",2942048,729,22366,0
+838,57912874,Carlos Baute,carlosbaute,2009-07-18T11:32:25.000Z,FALSE,TRUE,,Contacto: Cantautor Venezolano🇻🇪 Padre feliz y con nuevo disco,2515248,1320,9680,0
+839,48399528,Audrina Patridge,AudrinaPatridge,2009-06-18T16:18:28.000Z,FALSE,TRUE,"Los Angeles, CA",Instagram-AudrinaPatridge ~~~~,1935322,805,6738,0
+840,112057739,Danna Paola,dannapaola,2010-02-07T03:48:13.000Z,FALSE,TRUE,,❌🖤🐰Boletos #XT4S1STOUR 🔥🪩👇🏼,6640449,1087,24671,0
+841,507005731,Siyovush Dustov,siyovushdustov,2012-02-28T06:59:04.000Z,FALSE,FALSE,,,419006,95,85,0
+842,164963639,خالد الشنيف,k_alshenaif,2010-07-10T06:00:50.000Z,FALSE,TRUE,"Riyadh, Kingdom of Saudi Arabia",إعلامي سعودي مقدم برنامج #ملعب_SBC.  . العلاقات العامة alshenaif@35mm.pro,4831378,1082,58766,0
+843,333534411,Pepe,officialpepe,2011-07-11T17:54:04.000Z,FALSE,TRUE,,@adidas Team,3548292,66,502,0
+844,99564663,Levent Üzümcü,LeventUzumcu,2009-12-26T19:57:45.000Z,FALSE,TRUE,"Kolektif kabalık, keşke İzmir.","Kişisel delişmen, kapsamlı münferit",5447044,1272,50518,0
+845,23532872,NX Zero,nxzerooficial,2009-03-10T00:49:09.000Z,FALSE,TRUE,"São Paulo, SP - Brasil","Ouça agora o ""Diálogo?"" nas lojas de música e acesse a nossa nova loja virtual, com produtos exclusivos em edição limitada #NXZero20Anos",2248993,670,13264,0
+846,87118217,Shane Warne,ShaneWarne,2009-11-03T05:46:36.000Z,FALSE,TRUE,London & Melbourne ,"Ex sportsman, now play a bit of poker around the world plus tv commentary & a lover of 80’s music ❤️ This account is now run by the Warne family.",3683371,418,19373,0
+847,271890651,عدنان العرعور,AdnanAlarour,2011-03-25T11:33:54.000Z,FALSE,TRUE,,"‏‏‏الحساب الرسمي لفضيلة الشيخ عدنان العرعور
+
+{...كذلك يضرب الله الحق والباطل فأما الزبد فيذهب جفاءً وأما ما ينفع الناس فَيمكُثُ في الأرض...}",3226824,0,9100,0
+848,29268463,Dynamo,Dynamomagician,2009-04-06T19:04:23.000Z,FALSE,TRUE,"54.218124, -2.159954",Dynamo | Beyond Belief. All episodes available now on Sky One & NOW TV. See official trailer here👇,1971804,230,34878,0
+849,179530581,Booba,booba,2010-08-17T14:31:18.000Z,FALSE,TRUE,Écrivain on t'as dit!,Écrivain.,5831106,73,7167,0
+850,60576219,Mustafa Hosny,MustafaHosny,2009-07-27T12:01:36.000Z,FALSE,TRUE,Egypt,الحساب الرسمي للداعية مصطفى حسني,12426647,9,50960,0
+851,18653699,French Montana,FrencHMonTanA,2009-01-06T00:34:55.000Z,FALSE,TRUE,,Dina@SalxCo.com // French Family: https://t.co/vj99QH13fS,3067061,3451,32655,0
+852,14790817,Keith Urban,KeithUrban,2008-05-15T19:48:00.000Z,FALSE,TRUE,"Nashville, TN",“Brown Eyes Baby” & “Street Called Main” out now. See you on THE SPEED OF NOW World Tour !,4170946,5185,8611,0
+853,12078472,Xuxa Meneghel,xuxameneghel,2008-01-10T17:41:41.000Z,FALSE,TRUE,Rio de Janeiro,Twitter atualizado pela equipe do site oficial da Xuxa - https://t.co/I0sqOo7paV - https://t.co/JCPpjAMhWO - https://t.co/HtP2RrAilJ,2713723,11,5588,0
+854,28058878,Ismael Cala,cala,2009-04-01T05:39:36.000Z,FALSE,TRUE,"Miami, FL","Conferencista y Estratega de Vida.
+Creador del método #CALA.
+Tweets para #CalarElAlma con tips de liderazgo, consciencia y emprendimiento.",3174858,6803,101809,0
+855,162644645,篠田麻里子,mariko_dayo,2010-07-04T08:10:12.000Z,FALSE,TRUE,日本,篠田麻里子です♡,2386033,42,19086,0
+856,99792462,Dani Martínez,danimartinezweb,2009-12-27T22:02:30.000Z,FALSE,TRUE,España,Contacto oficina management: contratacion@artistikproducciones.com ✉️Instagram: danimartinezweb | Facebook: Dani Martínez,2421612,662,890,0
+857,16912985,Najwa Shihab,NajwaShihab,2008-10-22T21:15:07.000Z,FALSE,TRUE,"ÜT: -6.292607,106.821193","Founder https://t.co/1H5VBxjbYU
+Twitter: @narasitv",8796343,486,25843,0
+858,96187825,Adal Ramones,AdalRamones,2009-12-11T19:22:41.000Z,FALSE,TRUE," Mex, USA & Latam","Actor/Conductor, Escritor y Director de escena       Manager @nadirassis IG @AdalRamones",2692043,1677,37496,0
+859,162248086,Belal Fadl,belalfadl,2010-07-03T03:20:32.000Z,FALSE,TRUE,"New York, New York","كاتب على باب الله، إذا أغضبك ما أكتبه ارحم نفسك بالأنفولو ودع ما يغيظك إلى ما لايغيظك، تذكر دائما الحياة قصيرة.
+Egyptian writer",3762725,1066,24310,0
+860,574511063,Giovani Dos Santos,OficialGio,2012-05-08T14:19:32.000Z,FALSE,TRUE,,2santos@addictivemkt.com,3379807,506,1680,0
+861,361150095,Marco Reus,woodyinho,2011-08-24T10:02:46.000Z,FALSE,TRUE,"Dortmund, Germany",Official Account of Marco Reus - German Football Player,3062763,71,274,0
+862,38536306,bob saget,bobsaget,2009-05-07T22:40:55.000Z,FALSE,FALSE,BobSaget.com,"I like long walks on the beach...and then to be dragged through the sand by an off-road vehicle, and then hurled off a catapult.",2250669,837,3249,0
+863,22548403,Tom Felton,TomFelton,2009-03-02T22:53:32.000Z,FALSE,TRUE,,My memoir Beyond The Wand will be out October 2022.,3210383,787,10630,0
+864,43283406,Sharon Osbourne,MrsSOsbourne,2009-05-29T06:05:07.000Z,FALSE,TRUE,,,2357439,171,5936,0
+865,134234000,MARTIN GARRIX,MartinGarrix,2010-04-17T20:56:22.000Z,FALSE,TRUE,➕✖️,'Something' out now!,8443962,1068,16996,0
+866,20416406,Steve Nash,SteveNash,2009-02-09T04:44:08.000Z,FALSE,TRUE,"Brooklyn, NY",Join me at the @stevenashfdn to make the assist. Co-founder @trainwithblock,2555874,1181,4597,0
+867,59101459,Ananda Omesh,omeshomesh,2009-07-22T11:30:16.000Z,FALSE,TRUE,Indonesia,"Founder @podkesmasasia, @anomindonesia (Motorbaik, Tigrehood, Anom Management, Telapak Grup)",2320063,135,15013,0
+868,15104212,Jota Quest,jotaquest,2008-06-13T04:25:42.000Z,FALSE,TRUE,Brasil,Turnê Jota25: vem com a gente: https://t.co/8qbF4cJ9J6,3207192,648,30434,0
+869,19362341,Maria Shriver,mariashriver,2009-01-22T21:23:52.000Z,FALSE,TRUE,"Los Angeles, CA",Mama & Mama G / Open-Hearted & Open-Minded Journalist,2191723,193936,23695,0
+870,1670174994,Thomas Müller,esmuellert_,2013-08-14T10:58:28.000Z,FALSE,TRUE,München,"Offizieller Twitter-Account von Fußballspieler Thomas Müller #esmuellert #AskThomas #ThomasMueller
+Impressum: https://t.co/874kv2bgHZ",4688227,393,2720,0
+871,305935546,Yusuf Mansur,Yusuf_Mansur,2011-05-27T00:58:34.000Z,FALSE,TRUE,Jakarta Capital Region,Teacher. Digital/Social Entrepreneur. Paytren.,2940509,0,7934,0
+872,436702610,Vincent Kompany,VincentKompany,2011-12-14T13:25:26.000Z,FALSE,TRUE,"Brussels, Belgium",Proud Manager of @burnleyofficial | 17y @rscanderlecht | 11y @ManCity | 15y @BelRedDevils | @sos_children and BX Brussels believer,3006883,227,2441,0
+873,254189974,Willie Robertson,williebosshog,2011-02-18T20:01:38.000Z,FALSE,TRUE,,"Founder of Buck Commander, CEO of Duck Commander, ""Mallard"" on Masked Singer, and Avid Outdoorsman!",2045861,156,2285,0
+874,52496551,Stromae,Stromae,2009-06-30T19:43:27.000Z,FALSE,TRUE,,,2275664,26,734,0
+875,18393773,Neil Gaiman,neilhimself,2008-12-26T19:30:36.000Z,FALSE,TRUE,a bit all over the place,"will eventually grow up and get a real job. Until then, he will keep making things up and writing them down.",3099569,990,187587,0
+876,74694859,Moez Masoud,MoezMasoud,2009-09-16T09:49:49.000Z,FALSE,TRUE,Cairo I Dubai I Cambridge,"Cambridge Scholar, TV & Film Producer, Cultural Critic, occasional Singer/Songwriter, founder of Acamedia Global",3579000,1078,3427,0
+877,22657153,David Spade,DavidSpade,2009-03-03T18:37:23.000Z,FALSE,TRUE,,"This is the real, official David Spade. Any other accounts are fake.",2815425,59,5417,0
+878,27750488,Paula Abdul,PaulaAbdul,2009-03-30T22:42:25.000Z,FALSE,TRUE,"Los Angeles, CA",Forever Your Girl 💋❣️Paula,1987005,18140,26784,0
+879,612792060,Derrick Rose,drose,2012-06-19T17:20:17.000Z,FALSE,TRUE,,I’LL SHOW YOU comes out 9/10 👇🏼,2522203,35,91,0
+880,329789735,Fabio Coentrao,Fabio_Coentrao,2011-07-05T16:37:17.000Z,FALSE,TRUE,,Welcome to my official Twitter account.,2284471,5,132,0
+881,51701366,ayse ozyilmazel,ayseozyilmazel,2009-06-28T10:41:33.000Z,FALSE,TRUE,istanbul,hello@ayseozyilmazel.com,2118964,869,18958,0
+882,507672047,Fernando Alonso,alo_oficial,2012-02-28T17:35:37.000Z,FALSE,TRUE,instagram: fernandoalo_oficial,Premio Principe de Asturias 👑. Karting & Fórmula 1 & Endurance world champion 🌍🌎🌎🌎. Winner of 24h Le Mans & 24h Daytona 🏆🏆🏆. F1 driver.,3278912,134,8939,0
+883,149590738,Rebel Wilson,RebelWilson,2010-05-29T17:43:05.000Z,FALSE,TRUE,Australia,Actress / Writer / Producer / Rebel.,2641568,126,6410,0
+884,27911944,Michael Bublé,MichaelBuble,2009-03-31T17:01:38.000Z,FALSE,TRUE,"Vancouver, Canada","Devoted Papi and Husband, Keeper of The Great American Songbook, Sex Symbol and Humble Canadian and Sex Symbol.",2133505,258,3726,0
+885,62216533,Robi Domingo,robertmarion,2009-08-02T07:02:00.000Z,FALSE,TRUE,Philippines,| noun | linking verb| noun/verb/adjective | --- message me: askrobid@gmail.com,3234468,472,9568,0
+886,476946794,bonno van der putten,bonnovanderputt,2012-01-28T17:27:40.000Z,FALSE,FALSE,,Managing Director Google Ventures. Business as force for good. We aim to improve lives and change industries. VentureBeat.,435604,44141,26576,0
+887,292535614,Şahan Gökbakar,sgokbakar,2011-05-03T20:17:31.000Z,FALSE,TRUE,,"İnsan-Human/
+Baba-Dad/
+Komedyen-Comedian/
+Yapımcı-Producer",3245804,239,4664,0
+888,60050843,Luke Brooks,luke_brooks,2009-07-25T12:51:23.000Z,FALSE,TRUE,"Melbourne, Australia",🇦🇺 ✖️👻 Snapchat: littlebitofluke ✖️👨‍👨‍👦‍👦 Group: @janoskians ✖️📸 ✖️📩 business enquiries: georgepetobusiness@gmail.com,1843118,19325,14389,0
+889,26347170,Depeche Mode,depechemode,2009-03-24T22:52:15.000Z,FALSE,TRUE,"Burbank, CA (band webmaster)","From beginnings in Basildon, Essex, Depeche Mode have been creating their brand of music for over 30 years.",2206606,5626,1369,0
+890,55117855,Amy Schumer,amyschumer,2009-07-09T02:45:03.000Z,FALSE,TRUE,nyc,2022 tour dates on sale now! Get tickets here: https://t.co/7eyPdjXFYK,4371663,1900,242,0
+891,112508240,Craig Ferguson,CraigyFerg,2010-02-08T19:14:33.000Z,FALSE,TRUE,🏴󠁧󠁢󠁳󠁣󠁴󠁿🇺🇸,,2609367,230,3020,0
+892,967748192,Fatin Shidqia Lubis,FatinSL,2012-11-24T10:12:18.000Z,FALSE,TRUE,Jakarta,I love kawaii stuffs! 🥺 Sony Music Indonesia. Contact person: (Airin) +62 818-0888-0878,2985881,4298,10487,0
+893,161199279,ЗАДОРНОВа команда,mnzadornov,2010-06-30T06:52:56.000Z,FALSE,FALSE,,Официальный аккаунт Михаила Задорнова продолжают вести его друзья. «Твиттописец» с 2015 г. — Гарри Польский.,2408253,16,6906,0
+894,38403110,Ayushmann Khurrana,ayushmannk,2009-05-07T09:47:36.000Z,FALSE,TRUE,Mumbai,Instagram - https://t.co/j45i2RMOEL,6002343,698,22406,0
+895,38127255,BIRDMAN,BIRDMAN5STAR,2009-05-06T06:16:46.000Z,FALSE,TRUE,,THE OFFICIAL TWITTER PAGE OF THE #1 STUNNA..YMCMB TIL I DIE,2431445,402,10556,0
+896,46196327,Dani Suzuki,danisuzuki,2009-06-10T19:09:50.000Z,FALSE,TRUE,Brasil,Sou um pouco de você e uma parte de nós. https://t.co/xQilM812pd contato p/ trabalho:https://t.co/KF1RGrwo4V instagram:danisuzuki https://t.co/bJhcE3nwjg,2317992,372,9406,0
+897,63172203,Kylie Minogue,kylieminogue,2009-08-05T16:03:32.000Z,FALSE,TRUE,Global,,2204959,127,14313,0
+898,155705264,Zedd,Zedd,2010-06-14T21:53:37.000Z,FALSE,TRUE,Los Angeles,,7668060,589,35788,0
+899,130991061,Troian,SleepintheGardn,2010-04-08T23:29:12.000Z,FALSE,TRUE,LA,Actor. Writer. Poet. Dancer. Rock and Roll Jesus. (sometimes I play this chick Spencer Hastings on this show Pretty Little Liars). But only sometimes. (She/her),2291523,461,8336,0
+900,24275419,juicy j,therealjuicyj,2009-03-13T22:59:30.000Z,FALSE,TRUE,"Memphis, TN",Academy Award Winner🏆 for booking: Ray 9012920795,2890076,1659,47431,0
+901,31547933,Manu Gavassi,manugavassi,2009-04-15T22:44:52.000Z,FALSE,TRUE,Brasil,https://t.co/GjAQ4zLbJx,6497618,680,43051,0
+902,118153646,Viktor Axelsen,ViktorAxelsen,2010-02-27T19:31:59.000Z,FALSE,FALSE,"Dubai, United Arab Emirates",Badminton Player #YonexBadminton athlete - 2017 and 2022 World Champion - 2020 Tokyo Olympics Gold Medalist. Busy chasing dreams.,129755,439,4276,0
+903,231940675,HK Vittinghus,hkvittinghus,2010-12-29T21:59:25.000Z,FALSE,FALSE,"Vallensbæk, Danmark","Professional 🏸 player, Inter ⚽️ and Chiefs 🏈 fan from Denmark - Sponsored by FZ Forza! Traveling the world and loving it! 🌎❤️",28590,452,12973,0
+904,30343566,Alisha Rai,AlishaRai,2009-04-10T23:42:19.000Z,FALSE,FALSE,U.S.,"Author & attorney. Seen on NPR, Oprah Mag, Cosmo, EW, WaPo, Shondaland, NYT & bookshelves. Uh-leesh-aah Rye. On a Twitter break, follow me on TikTok or IG!",27479,523,12572,0
+905,253306038,Alyssa Harad (M: @alyssaharad@zirk.us),alyssaharad,2011-02-16T23:58:58.000Z,FALSE,FALSE,,"Writer. #FlowerReport anchor. Tired Covid Cassandra. I live in a box of paints. ✍️ COMING TO MY SENSES (Penguin), @KenyonReview @thenation @JewishQuarterly etc.",10602,3612,297684,0
+906,8985762,Amy Spalding,theames,2007-09-20T00:49:05.000Z,FALSE,FALSE,Los Angeles,"Eyes! Hair! Mouth! Figure! Dress! Voice! Style! Movement! Hands! Magic! Rings! Glamour! Face! Diamonds! Excitement! Author, Gen X Scorpio. she/her/hers",6619,2024,127013,0
+907,56493582,Chantel Acevedo,chantelacevedo,2009-07-13T21:08:54.000Z,FALSE,FALSE,"Miami, FL","Adult novels: A FALLING STAR, THE DISTANT MARVELS, THE LIVING INFINITE
+Novels for children: MUSE SQUAD duology, THE CURSE ON SPECTACLE KEY",2997,1167,21969,0
+908,17116809,Courtney Milan 🦖,courtneymilan,2008-11-02T17:15:58.000Z,FALSE,FALSE,"I dunno, I'm probably lost","I write books about carriages, corsets, and smartwatches. Mother of dinosaurs 🦖🦕. 羽生結弦 fan. ISU anti. She/her. The dinosaurs are trans. I am cis.",65723,1482,10392,0
+909,2795381,Tim Schmoyer,timschmoyer,2007-03-29T05:53:52.000Z,FALSE,FALSE,"Cincinnati, OH","I'm living a story as a husband, homeschool dad, and YouTube strategy coach to 2 million creators at @vidIQ. I help creators spread messages that change lives.",16650,1022,29751,0
+910,862212176,Everyday Shortcuts,EvrydayShortcut,2012-10-04T23:43:10.000Z,FALSE,FALSE,Ohio,"PR Friendly Lifestyle Blogger, Mom of 3  & eBook Author. #Ohio #Travel #Disneyfan #Lifestyle #Food #Movies  #StarWarsGeek",44241,28736,137224,0
+911,911766210,The Typical Mom,TheTypical_Mom,2012-10-29T05:08:12.000Z,FALSE,FALSE,"Hayden, ID",Lifestyle Blogger | Traveler | Foodie | Mom 💌:justine@thetypicalmom.com ☕️Family of 5 in #NorthernIdaho = #foodie who loves to #travel and cook.,41776,30709,165383,0
+912,118153646,Viktor Axelsen,ViktorAxelsen,2010-02-27T19:31:59.000Z,FALSE,FALSE,"Dubai, United Arab Emirates",Badminton Player #YonexBadminton athlete - 2017 and 2022 World Champion - 2020 Tokyo Olympics Gold Medalist. Busy chasing dreams.,129755,439,4276,0
+913,231940675,HK Vittinghus,hkvittinghus,2010-12-29T21:59:25.000Z,FALSE,FALSE,"Vallensbæk, Danmark","Professional 🏸 player, Inter ⚽️ and Chiefs 🏈 fan from Denmark - Sponsored by FZ Forza! Traveling the world and loving it! 🌎❤️",28590,452,12973,0
+914,30343566,Alisha Rai,AlishaRai,2009-04-10T23:42:19.000Z,FALSE,FALSE,U.S.,"Author & attorney. Seen on NPR, Oprah Mag, Cosmo, EW, WaPo, Shondaland, NYT & bookshelves. Uh-leesh-aah Rye. On a Twitter break, follow me on TikTok or IG!",27479,523,12572,0
+915,253306038,Alyssa Harad (M: @alyssaharad@zirk.us),alyssaharad,2011-02-16T23:58:58.000Z,FALSE,FALSE,,"Writer. #FlowerReport anchor. Tired Covid Cassandra. I live in a box of paints. ✍️ COMING TO MY SENSES (Penguin), @KenyonReview @thenation @JewishQuarterly etc.",10602,3612,297684,0
+916,8985762,Amy Spalding,theames,2007-09-20T00:49:05.000Z,FALSE,FALSE,Los Angeles,"Eyes! Hair! Mouth! Figure! Dress! Voice! Style! Movement! Hands! Magic! Rings! Glamour! Face! Diamonds! Excitement! Author, Gen X Scorpio. she/her/hers",6619,2024,127013,0
+917,56493582,Chantel Acevedo,chantelacevedo,2009-07-13T21:08:54.000Z,FALSE,FALSE,"Miami, FL","Adult novels: A FALLING STAR, THE DISTANT MARVELS, THE LIVING INFINITE
+Novels for children: MUSE SQUAD duology, THE CURSE ON SPECTACLE KEY",2997,1167,21969,0
+918,17116809,Courtney Milan 🦖,courtneymilan,2008-11-02T17:15:58.000Z,FALSE,FALSE,"I dunno, I'm probably lost","I write books about carriages, corsets, and smartwatches. Mother of dinosaurs 🦖🦕. 羽生結弦 fan. ISU anti. She/her. The dinosaurs are trans. I am cis.",65723,1482,10392,0
+919,2795381,Tim Schmoyer,timschmoyer,2007-03-29T05:53:52.000Z,FALSE,FALSE,"Cincinnati, OH","I'm living a story as a husband, homeschool dad, and YouTube strategy coach to 2 million creators at @vidIQ. I help creators spread messages that change lives.",16650,1022,29751,0
+920,862212176,Everyday Shortcuts,EvrydayShortcut,2012-10-04T23:43:10.000Z,FALSE,FALSE,Ohio,"PR Friendly Lifestyle Blogger, Mom of 3  & eBook Author. #Ohio #Travel #Disneyfan #Lifestyle #Food #Movies  #StarWarsGeek",44241,28736,137224,0
+921,911766210,The Typical Mom,TheTypical_Mom,2012-10-29T05:08:12.000Z,FALSE,FALSE,"Hayden, ID",Lifestyle Blogger | Traveler | Foodie | Mom 💌:justine@thetypicalmom.com ☕️Family of 5 in #NorthernIdaho = #foodie who loves to #travel and cook.,41776,30709,165383,0
