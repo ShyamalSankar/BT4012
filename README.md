@@ -18,7 +18,7 @@ Information about the folders:
 
 * In this folder, we perform feature engineering of text specific to each machine learning model used and pick a machine learning model that can best classify a tweet as a human written tweet or a bot written tweet. The optimal model is picked and saved in the flask folder.
 
-**5. Webscrapping**
+**5. Web Scrapping**
 * Here, we perform webscrapping using the tweepy API to obtain the relevant features for each account.
 
 **6. flask**
