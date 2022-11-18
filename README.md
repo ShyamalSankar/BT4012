@@ -23,3 +23,15 @@ Information about the folders:
 
 **6. flask**
 * In this folder, we deploy the best machine learning models found during experimentation in a local flask environment. The instructions for usage are listed later.
+
+# Flask usage instructions
+Pull this repository into your local machine. Once this is done, you can install create a python virtual environment. See https://docs.python.org/3/library/venv.html for instructions to create one. Then, activate the virtual environment and then run the following command to install the required python dependencies after navigating to the flask directory:
+```
+pip install -r requirements.txt
+```
+
+Then, once the python packages have finished installing, you can start a flask server locally using the following command (again, ensure that you are in the flask directory).
+
+```
+python botdetection.py
+```
