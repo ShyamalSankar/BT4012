@@ -3,10 +3,12 @@ This project aims to be able to differentiate bot accounts from human accounts u
 
 Information about the folders:
 
-1. **ETL + EDA (Features)** \\
+1. **ETL + EDA (Features)**
+
 In this repository, we perform some data preprocessing and feature selection based on the features (for the metadata dataset) obtained for each bot/or human account in the webscrapping stage. We also perform exploratory data analysis on the features to attempt to see any interesting patterns in the data. We aim to get some insights into the characteristics of the metadata for the bot accounts and the human accounts respectively.
 
-2. ETL + EDA (Text)
+2. **ETL + EDA (Text)**
+
 In this folder, we perform exploratory data analysis on the tweets in order to get insight into the content of bot generated tweets vs human generated tweets. We also combine the train, val and test datasets originally obtained.
 
 3. Model (Features)
