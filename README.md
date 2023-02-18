@@ -1,4 +1,4 @@
-#Twitter bot detection
+# Twitter bot detection
 This project aims to be able to differentiate bot accounts from human accounts using account metadata and to be able to differentiate bot generated tweets from human generated tweets based on the textual content in the tweet. We therefore aim to deploy 2 different models, namely one model that classifies an account as a bot account or a human account based on account metadata and another model that classifies a tweet as a human written tweet or a bot generated tweet.
 
 Information about the folders:
